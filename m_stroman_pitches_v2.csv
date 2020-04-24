@@ -1,0 +1,3046 @@
+pitch_type,prev_vel,prev_zone,prev_type,stand,balls,strikes,runner,outs_when_up,inning,run_diff
+2-Seam Fastball,94.3,14,B,R,1,0,0,0,1,0
+2-Seam Fastball,93.4,14,B,R,2,0,0,0,1,0
+4-Seam Fastball,93.5,14,B,R,3,0,0,0,1,0
+2-Seam Fastball,94.1,14,B,R,0,0,1,0,1,0
+2-Seam Fastball,94.1,5,X,R,0,0,1,1,1,0
+Slider,93.8,4,S,R,0,1,1,1,1,0
+2-Seam Fastball,87.2,14,B,R,1,1,1,1,1,0
+2-Seam Fastball,93.7,14,B,R,2,1,1,1,1,0
+Slider,93.5,5,X,L,0,0,0,0,2,0
+4-Seam Fastball,83.8,7,S,L,0,1,0,0,2,0
+4-Seam Fastball,91.3,3,S,L,0,2,0,0,2,0
+2-Seam Fastball,93.3,2,X,L,0,0,0,1,2,0
+Slider,93.4,11,B,L,1,0,0,1,2,0
+Changeup,81.8,13,B,L,2,0,0,1,2,0
+2-Seam Fastball,83.2,13,B,L,3,0,0,1,2,0
+2-Seam Fastball,92.9,5,S,L,3,1,0,1,2,0
+Cutter,93.1,1,B,L,0,0,1,1,2,0
+Cutter,91.8,6,S,L,0,1,1,1,2,0
+Slider,91.6,5,S,L,0,2,1,1,2,0
+2-Seam Fastball,85.2,11,B,L,1,2,0,2,2,0
+Slider,93.1,14,B,L,2,2,0,2,2,0
+Slider,86.2,7,S,R,0,0,0,0,3,0
+Cutter,85.3,7,S,R,0,1,0,0,3,0
+2-Seam Fastball,90.4,14,B,R,1,1,0,0,3,0
+Slider,93.3,14,B,R,2,1,0,0,3,0
+Slider,82.9,14,S,R,2,2,0,0,3,0
+Slider,85.1,13,B,R,3,2,0,0,3,0
+2-Seam Fastball,83.5,5,S,R,0,0,0,1,3,0
+2-Seam Fastball,93.1,8,X,R,0,0,0,2,3,0
+Slider,93.5,8,S,R,0,1,0,2,3,0
+Changeup,88.4,14,B,R,1,1,0,2,3,0
+Slider,84.5,14,B,R,2,1,0,2,3,0
+Cutter,86.1,9,S,R,2,2,0,2,3,0
+2-Seam Fastball,90.5,12,B,R,3,2,0,2,3,0
+Slider,92.7,6,X,R,0,0,0,0,4,0
+Cutter,83.2,8,S,R,0,1,0,0,4,0
+4-Seam Fastball,89.3,14,S,R,0,2,0,0,4,0
+Cutter,92.6,4,X,R,0,0,0,1,4,0
+2-Seam Fastball,91.7,13,B,R,1,0,0,1,4,0
+Slider,92.9,11,B,R,2,0,0,1,4,0
+2-Seam Fastball,84.1,14,B,R,3,0,0,1,4,0
+2-Seam Fastball,92.7,11,B,R,0,0,1,1,4,0
+2-Seam Fastball,92.7,7,S,R,0,1,1,1,4,0
+Cutter,92.4,7,X,L,0,0,1,2,4,0
+Changeup,92.6,14,S,L,0,1,1,2,4,0
+4-Seam Fastball,85.8,13,S,L,0,2,1,2,4,0
+Slider,93.1,3,S,L,0,2,1,2,4,0
+Cutter,84.9,13,B,L,1,2,1,2,4,0
+Slider,90.7,4,X,L,0,0,0,0,5,0
+Cutter,83.5,4,S,L,0,1,0,0,5,0
+2-Seam Fastball,91.3,12,B,L,1,1,0,0,5,0
+Slider,92.8,2,B,L,2,1,0,0,5,0
+Cutter,82.3,14,S,L,2,2,0,0,5,0
+2-Seam Fastball,91.5,1,S,L,0,0,0,1,5,0
+Cutter,93.7,14,B,L,1,0,0,1,5,0
+2-Seam Fastball,91.9,12,S,L,1,1,0,1,5,0
+2-Seam Fastball,92.7,14,B,L,2,1,0,1,5,0
+Slider,92.4,14,B,L,3,1,0,1,5,0
+Slider,84.3,14,S,L,3,2,0,1,5,0
+Changeup,85.1,8,S,R,0,0,0,2,5,0
+Cutter,82.4,5,S,R,0,1,0,2,5,0
+Slider,91.7,14,B,R,1,1,0,2,5,0
+Slider,84.8,5,S,R,1,2,0,2,5,0
+2-Seam Fastball,86,14,S,R,0,0,0,0,6,0
+Slider,92.6,13,B,R,1,0,0,0,6,0
+Cutter,84.9,9,S,R,1,1,0,0,6,0
+Slider,92,9,S,R,1,2,0,0,6,0
+2-Seam Fastball,84.3,14,B,R,2,2,0,0,6,0
+Slider,92.3,14,B,R,3,2,0,0,6,0
+2-Seam Fastball,83,14,B,R,0,0,1,0,6,0
+2-Seam Fastball,92.5,9,S,R,0,1,1,0,6,0
+Cutter,92.6,13,B,R,1,1,1,0,6,0
+2-Seam Fastball,91.4,2,X,R,0,0,1,1,6,0
+Slider,93.6,14,B,R,1,0,1,1,6,0
+4-Seam Fastball,84.4,13,S,R,1,1,1,1,6,0
+Slider,92.3,5,S,R,1,2,1,1,6,0
+Cutter,85.9,14,S,R,0,0,1,2,6,0
+2-Seam Fastball,89.9,5,X,R,0,0,1,2,6,0
+2-Seam Fastball,92.4,13,X,L,0,0,0,0,7,0
+4-Seam Fastball,92.7,13,B,L,1,0,0,0,7,0
+2-Seam Fastball,91.3,8,S,L,1,1,0,0,7,0
+Slider,92,9,X,L,0,0,1,0,7,0
+Slider,84.9,14,B,L,1,0,1,0,7,0
+Slider,82.9,14,S,L,1,1,1,0,7,0
+Cutter,85.8,14,B,L,2,1,1,0,7,0
+2-Seam Fastball,91.1,2,B,L,3,1,1,0,7,0
+Slider,92.5,5,X,L,0,0,1,1,7,0
+Slider,84.6,13,B,L,1,0,1,1,7,0
+4-Seam Fastball,85.6,14,S,L,1,1,1,1,7,0
+2-Seam Fastball,91.8,14,B,L,2,1,1,1,7,0
+2-Seam Fastball,92,5,X,R,0,0,1,2,7,0
+Slider,92.4,9,S,R,0,1,1,2,7,0
+Slider,85.3,14,S,R,0,2,1,2,7,0
+2-Seam Fastball,85.7,14,S,L,0,0,0,0,1,0
+Slider,92.9,11,B,L,1,0,0,0,1,0
+4-Seam Fastball,82.9,14,S,L,1,1,0,0,1,0
+Slider,91.2,9,S,L,1,2,0,0,1,0
+4-Seam Fastball,85.7,8,S,L,1,2,0,0,1,0
+Slider,91,11,X,L,0,0,0,1,1,0
+2-Seam Fastball,78.6,11,B,L,1,0,0,1,1,0
+4-Seam Fastball,93.2,7,X,L,0,0,0,2,1,0
+Cutter,94.5,9,S,L,0,1,0,2,1,0
+Slider,92.3,3,S,L,0,2,0,2,1,0
+Slider,83.9,14,B,L,1,2,0,2,1,0
+2-Seam Fastball,85.5,14,B,L,2,2,0,2,1,0
+Slider,92.6,14,B,L,3,2,0,2,1,0
+Slider,85.8,7,X,R,0,0,0,0,2,0
+2-Seam Fastball,83.5,6,S,R,0,1,0,0,2,0
+2-Seam Fastball,92.4,7,X,L,0,0,0,1,2,0
+Slider,92.5,13,B,L,1,0,0,1,2,0
+Cutter,84.5,14,S,L,1,1,0,1,2,0
+2-Seam Fastball,91.2,12,X,R,0,0,0,2,2,0
+2-Seam Fastball,92.6,9,S,R,0,1,0,2,2,0
+Slider,92.9,12,B,R,1,1,0,2,2,0
+Slider,85.3,14,B,R,2,1,0,2,2,0
+2-Seam Fastball,84.6,14,B,R,3,1,0,2,2,0
+2-Seam Fastball,92.8,5,X,L,0,0,1,2,2,0
+2-Seam Fastball,92,1,S,L,0,1,1,2,2,0
+Slider,91.7,5,S,L,0,2,1,2,2,0
+2-Seam Fastball,86.3,13,B,L,1,2,1,2,2,0
+Changeup,92.6,2,S,R,0,0,0,0,3,0
+Cutter,82,1,S,R,0,1,0,0,3,0
+Slider,90.8,12,S,R,0,2,0,0,3,0
+Cutter,86.4,14,B,R,1,2,0,0,3,0
+Slider,90.7,12,X,R,0,0,1,0,3,0
+2-Seam Fastball,84.1,8,S,R,0,1,1,0,3,0
+2-Seam Fastball,92.5,11,X,L,0,0,1,0,3,0
+2-Seam Fastball,93.2,4,S,L,0,1,1,0,3,0
+Slider,93,12,B,L,1,1,1,0,3,0
+Cutter,84.4,11,B,L,2,1,1,0,3,0
+Cutter,91.2,14,S,L,2,2,1,0,3,0
+Slider,91.4,2,X,L,0,0,1,2,3,0
+Slider,83.9,1,S,L,0,1,1,2,3,0
+Slider,85.4,14,B,L,1,1,1,2,3,0
+Slider,84.4,5,X,L,0,0,0,0,4,0
+Slider,84.2,11,B,L,1,0,0,0,4,0
+Cutter,83.3,4,X,R,0,0,1,0,4,0
+4-Seam Fastball,91.7,2,S,R,0,1,1,0,4,0
+Slider,93.7,7,S,R,0,2,1,0,4,0
+Cutter,86.9,5,S,R,0,2,1,0,4,0
+Slider,91.6,6,S,R,0,2,0,1,4,0
+Changeup,87.9,14,S,L,0,0,0,2,4,0
+2-Seam Fastball,84.7,13,B,L,1,0,0,2,4,0
+2-Seam Fastball,91.9,8,S,L,1,1,0,2,4,0
+Slider,93.1,13,B,L,2,1,0,2,4,0
+Cutter,84.6,5,X,R,0,0,1,2,4,0
+Cutter,90.7,3,S,R,0,1,1,2,4,0
+Cutter,90,14,B,R,1,1,1,2,4,0
+Slider,92.3,3,S,R,1,2,1,2,4,0
+2-Seam Fastball,86.7,14,B,R,2,2,1,2,4,0
+Slider,92.8,12,S,L,0,0,0,0,5,0
+Cutter,83.6,11,B,L,1,0,0,0,5,0
+2-Seam Fastball,91.4,11,B,L,2,0,0,0,5,0
+2-Seam Fastball,92.8,1,S,L,2,1,0,0,5,0
+2-Seam Fastball,93.3,14,S,L,2,2,0,0,5,0
+2-Seam Fastball,93.1,11,S,R,0,0,0,1,5,0
+2-Seam Fastball,92.9,13,B,R,1,0,0,1,5,0
+2-Seam Fastball,93.1,5,S,R,1,1,0,1,5,0
+Slider,92.8,7,S,R,1,2,0,1,5,0
+Curveball,84.7,14,S,R,0,0,0,2,5,0
+2-Seam Fastball,74.3,13,B,R,1,0,0,2,5,0
+Slider,93.1,14,B,R,2,0,0,2,5,0
+Slider,85.1,3,S,R,2,1,0,2,5,0
+Slider,83.9,14,S,R,2,2,0,2,5,0
+Cutter,84.9,14,S,R,2,2,0,2,5,0
+Cutter,91.1,14,X,L,0,0,1,2,5,0
+2-Seam Fastball,91.3,12,B,L,1,0,1,2,5,0
+2-Seam Fastball,93,11,B,L,2,0,1,2,5,0
+Cutter,92.7,5,X,L,0,0,0,0,6,0
+Slider,90.9,11,B,L,1,0,0,0,6,0
+Changeup,82.9,5,S,L,1,1,0,0,6,0
+2-Seam Fastball,83.9,14,B,L,2,1,0,0,6,0
+Cutter,93.3,4,X,L,0,0,1,0,6,0
+Cutter,91,11,B,L,1,0,1,0,6,0
+2-Seam Fastball,91.3,14,B,L,2,0,1,0,6,0
+Cutter,92.5,11,B,L,3,0,1,0,6,0
+2-Seam Fastball,91.3,9,S,L,3,1,1,0,6,0
+Cutter,92.6,5,S,L,3,2,1,0,6,0
+Slider,91.2,14,X,R,0,0,1,0,6,-1
+Cutter,85.5,11,B,R,1,0,1,0,6,-1
+2-Seam Fastball,90.8,14,S,R,1,1,1,0,6,-1
+4-Seam Fastball,92.1,14,B,R,2,1,1,0,6,-1
+Slider,92.4,14,B,R,3,1,1,0,6,-1
+Slider,85,14,S,R,3,2,1,0,6,-1
+Slider,85.3,6,S,R,3,2,1,0,6,-1
+Slider,84.5,14,X,L,0,0,1,0,6,-2
+Cutter,83,8,S,L,0,1,1,0,6,-2
+Slider,91.4,14,X,R,0,0,0,2,6,-2
+Slider,84.1,14,S,R,0,1,0,2,6,-2
+4-Seam Fastball,84.8,8,S,R,0,2,0,2,6,-2
+Cutter,93.2,12,B,R,1,2,0,2,6,-2
+2-Seam Fastball,90.6,11,B,R,2,2,0,2,6,-2
+Slider,91.8,2,S,R,2,2,0,2,6,-2
+2-Seam Fastball,84.8,14,B,R,3,2,0,2,6,-2
+Cutter,92,14,B,L,0,0,0,0,1,0
+2-Seam Fastball,91.5,12,B,L,1,0,0,0,1,0
+Slider,93.1,8,S,L,1,1,0,0,1,0
+Slider,85.5,1,S,L,1,2,0,0,1,0
+Changeup,84.3,8,S,L,1,2,0,0,1,0
+Cutter,85.4,11,B,L,2,2,0,0,1,0
+2-Seam Fastball,91.3,11,B,L,3,2,0,0,1,0
+2-Seam Fastball,92.9,8,S,L,0,0,0,1,1,0
+Slider,94.1,5,X,L,0,0,0,2,1,0
+Cutter,82.8,1,S,L,0,1,0,2,1,0
+2-Seam Fastball,91.9,3,S,L,0,2,0,2,1,0
+Slider,93.1,2,X,L,0,0,1,2,1,0
+4-Seam Fastball,85.4,7,S,L,0,1,1,2,1,0
+Cutter,90.7,11,B,L,1,1,1,2,1,0
+Slider,91.5,3,S,L,1,2,1,2,1,0
+4-Seam Fastball,86.2,14,B,L,2,2,1,2,1,0
+Cutter,93.5,1,X,L,0,0,1,2,1,-1
+Cutter,90.1,3,S,L,0,1,1,2,1,-1
+2-Seam Fastball,90.8,3,X,R,0,0,1,2,1,-2
+2-Seam Fastball,91.6,9,B,R,1,0,1,2,1,-2
+2-Seam Fastball,92.7,4,S,R,1,1,1,2,1,-2
+Slider,92.2,8,X,L,0,0,0,0,2,-2
+Changeup,83.6,1,S,L,0,1,0,0,2,-2
+Slider,85.8,8,S,L,0,2,0,0,2,-2
+Slider,83.2,6,S,L,0,2,0,0,2,-2
+Slider,81.8,13,S,L,0,0,0,1,2,-2
+Cutter,82.8,5,S,L,0,1,0,1,2,-2
+Slider,91.4,3,S,L,0,2,0,1,2,-2
+Slider,84.2,7,S,R,0,0,0,2,2,-2
+2-Seam Fastball,85.7,7,S,R,0,1,0,2,2,-2
+Slider,92.9,6,S,R,0,2,0,2,2,-2
+Slider,85.3,14,B,R,1,2,0,2,2,-2
+2-Seam Fastball,85.5,6,X,L,0,0,0,0,3,-2
+Slider,92.9,11,B,L,1,0,0,0,3,-2
+Slider,84.6,14,S,L,1,1,0,0,3,-2
+Changeup,84.9,6,S,L,1,2,0,0,3,-2
+2-Seam Fastball,87.5,13,B,L,2,2,0,0,3,-2
+Slider,93.3,8,S,L,0,0,0,1,3,-2
+Slider,85,14,B,L,1,0,0,1,3,-2
+Slider,87.3,14,S,L,1,1,0,1,3,-2
+Slider,87.2,13,S,L,1,2,0,1,3,-2
+Cutter,83.9,13,B,L,2,2,0,1,3,-2
+2-Seam Fastball,91.2,5,X,L,0,0,0,2,3,-2
+2-Seam Fastball,92.4,13,B,L,1,0,0,2,3,-2
+Slider,92.5,13,B,L,2,0,0,2,3,-2
+Slider,81.3,4,S,L,2,1,0,2,3,-2
+Slider,84.2,2,S,L,2,2,0,2,3,-2
+2-Seam Fastball,81,13,B,L,3,2,0,2,3,-2
+Cutter,91.4,8,X,L,0,0,0,0,4,-2
+Slider,90.6,11,B,L,1,0,0,0,4,-2
+Slider,84.9,11,B,L,2,0,0,0,4,-2
+4-Seam Fastball,82.9,5,X,L,0,0,0,1,4,-2
+4-Seam Fastball,93.3,11,B,L,1,0,0,1,4,-2
+4-Seam Fastball,92.5,3,B,L,2,0,0,1,4,-2
+4-Seam Fastball,92.6,6,X,R,0,0,1,1,4,-2
+Slider,92.4,7,S,R,0,1,1,1,4,-2
+Slider,85.8,8,S,R,0,2,1,1,4,-2
+Slider,86.7,14,B,R,1,2,1,1,4,-2
+2-Seam Fastball,86.5,14,B,R,2,2,1,1,4,-2
+Slider,93.2,14,B,R,3,2,1,1,4,-2
+Slider,84.8,5,X,L,0,0,1,2,4,-2
+2-Seam Fastball,84.9,14,S,L,0,1,1,2,4,-2
+Slider,92.5,8,S,L,0,2,1,2,4,-2
+Slider,84.9,13,B,L,1,2,1,2,4,-2
+Changeup,86,14,S,L,0,0,0,0,5,-2
+2-Seam Fastball,84.3,11,B,L,1,0,0,0,5,-2
+Slider,92.9,14,B,L,2,0,0,0,5,-2
+2-Seam Fastball,83.1,11,B,L,3,0,0,0,5,-2
+Slider,92.7,13,B,R,0,0,1,0,5,-2
+2-Seam Fastball,85.6,8,S,R,0,1,1,0,5,-2
+Slider,92.5,13,S,R,0,2,1,0,5,-2
+2-Seam Fastball,86.7,14,S,R,0,2,1,0,5,-2
+Slider,92.2,13,B,R,1,2,1,0,5,-2
+2-Seam Fastball,84.7,14,S,R,1,2,1,0,5,-2
+Slider,92.3,13,S,R,1,2,1,0,5,-2
+2-Seam Fastball,85.2,14,B,R,2,2,1,0,5,-2
+2-Seam Fastball,92.5,14,S,L,0,0,1,1,5,-2
+Slider,92.2,14,S,L,0,1,1,1,5,-2
+Slider,86.1,11,B,L,1,1,1,1,5,-2
+Slider,83.5,7,X,L,0,0,1,2,5,-2
+Slider,84.1,13,S,L,0,1,1,2,5,-2
+Changeup,86.2,7,X,L,0,0,1,2,5,-3
+Changeup,86.3,1,X,L,0,0,0,0,6,-3
+Cutter,85,11,B,L,1,0,0,0,6,-3
+Cutter,90.3,12,B,L,2,0,0,0,6,-3
+2-Seam Fastball,89.9,11,B,L,3,0,0,0,6,-3
+Slider,92.4,1,S,L,3,1,0,0,6,-3
+Slider,84.3,5,S,L,3,2,0,0,6,-3
+2-Seam Fastball,84.9,1,S,L,3,2,0,0,6,-3
+Slider,92.9,7,X,L,0,0,0,1,6,-3
+2-Seam Fastball,87.4,4,S,L,0,1,0,1,6,-3
+Cutter,92.8,14,B,L,1,1,0,1,6,-3
+Slider,91,3,S,L,1,2,0,1,6,-3
+2-Seam Fastball,83.1,5,X,R,0,0,1,1,6,-3
+Slider,92.5,14,S,R,0,1,1,1,6,-3
+Cutter,87.5,8,S,R,0,2,1,1,6,-3
+Slider,88.1,14,B,R,1,2,1,1,6,-3
+2-Seam Fastball,86,14,B,R,2,2,1,1,6,-3
+Slider,92.1,9,X,L,0,0,1,2,6,-3
+2-Seam Fastball,84.9,7,X,L,0,0,0,0,1,0
+Cutter,92.6,7,S,L,0,1,0,0,1,0
+2-Seam Fastball,91.1,3,X,R,0,0,0,1,1,0
+Slider,93.1,4,S,R,0,1,0,1,1,0
+Slider,84.6,12,B,R,1,1,0,1,1,0
+Slider,80.6,12,B,R,2,1,0,1,1,0
+Slider,83.6,2,S,R,2,2,0,1,1,0
+2-Seam Fastball,84.5,14,B,R,3,2,0,1,1,0
+2-Seam Fastball,92.1,13,B,L,0,0,1,1,1,0
+Cutter,92.3,4,S,L,0,1,1,1,1,0
+Slider,90.2,12,B,L,1,1,1,1,1,0
+Slider,83.9,2,S,L,1,2,1,1,1,0
+Slider,85.1,14,B,L,2,2,1,1,1,0
+Slider,84.2,8,X,R,0,0,1,2,1,0
+2-Seam Fastball,81.9,14,B,R,1,0,1,2,1,0
+Slider,92.3,14,B,R,2,0,1,2,1,0
+2-Seam Fastball,84.6,14,B,R,3,0,1,2,1,0
+Slider,91.9,9,S,R,3,1,1,2,1,0
+Slider,83.2,8,S,R,3,2,1,2,1,0
+Slider,85,9,X,L,0,0,0,0,2,1
+Cutter,82.6,11,B,L,1,0,0,0,2,1
+Changeup,89.9,2,S,L,1,1,0,0,2,1
+Cutter,85.3,13,B,L,2,1,0,0,2,1
+2-Seam Fastball,89.9,2,S,L,2,2,0,0,2,1
+2-Seam Fastball,92.6,11,B,L,3,2,0,0,2,1
+2-Seam Fastball,93,14,B,R,0,0,1,0,2,1
+Slider,93.1,7,S,R,0,1,1,0,2,1
+Slider,84.5,14,S,R,0,2,1,0,2,1
+2-Seam Fastball,86,14,B,R,1,2,1,0,2,1
+Cutter,92.6,13,S,L,0,0,1,1,2,1
+2-Seam Fastball,91,12,B,L,1,0,1,1,2,1
+Slider,92.5,14,B,L,2,0,1,1,2,1
+Slider,84.9,8,S,L,2,1,1,1,2,1
+Slider,83.7,14,S,L,2,2,1,1,2,1
+Slider,86,13,S,R,0,0,1,2,2,1
+2-Seam Fastball,81.8,5,X,L,0,0,0,0,3,1
+Cutter,91.3,13,B,L,1,0,0,0,3,1
+2-Seam Fastball,90.2,3,X,L,0,0,1,0,3,1
+2-Seam Fastball,92.2,13,B,L,1,0,1,0,3,1
+Changeup,92.4,5,S,L,1,1,1,0,3,1
+2-Seam Fastball,86.2,13,B,L,2,1,1,0,3,1
+2-Seam Fastball,92.5,13,B,L,3,1,1,0,3,1
+2-Seam Fastball,92.9,8,S,L,3,2,1,0,3,1
+2-Seam Fastball,93.2,7,S,L,3,2,1,0,3,1
+Slider,92.3,13,S,R,0,0,1,1,3,1
+2-Seam Fastball,85.6,14,S,R,0,1,1,1,3,1
+Slider,92.7,4,S,R,0,2,1,1,3,1
+2-Seam Fastball,86.1,14,B,R,1,2,1,1,3,1
+2-Seam Fastball,92.7,13,S,L,0,0,1,2,3,1
+Changeup,92.3,14,S,L,0,1,1,2,3,1
+Slider,88.4,8,S,L,0,2,1,2,3,1
+2-Seam Fastball,83.3,13,B,L,1,2,1,2,3,1
+2-Seam Fastball,92.8,13,B,L,2,2,1,2,3,1
+Changeup,92.6,13,S,L,2,2,1,2,3,1
+2-Seam Fastball,87.3,7,X,R,0,0,1,2,3,1
+2-Seam Fastball,91.8,14,B,R,1,0,1,2,3,1
+Changeup,92.2,14,B,R,2,0,1,2,3,1
+Changeup,84.6,7,S,R,2,1,1,2,3,1
+Slider,85,13,S,R,2,2,1,2,3,1
+Slider,85.4,14,B,R,3,2,1,2,3,1
+2-Seam Fastball,83.2,9,S,R,3,2,1,2,3,1
+2-Seam Fastball,92.6,11,S,R,3,2,1,2,3,1
+2-Seam Fastball,92.6,7,S,R,3,2,1,2,3,1
+Changeup,91.7,11,S,R,3,2,1,2,3,1
+Slider,84.3,14,B,L,0,0,1,2,3,1
+Cutter,84.5,14,B,L,1,0,1,2,3,1
+Changeup,90.6,12,S,L,1,1,1,2,3,1
+Slider,87,7,S,L,1,2,1,2,3,1
+2-Seam Fastball,84.1,4,X,R,0,0,1,2,3,0
+Cutter,92.2,4,X,L,0,0,0,0,4,0
+2-Seam Fastball,90.4,11,B,L,1,0,0,0,4,0
+2-Seam Fastball,92,6,X,R,0,0,1,0,4,0
+2-Seam Fastball,92.8,11,B,R,1,0,1,0,4,0
+2-Seam Fastball,92.5,7,X,L,0,0,1,0,4,0
+2-Seam Fastball,92.9,13,B,L,1,0,1,0,4,0
+2-Seam Fastball,92.9,11,B,L,2,0,1,0,4,0
+2-Seam Fastball,92.6,7,S,L,2,1,1,0,4,0
+2-Seam Fastball,92.8,11,B,L,3,1,1,0,4,0
+2-Seam Fastball,92.8,13,B,L,0,0,1,0,4,0
+Cutter,92.8,13,B,L,1,0,1,0,4,0
+2-Seam Fastball,91.1,12,B,L,2,0,1,0,4,0
+2-Seam Fastball,93.3,8,X,R,0,0,1,1,4,-1
+Changeup,92.4,11,B,R,1,0,1,1,4,-1
+Slider,83.8,13,B,R,2,0,1,1,4,-1
+2-Seam Fastball,84.3,5,S,R,2,1,1,1,4,-1
+2-Seam Fastball,92.2,14,B,R,3,1,1,1,4,-1
+2-Seam Fastball,91.6,4,S,R,3,2,1,1,4,-1
+Changeup,92.4,9,X,L,0,0,1,2,4,-2
+Changeup,86.7,13,S,L,0,1,1,2,4,-2
+Cutter,85.8,14,B,L,1,1,1,2,4,-2
+Slider,90.6,12,S,L,1,2,1,2,4,-2
+2-Seam Fastball,86.1,7,S,L,0,0,0,0,1,0
+2-Seam Fastball,92.9,4,S,L,0,1,0,0,1,0
+Cutter,92.4,13,B,L,1,1,0,0,1,0
+Slider,90.2,11,S,L,1,2,0,0,1,0
+2-Seam Fastball,84.7,5,X,R,0,0,0,1,1,0
+2-Seam Fastball,93,5,X,R,0,0,1,1,1,0
+2-Seam Fastball,92.8,13,S,R,0,1,1,1,1,0
+Cutter,91.7,7,X,R,0,0,1,1,1,-1
+Slider,90.9,12,B,R,1,0,1,1,1,-1
+Slider,84.4,9,S,R,1,1,1,1,1,-1
+Slider,84.2,14,S,R,1,2,1,1,1,-1
+Cutter,85.5,14,B,R,2,2,1,1,1,-1
+Cutter,90.2,9,X,L,0,0,1,2,1,-1
+Changeup,90.9,2,B,L,1,0,1,2,1,-1
+Cutter,87.3,7,S,L,1,1,1,2,1,-1
+2-Seam Fastball,89,3,X,R,0,0,0,0,2,3
+Slider,91.9,5,S,R,0,1,0,0,2,3
+Slider,86.2,14,B,R,1,1,0,0,2,3
+Slider,82.8,2,S,R,1,2,0,0,2,3
+2-Seam Fastball,84.1,14,B,R,2,2,0,0,2,3
+2-Seam Fastball,92.2,14,B,R,3,2,0,0,2,3
+Cutter,92.2,6,S,R,3,2,0,0,2,3
+2-Seam Fastball,90,6,S,L,0,0,0,1,2,3
+2-Seam Fastball,91.9,4,S,L,0,1,0,1,2,3
+Cutter,92.1,8,B,L,1,1,0,1,2,3
+Slider,90.7,12,S,L,1,2,0,1,2,3
+Slider,82.1,13,X,R,0,0,0,2,2,3
+Slider,82.1,14,B,R,1,0,0,2,2,3
+2-Seam Fastball,83.1,2,X,R,0,0,0,0,3,3
+Slider,92.8,4,S,R,0,1,0,0,3,3
+Curveball,84.9,9,X,L,0,0,0,1,3,3
+Cutter,76,14,B,L,1,0,0,1,3,3
+2-Seam Fastball,91.1,11,B,L,2,0,0,1,3,3
+2-Seam Fastball,91.2,13,B,L,3,0,0,1,3,3
+2-Seam Fastball,92.4,13,S,L,3,1,0,1,3,3
+Cutter,92.7,4,X,R,0,0,0,2,3,3
+Slider,91.8,14,S,R,0,1,0,2,3,3
+Slider,85.7,14,S,R,0,2,0,2,3,3
+Slider,83.8,14,B,R,1,2,0,2,3,3
+Cutter,87.1,14,B,R,2,2,0,2,3,3
+Cutter,90.9,14,B,R,3,2,0,2,3,3
+Cutter,91,4,X,R,0,0,1,2,3,3
+Slider,90.9,14,S,R,0,1,1,2,3,3
+Cutter,86.2,4,X,R,0,0,0,0,4,4
+Cutter,90.6,2,S,R,0,1,0,0,4,4
+Slider,90.4,14,B,R,1,1,0,0,4,4
+Slider,84.7,11,B,R,2,1,0,0,4,4
+Slider,82.9,9,S,R,2,2,0,0,4,4
+Slider,85.4,14,S,L,0,0,0,1,4,4
+2-Seam Fastball,85.4,14,B,L,1,0,0,1,4,4
+Slider,92.7,13,B,L,2,0,0,1,4,4
+Slider,85.6,7,X,R,0,0,0,2,4,4
+2-Seam Fastball,88,5,X,L,0,0,1,2,4,4
+2-Seam Fastball,92.5,5,X,R,0,0,0,0,5,4
+Cutter,92.8,14,B,R,1,0,0,0,5,4
+Slider,90.1,6,X,R,0,0,0,1,5,4
+2-Seam Fastball,84,5,X,L,0,0,0,2,5,4
+2-Seam Fastball,93.8,14,B,L,1,0,0,2,5,4
+2-Seam Fastball,92.7,13,B,L,2,0,0,2,5,4
+2-Seam Fastball,91.8,11,B,L,3,0,0,2,5,4
+2-Seam Fastball,91.5,7,S,L,3,1,0,2,5,4
+Slider,92.2,9,B,R,0,0,1,2,5,4
+Changeup,84.8,8,S,R,0,1,1,2,5,4
+Cutter,87.2,13,B,R,1,1,1,2,5,4
+Slider,90.5,2,S,R,1,2,1,2,5,4
+2-Seam Fastball,85.6,6,X,R,0,0,0,0,6,4
+Changeup,91,1,S,R,0,1,0,0,6,4
+Changeup,87.6,8,S,R,0,2,0,0,6,4
+Cutter,84.5,13,X,R,0,0,0,1,6,4
+Slider,91,14,B,R,1,0,0,1,6,4
+Cutter,83,14,S,R,1,1,0,1,6,4
+Slider,90.7,9,S,R,1,2,0,1,6,4
+Changeup,83.4,14,S,L,0,0,0,2,6,4
+Cutter,87.2,7,S,L,0,1,0,2,6,4
+Slider,90.9,4,S,L,0,2,0,2,6,4
+Slider,83,7,S,R,0,0,0,0,7,4
+2-Seam Fastball,83.2,11,B,R,1,0,0,0,7,4
+Cutter,92.4,14,B,R,2,0,0,0,7,4
+2-Seam Fastball,90.9,14,B,R,3,0,0,0,7,4
+Slider,91.8,14,S,R,3,1,0,0,7,4
+2-Seam Fastball,85,14,B,L,0,0,1,0,7,4
+2-Seam Fastball,92.6,8,S,L,0,1,1,0,7,4
+Cutter,92.7,5,X,R,0,0,1,1,7,4
+Cutter,91,3,S,R,0,1,1,1,7,4
+Slider,90.1,2,X,R,0,0,1,2,7,4
+Slider,84.8,9,S,R,0,1,1,2,7,4
+Cutter,86.8,14,B,R,1,1,1,2,7,4
+Slider,89.6,2,S,R,1,2,1,2,7,4
+Slider,84.6,11,B,R,2,2,1,2,7,4
+Slider,83.5,14,S,L,0,0,0,0,8,4
+2-Seam Fastball,83.9,11,B,L,1,0,0,0,8,4
+2-Seam Fastball,91.9,7,S,L,1,1,0,0,8,4
+2-Seam Fastball,92.5,4,X,R,0,0,0,1,8,4
+Changeup,91.9,14,B,R,1,0,0,1,8,4
+2-Seam Fastball,85.8,8,X,R,0,0,0,2,8,4
+Slider,91.9,5,S,R,0,1,0,2,8,4
+Slider,85.8,14,B,R,1,1,0,2,8,4
+Cutter,87,13,B,R,2,1,0,2,8,4
+Changeup,90.1,9,S,R,2,2,0,2,8,4
+Slider,86.2,13,B,R,3,2,0,2,8,4
+Cutter,85.6,13,X,R,0,0,1,2,8,4
+Slider,90.1,2,B,R,1,0,1,2,8,4
+2-Seam Fastball,85.2,1,S,R,1,1,1,2,8,4
+4-Seam Fastball,91.5,6,S,R,1,2,1,2,8,4
+Slider,91.6,12,S,R,1,2,1,2,8,4
+2-Seam Fastball,83.3,14,S,L,0,0,0,0,9,4
+2-Seam Fastball,92,11,B,L,1,0,0,0,9,4
+2-Seam Fastball,90.9,13,B,L,2,0,0,0,9,4
+2-Seam Fastball,91.3,9,S,L,2,1,0,0,9,4
+2-Seam Fastball,91.3,4,X,R,0,0,0,0,1,0
+Slider,93.4,3,S,R,0,1,0,0,1,0
+2-Seam Fastball,83.8,14,B,R,1,1,0,0,1,0
+Slider,93.4,6,S,R,1,2,0,0,1,0
+Slider,84.7,14,B,R,2,2,0,0,1,0
+2-Seam Fastball,85.4,6,X,R,0,0,0,1,1,0
+Cutter,93.5,14,S,R,0,1,0,1,1,0
+Slider,91.7,14,B,R,1,1,0,1,1,0
+4-Seam Fastball,88,5,S,R,1,2,0,1,1,0
+Slider,95,3,X,R,0,0,0,2,1,0
+Cutter,86,14,B,R,1,0,0,2,1,0
+Cutter,92.5,14,S,R,1,1,0,2,1,0
+Slider,91.9,14,S,R,1,2,0,2,1,0
+Cutter,86.4,14,B,R,2,2,0,2,1,0
+Slider,91.2,9,S,R,2,2,0,2,1,0
+Cutter,88.4,14,S,R,0,0,0,0,2,1
+Cutter,91.5,12,B,R,1,0,0,0,2,1
+Slider,91.8,14,S,R,1,1,0,0,2,1
+Slider,85.5,14,S,R,1,2,0,0,2,1
+Slider,87.1,14,S,L,0,0,0,1,2,1
+2-Seam Fastball,84.5,11,B,L,1,0,0,1,2,1
+2-Seam Fastball,93.2,8,X,R,0,0,0,2,2,1
+2-Seam Fastball,93.2,7,S,R,0,1,0,2,2,1
+Slider,93.4,4,S,R,0,2,0,2,2,1
+2-Seam Fastball,88.2,14,S,L,0,0,0,0,3,1
+Cutter,92.4,11,S,L,0,1,0,0,3,1
+Changeup,91.1,12,B,L,1,1,0,0,3,1
+2-Seam Fastball,86.7,13,B,L,2,1,0,0,3,1
+2-Seam Fastball,93.6,7,S,L,2,2,0,0,3,1
+Slider,93.9,13,X,R,0,0,0,1,3,1
+Changeup,85.5,14,S,R,0,1,0,1,3,1
+2-Seam Fastball,88.1,9,B,R,1,1,0,1,3,1
+Slider,93.8,14,S,R,1,2,0,1,3,1
+Slider,84.8,14,B,R,2,2,0,1,3,1
+Cutter,87.2,5,X,R,0,0,0,2,3,1
+Slider,91.2,9,S,R,0,1,0,2,3,1
+Slider,87.8,14,B,R,1,1,0,2,3,1
+Slider,85.6,8,S,R,1,2,0,2,3,1
+Slider,86.8,14,X,R,0,0,0,0,4,2
+2-Seam Fastball,84.2,3,S,R,0,1,0,0,4,2
+Cutter,92.7,13,B,R,1,1,0,0,4,2
+Cutter,91.5,6,X,R,0,0,1,0,4,2
+Slider,92.1,12,S,R,0,1,1,0,4,2
+2-Seam Fastball,86.5,7,B,R,1,1,1,0,4,2
+Slider,93.6,14,B,R,2,1,1,0,4,2
+Cutter,88.5,14,X,R,0,0,1,1,4,2
+2-Seam Fastball,92.3,14,S,R,0,1,1,1,4,2
+Cutter,93.7,8,X,R,0,0,1,2,4,2
+Slider,92.1,14,B,R,1,0,1,2,4,2
+Slider,87.2,14,S,R,1,1,1,2,4,2
+Cutter,87.1,14,B,R,2,1,1,2,4,2
+Slider,92.7,14,B,R,3,1,1,2,4,2
+Slider,86.1,9,S,R,3,2,1,2,4,2
+2-Seam Fastball,87.2,14,S,L,0,0,0,0,5,2
+Cutter,93.2,14,B,L,1,0,0,0,5,2
+Changeup,91.7,3,S,L,1,1,0,0,5,2
+Cutter,85.9,13,B,L,2,1,0,0,5,2
+2-Seam Fastball,91.5,12,B,L,3,1,0,0,5,2
+2-Seam Fastball,92.7,11,B,R,0,0,1,0,5,2
+Cutter,92.8,7,S,R,0,1,1,0,5,2
+2-Seam Fastball,91.5,14,B,R,1,1,1,0,5,2
+2-Seam Fastball,92.4,13,S,R,1,2,1,0,5,2
+2-Seam Fastball,93,13,S,L,0,0,1,1,5,2
+2-Seam Fastball,93.7,13,S,L,0,1,1,1,5,2
+2-Seam Fastball,93.3,7,X,R,0,0,1,2,5,2
+2-Seam Fastball,92.9,9,B,R,1,0,1,2,5,2
+Cutter,93.1,14,B,R,2,0,1,2,5,2
+Slider,91.7,14,B,R,3,0,1,2,5,2
+Slider,85,6,S,R,3,1,1,2,5,2
+Slider,84.8,2,S,R,3,2,1,2,5,2
+Slider,84.5,5,X,R,0,0,0,0,6,2
+Slider,84.5,5,S,R,0,1,0,0,6,2
+Slider,84.7,14,S,R,0,2,0,0,6,2
+Slider,85.8,12,B,R,1,2,0,0,6,2
+2-Seam Fastball,83.2,14,B,R,2,2,0,0,6,2
+2-Seam Fastball,91.9,7,X,R,0,0,0,1,6,2
+Changeup,93,11,B,R,1,0,0,1,6,2
+2-Seam Fastball,84.7,14,B,R,2,0,0,1,6,2
+2-Seam Fastball,92.6,11,B,R,3,0,0,1,6,2
+Slider,91.7,13,B,R,0,0,1,1,6,2
+Cutter,87.1,9,S,R,0,1,1,1,6,2
+Slider,90.5,12,S,R,0,2,1,1,6,2
+Cutter,86.8,14,S,R,0,0,1,2,6,2
+2-Seam Fastball,91.8,14,B,R,1,0,1,2,6,2
+Cutter,92.2,5,S,R,1,1,1,2,6,2
+Slider,90.1,2,X,R,0,0,0,0,7,2
+Slider,85,8,S,R,0,1,0,0,7,2
+Slider,86.3,14,S,R,0,2,0,0,7,2
+2-Seam Fastball,87.2,14,S,L,0,0,0,1,7,2
+2-Seam Fastball,92.9,13,B,L,1,0,0,1,7,2
+Slider,92.3,11,B,L,2,0,0,1,7,2
+2-Seam Fastball,84.5,13,B,L,3,0,0,1,7,2
+Slider,92.3,5,S,L,3,1,0,1,7,2
+2-Seam Fastball,85.2,7,S,L,3,2,0,1,7,2
+Slider,91.6,8,S,L,3,2,0,1,7,2
+Slider,83.7,5,X,R,0,0,0,2,7,2
+2-Seam Fastball,85.9,6,S,R,0,1,0,2,7,2
+2-Seam Fastball,93,4,X,L,0,0,0,0,1,0
+2-Seam Fastball,93.1,11,B,L,1,0,0,0,1,0
+2-Seam Fastball,91.8,11,S,L,1,1,0,0,1,0
+2-Seam Fastball,92.8,14,B,L,2,1,0,0,1,0
+2-Seam Fastball,93.9,8,X,R,0,0,1,0,1,0
+Slider,93.7,4,S,R,0,1,1,0,1,0
+Slider,85.8,14,B,R,1,1,1,0,1,0
+Slider,85.6,9,S,R,1,2,1,0,1,0
+Slider,86.9,14,B,R,2,2,1,0,1,0
+2-Seam Fastball,85.8,14,S,R,2,2,1,0,1,0
+Slider,92.7,13,B,R,3,2,1,0,1,0
+2-Seam Fastball,85.6,14,S,R,3,2,1,0,1,0
+Slider,93.3,6,X,L,0,0,1,0,1,0
+2-Seam Fastball,83.1,7,S,L,0,1,1,0,1,0
+Slider,92.6,13,B,L,1,1,1,0,1,0
+Cutter,83.8,13,S,L,1,2,1,0,1,0
+Slider,90.5,11,B,L,2,2,1,0,1,0
+2-Seam Fastball,83.5,7,S,R,0,0,1,1,1,0
+2-Seam Fastball,93.3,9,B,R,1,0,1,1,1,0
+Slider,93,4,X,R,0,0,1,1,1,0
+Slider,85.6,2,S,R,0,1,1,1,1,0
+2-Seam Fastball,84.2,5,X,L,0,0,1,2,1,-1
+2-Seam Fastball,92.9,8,S,L,0,1,1,2,1,-1
+Slider,93.3,8,S,L,0,2,1,2,1,-1
+2-Seam Fastball,87.3,13,S,R,0,0,0,0,2,-1
+2-Seam Fastball,92.9,12,B,R,1,0,0,0,2,-1
+Slider,92.1,8,B,R,2,0,0,0,2,-1
+2-Seam Fastball,84,14,S,R,2,1,0,0,2,-1
+2-Seam Fastball,93.1,14,B,R,3,1,0,0,2,-1
+Slider,92.8,5,S,R,3,2,0,0,2,-1
+Slider,84.1,5,X,L,0,0,0,1,2,-1
+Slider,84.4,9,B,L,1,0,0,1,2,-1
+Cutter,84.1,4,S,L,1,1,0,1,2,-1
+2-Seam Fastball,91,3,S,L,1,2,0,1,2,-1
+Slider,93,6,S,L,1,2,0,1,2,-1
+Slider,87.6,14,S,L,1,2,0,1,2,-1
+2-Seam Fastball,84.6,13,B,L,2,2,0,1,2,-1
+Cutter,93.2,4,X,R,0,0,1,1,2,-1
+Slider,90.4,5,S,R,0,1,1,1,2,-1
+2-Seam Fastball,86.4,9,S,R,0,2,1,1,2,-1
+Slider,91.9,4,S,R,0,2,1,1,2,-1
+Cutter,85,14,X,L,0,0,1,2,2,-1
+2-Seam Fastball,89.7,6,S,L,0,1,1,2,2,-1
+Cutter,92.1,13,B,L,1,1,1,2,2,-1
+Slider,90.2,6,S,L,1,2,1,2,2,-1
+Cutter,88.5,5,X,R,0,0,0,0,3,-1
+4-Seam Fastball,90.4,12,S,R,0,1,0,0,3,-1
+4-Seam Fastball,92.4,3,S,R,0,2,0,0,3,-1
+Slider,92.6,12,B,R,1,2,0,0,3,-1
+Cutter,86.2,14,B,R,2,2,0,0,3,-1
+Slider,91.7,14,X,L,0,0,0,1,3,-1
+2-Seam Fastball,84.4,14,B,L,1,0,0,1,3,-1
+Slider,93.2,14,B,L,2,0,0,1,3,-1
+Slider,82.4,1,S,L,2,1,0,1,3,-1
+Slider,85.8,1,S,L,2,2,0,1,3,-1
+Slider,86.1,14,B,L,3,2,0,1,3,-1
+Cutter,87.8,14,S,R,0,0,0,2,3,-1
+Slider,92.6,14,B,R,1,0,0,2,3,-1
+Cutter,86.9,14,S,R,1,1,0,2,3,-1
+2-Seam Fastball,91.2,14,B,R,2,1,0,2,3,-1
+Slider,93.5,8,X,R,0,0,1,2,3,-1
+2-Seam Fastball,86.3,14,B,R,1,0,1,2,3,-1
+2-Seam Fastball,93.7,13,S,R,1,1,1,2,3,-1
+Slider,92.8,8,S,R,1,2,1,2,3,-1
+Slider,88.5,14,B,R,2,2,1,2,3,-1
+Slider,86.8,14,X,L,0,0,0,0,4,-1
+Changeup,85.7,7,S,L,0,1,0,0,4,-1
+2-Seam Fastball,86.9,11,B,L,1,1,0,0,4,-1
+Slider,93.3,11,S,L,1,2,0,0,4,-1
+2-Seam Fastball,85.8,14,S,R,0,0,1,0,4,-1
+2-Seam Fastball,93.1,7,S,R,0,1,1,0,4,-1
+Slider,93.3,8,X,L,0,0,1,0,4,-1
+2-Seam Fastball,86.2,13,B,L,1,0,1,0,4,-1
+Cutter,92.6,13,B,L,2,0,1,0,4,-1
+2-Seam Fastball,91,2,S,L,2,1,1,0,4,-1
+2-Seam Fastball,93.4,14,B,L,3,1,1,0,4,-1
+2-Seam Fastball,92.8,6,S,L,3,2,1,0,4,-1
+2-Seam Fastball,92.9,14,B,R,0,0,1,0,4,-1
+2-Seam Fastball,93.1,7,S,R,0,1,1,0,4,-1
+Slider,93.1,7,S,R,0,2,1,0,4,-1
+Slider,87.8,9,S,R,0,2,1,0,4,-1
+Cutter,86.5,9,X,L,0,0,1,1,4,-1
+2-Seam Fastball,91.7,12,B,L,1,0,1,1,4,-1
+2-Seam Fastball,93.1,8,S,L,1,1,1,1,4,-1
+2-Seam Fastball,92.1,14,B,L,2,1,1,1,4,-1
+2-Seam Fastball,93.1,11,B,L,3,1,1,1,4,-1
+2-Seam Fastball,93.1,4,S,L,3,2,1,1,4,-1
+Slider,91.8,11,B,R,0,0,1,1,4,-2
+Slider,87.4,13,B,R,1,0,1,1,4,-2
+Cutter,87,1,B,R,2,0,1,1,4,-2
+2-Seam Fastball,89.7,5,S,R,2,1,1,1,4,-2
+2-Seam Fastball,91.3,8,X,L,0,0,0,0,1,0
+2-Seam Fastball,93.2,4,X,L,0,0,0,1,1,0
+Cutter,92.7,7,S,L,0,1,0,1,1,0
+2-Seam Fastball,90.6,2,X,R,0,0,1,1,1,0
+Cutter,92.9,11,B,R,1,0,1,1,1,0
+Slider,91.4,5,S,R,1,1,1,1,1,0
+Cutter,86.7,9,X,L,0,0,1,1,1,0
+2-Seam Fastball,91.4,2,S,L,0,1,1,1,1,0
+Cutter,93.1,11,B,L,1,1,1,1,1,0
+2-Seam Fastball,87.9,5,X,R,0,0,1,2,1,-1
+4-Seam Fastball,92,7,S,R,0,1,1,2,1,-1
+Slider,93.8,11,B,R,1,1,1,2,1,-1
+2-Seam Fastball,86,14,B,R,2,1,1,2,1,-1
+Slider,92.5,6,S,R,2,2,1,2,1,-1
+Slider,85.2,4,S,R,2,2,1,2,1,-1
+2-Seam Fastball,84.9,9,S,R,2,2,1,2,1,-1
+4-Seam Fastball,92.4,7,S,R,2,2,1,2,1,-1
+Cutter,93.3,11,S,R,2,2,1,2,1,-1
+Slider,90.7,14,B,R,3,2,1,2,1,-1
+Slider,83.6,14,S,L,0,0,0,0,2,-1
+Slider,82.2,11,S,L,0,1,0,0,2,-1
+Slider,82.9,13,S,L,0,2,0,0,2,-1
+Cutter,87.5,14,B,L,1,2,0,0,2,-1
+Slider,90.7,12,S,L,1,2,0,0,2,-1
+Slider,86,14,S,R,0,0,0,1,2,-1
+2-Seam Fastball,82.2,11,B,R,1,0,0,1,2,-1
+Slider,92.6,13,B,R,2,0,0,1,2,-1
+2-Seam Fastball,83.7,5,S,R,2,1,0,1,2,-1
+Slider,92.9,14,S,R,2,2,0,1,2,-1
+Slider,86.4,3,S,R,2,2,0,1,2,-1
+Slider,87,14,B,R,3,2,0,1,2,-1
+Cutter,85.4,6,X,L,0,0,1,1,2,-1
+2-Seam Fastball,90.3,9,X,R,0,0,0,1,2,-3
+2-Seam Fastball,90.2,11,B,R,1,0,0,1,2,-3
+2-Seam Fastball,91.4,8,X,L,0,0,1,1,2,-3
+Slider,92,8,X,L,0,0,1,2,2,-3
+Slider,84.7,14,B,L,0,0,0,0,3,-3
+4-Seam Fastball,83.6,8,X,R,0,0,0,1,3,-3
+2-Seam Fastball,93,9,S,R,0,1,0,1,3,-3
+2-Seam Fastball,92.3,14,B,R,1,1,0,1,3,-3
+2-Seam Fastball,92.8,9,X,L,0,0,1,1,3,-3
+2-Seam Fastball,93.1,8,X,R,0,0,1,2,3,-3
+Slider,92.8,4,X,L,0,0,0,0,4,-3
+2-Seam Fastball,86.1,13,B,L,1,0,0,0,4,-3
+Slider,92.5,14,B,L,2,0,0,0,4,-3
+2-Seam Fastball,83,11,B,L,3,0,0,0,4,-3
+2-Seam Fastball,92.6,13,B,R,0,0,1,0,4,-3
+Slider,91.8,11,X,L,0,0,1,0,4,-3
+Slider,85.6,11,B,L,1,0,1,0,4,-3
+2-Seam Fastball,86.6,13,B,L,2,0,1,0,4,-3
+2-Seam Fastball,92.1,13,S,L,2,1,1,0,4,-3
+Slider,92.2,8,X,R,0,0,1,1,4,-4
+2-Seam Fastball,85.2,5,X,L,0,0,1,1,4,-5
+Slider,92.1,7,S,L,0,1,1,1,4,-5
+Slider,84.8,11,S,L,0,2,1,1,4,-5
+Slider,84.7,13,B,L,1,2,1,1,4,-5
+2-Seam Fastball,84.7,11,S,L,1,2,1,1,4,-5
+4-Seam Fastball,92.3,6,X,L,0,0,0,0,5,-5
+Slider,91.4,11,B,L,1,0,0,0,5,-5
+2-Seam Fastball,81.4,13,B,L,2,0,0,0,5,-5
+Slider,90.7,8,S,L,2,1,0,0,5,-5
+Slider,83.8,8,S,L,2,2,0,0,5,-5
+2-Seam Fastball,84.6,13,B,L,3,2,0,0,5,-5
+Cutter,92.2,14,B,R,0,0,1,0,5,-5
+Changeup,90.5,5,S,R,0,1,1,0,5,-5
+Changeup,85.7,14,B,R,1,1,1,0,5,-5
+Changeup,86.2,14,X,L,0,0,0,2,5,-5
+Changeup,85.7,13,S,L,0,1,0,2,5,-5
+4-Seam Fastball,82.9,8,S,L,0,2,0,2,5,-5
+Slider,92.6,11,B,L,1,2,0,2,5,-5
+Slider,83.8,13,B,L,2,2,0,2,5,-5
+4-Seam Fastball,83.3,4,X,L,0,0,0,0,1,0
+Slider,92.7,11,B,L,1,0,0,0,1,0
+Changeup,84,8,X,L,0,0,0,1,1,0
+Cutter,85.1,8,S,L,0,1,0,1,1,0
+4-Seam Fastball,91.2,14,S,L,0,2,0,1,1,0
+Slider,93.3,11,B,L,1,2,0,1,1,0
+Changeup,86.5,14,B,L,2,2,0,1,1,0
+Cutter,84.5,13,B,L,3,2,0,1,1,0
+2-Seam Fastball,91.9,6,X,R,0,0,0,2,1,0
+4-Seam Fastball,93.1,7,S,R,0,1,0,2,1,0
+Slider,93.3,11,S,R,0,2,0,2,1,0
+2-Seam Fastball,87.9,9,X,L,0,0,0,0,2,0
+4-Seam Fastball,92.1,13,X,R,0,0,0,1,2,0
+2-Seam Fastball,92.2,11,B,R,1,0,0,1,2,0
+2-Seam Fastball,92.4,4,X,L,0,0,1,1,2,0
+Changeup,92.3,4,S,L,0,1,1,1,2,0
+4-Seam Fastball,85.2,14,B,L,1,1,1,1,2,0
+2-Seam Fastball,91.4,14,S,L,1,2,1,1,2,0
+Cutter,93.4,14,B,L,2,2,1,1,2,0
+2-Seam Fastball,90.6,12,S,R,0,0,1,2,2,0
+Slider,92.8,4,S,R,0,1,1,2,2,0
+Slider,86,14,S,R,0,2,1,2,2,0
+Slider,87.7,14,S,L,0,0,0,0,3,0
+Cutter,83.1,11,B,L,1,0,0,0,3,0
+2-Seam Fastball,90.5,8,S,L,1,1,0,0,3,0
+Changeup,91.9,7,X,L,0,0,0,1,3,0
+4-Seam Fastball,86.4,14,B,L,1,0,0,1,3,0
+4-Seam Fastball,93.1,1,S,L,1,1,0,1,3,0
+2-Seam Fastball,93,2,X,L,0,0,0,1,3,-1
+Slider,92.1,14,X,L,0,0,1,1,3,-1
+Cutter,85.8,13,S,L,0,1,1,1,3,-1
+Slider,91,2,S,L,0,2,1,1,3,-1
+Slider,86.5,13,B,L,1,2,1,1,3,-1
+Slider,86.2,4,X,R,0,0,1,1,3,-2
+2-Seam Fastball,86.3,14,S,R,0,1,1,1,3,-2
+2-Seam Fastball,92.2,13,X,L,0,0,0,0,4,-2
+Changeup,90.7,11,S,L,0,1,0,0,4,-2
+Cutter,83.6,13,B,L,1,1,0,0,4,-2
+Cutter,89,12,B,L,2,1,0,0,4,-2
+2-Seam Fastball,89.9,14,B,L,3,1,0,0,4,-2
+Slider,90.3,4,X,R,0,0,0,1,4,-2
+Slider,85.8,14,B,R,1,0,0,1,4,-2
+Slider,84,1,S,R,1,1,0,1,4,-2
+Slider,87,14,X,L,0,0,0,2,4,-2
+2-Seam Fastball,83.8,8,X,R,0,0,1,2,4,-2
+2-Seam Fastball,93.2,14,B,R,1,0,1,2,4,-2
+Slider,92.6,13,B,R,2,0,1,2,4,-2
+Slider,85.7,14,S,R,2,1,1,2,4,-2
+Slider,86.7,14,B,R,3,1,1,2,4,-2
+Slider,87.4,14,S,R,3,2,1,2,4,-2
+2-Seam Fastball,87.5,14,S,L,0,0,0,0,5,-2
+Cutter,92.4,13,B,L,1,0,0,0,5,-2
+Slider,90.9,12,X,L,0,0,0,1,5,-2
+Slider,85.5,6,B,L,1,0,0,1,5,-2
+2-Seam Fastball,84.4,1,S,L,1,1,0,1,5,-2
+2-Seam Fastball,92.8,7,S,L,1,2,0,1,5,-2
+Slider,92.7,13,S,L,1,2,0,1,5,-2
+Changeup,85.5,5,X,L,0,0,0,2,5,-2
+Changeup,87.6,14,B,L,1,0,0,2,5,-2
+Cutter,87.3,14,B,L,2,0,0,2,5,-2
+2-Seam Fastball,92.1,6,X,L,0,0,1,2,5,-2
+Slider,93.3,4,S,L,0,1,1,2,5,-2
+Slider,87.1,11,B,L,0,0,0,0,6,-2
+Cutter,84.8,8,S,L,0,1,0,0,6,-2
+Slider,90.3,12,B,L,1,1,0,0,6,-2
+2-Seam Fastball,84.6,7,S,L,1,2,0,0,6,-2
+2-Seam Fastball,92.7,14,B,L,2,2,0,0,6,-2
+Changeup,92.7,13,S,L,2,2,0,0,6,-2
+2-Seam Fastball,86.2,7,X,R,0,0,0,1,6,-2
+Slider,92.5,11,B,R,1,0,0,1,6,-2
+Slider,86.6,4,S,R,1,1,0,1,6,-2
+Slider,85.2,9,S,R,1,2,0,1,6,-2
+2-Seam Fastball,85.7,9,S,L,0,0,0,2,6,-2
+2-Seam Fastball,93.3,13,B,L,1,0,0,2,6,-2
+Slider,92.8,11,B,L,2,0,0,2,6,-2
+Slider,85.6,2,S,L,2,1,0,2,6,-2
+Slider,83.9,11,B,L,3,1,0,2,6,-2
+2-Seam Fastball,83.1,1,S,L,3,2,0,2,6,-2
+Slider,93,8,S,L,3,2,0,2,6,-2
+2-Seam Fastball,85,6,X,R,0,0,0,0,7,-2
+2-Seam Fastball,92.1,5,S,R,0,1,0,0,7,-2
+2-Seam Fastball,92.4,14,B,R,1,1,0,0,7,-2
+Slider,92.3,5,X,L,0,0,1,0,7,-2
+Cutter,85.4,14,S,L,0,1,1,0,7,-2
+Cutter,90.6,14,S,L,0,2,1,0,7,-2
+2-Seam Fastball,90.3,14,B,L,1,2,1,0,7,-2
+Cutter,92.7,13,B,L,2,2,1,0,7,-2
+2-Seam Fastball,91.2,12,B,L,3,2,1,0,7,-2
+2-Seam Fastball,92.5,5,X,R,0,0,1,0,7,-2
+2-Seam Fastball,92.3,8,S,R,0,1,1,0,7,-2
+2-Seam Fastball,92.9,14,B,R,1,1,1,0,7,-2
+Slider,92.8,9,B,R,2,1,1,0,7,-2
+Slider,86,14,S,R,2,2,1,0,7,-2
+Slider,87.5,14,B,R,3,2,1,0,7,-2
+2-Seam Fastball,86.6,14,X,L,0,0,1,1,7,-2
+Cutter,93.1,14,B,L,1,0,1,1,7,-2
+Cutter,91.5,14,S,L,1,1,1,1,7,-2
+2-Seam Fastball,91.1,3,X,L,0,0,0,0,1,0
+2-Seam Fastball,92.1,13,B,L,1,0,0,0,1,0
+Cutter,91.8,13,S,L,1,1,0,0,1,0
+Slider,89.5,14,S,L,1,2,0,0,1,0
+Cutter,87.5,13,B,L,2,2,0,0,1,0
+2-Seam Fastball,90.2,6,X,L,0,0,1,0,1,0
+2-Seam Fastball,90.9,11,B,L,1,0,1,0,1,0
+Changeup,92.9,8,S,L,1,1,1,0,1,0
+2-Seam Fastball,87,13,B,L,2,1,1,0,1,0
+2-Seam Fastball,93.4,13,X,R,0,0,1,1,1,0
+Slider,93.9,13,S,R,0,1,1,1,1,0
+Cutter,86.9,14,B,R,1,1,1,1,1,0
+Slider,91.6,5,S,R,1,2,1,1,1,0
+Slider,86.2,12,X,L,0,0,1,2,1,0
+2-Seam Fastball,85.2,13,B,L,1,0,1,2,1,0
+Changeup,92.4,4,S,L,1,1,1,2,1,0
+2-Seam Fastball,88,13,B,L,2,1,1,2,1,0
+2-Seam Fastball,93.6,4,X,R,0,0,1,2,1,0
+Slider,93.8,7,X,L,0,0,1,2,1,-1
+Cutter,84.9,7,S,L,0,1,1,2,1,-1
+2-Seam Fastball,90.9,3,X,L,0,0,0,0,2,0
+2-Seam Fastball,90.7,11,B,L,1,0,0,0,2,0
+Slider,91.6,8,S,L,1,1,0,0,2,0
+Cutter,84.4,2,S,L,1,2,0,0,2,0
+Slider,91.6,11,S,L,1,2,0,0,2,0
+2-Seam Fastball,83.5,14,S,L,1,2,0,0,2,0
+2-Seam Fastball,93.4,13,B,L,2,2,0,0,2,0
+Cutter,92.7,8,X,L,0,0,1,0,2,0
+2-Seam Fastball,90.9,3,X,R,0,0,1,1,2,0
+Cutter,93.3,14,S,R,0,1,1,1,2,0
+Cutter,89.6,12,B,R,1,1,1,1,2,0
+2-Seam Fastball,91.9,14,B,R,2,1,1,1,2,0
+Slider,92.4,5,S,R,2,2,1,1,2,0
+Slider,86.3,14,B,R,3,2,1,1,2,0
+2-Seam Fastball,84.6,8,S,R,3,2,1,1,2,0
+2-Seam Fastball,92.8,5,X,L,0,0,1,2,2,0
+Slider,93.4,4,S,L,0,1,1,2,2,0
+Cutter,85.8,13,B,L,1,1,1,2,2,0
+Changeup,91.2,5,X,L,0,0,0,0,3,0
+Changeup,85.1,14,B,L,1,0,0,0,3,0
+2-Seam Fastball,85.7,6,S,L,1,1,0,0,3,0
+Cutter,91.6,12,S,L,1,2,0,0,3,0
+Slider,92.3,12,X,R,0,0,0,1,3,0
+2-Seam Fastball,87.5,9,S,R,0,1,0,1,3,0
+Cutter,93.6,11,S,R,0,2,0,1,3,0
+Slider,92.3,11,B,R,1,2,0,1,3,0
+2-Seam Fastball,88.3,9,X,L,0,0,0,2,3,0
+Cutter,94.3,13,B,L,1,0,0,2,3,0
+Slider,92.3,4,S,L,1,1,0,2,3,0
+Cutter,86.1,13,S,L,1,2,0,2,3,0
+Slider,92.6,2,S,R,0,0,0,0,4,0
+Cutter,85.4,8,S,R,0,1,0,0,4,0
+2-Seam Fastball,92.1,14,B,R,1,1,0,0,4,0
+Cutter,92.5,1,S,R,1,2,0,0,4,0
+Slider,91.3,4,S,L,0,0,0,1,4,0
+Changeup,84.5,8,S,L,0,1,0,1,4,0
+Cutter,86.8,14,B,L,1,1,0,1,4,0
+Cutter,90.9,7,S,L,1,2,0,1,4,0
+Cutter,92.8,6,X,L,0,0,1,1,4,0
+Cutter,91.8,8,X,L,0,0,1,2,4,0
+2-Seam Fastball,92.2,14,B,L,1,0,1,2,4,0
+4-Seam Fastball,93.4,13,B,L,2,0,1,2,4,0
+2-Seam Fastball,92.8,13,B,L,3,0,1,2,4,0
+Slider,93.7,8,S,L,3,1,1,2,4,0
+Slider,86.8,7,S,L,3,2,1,2,4,0
+Cutter,87.1,7,S,L,3,2,1,2,4,0
+Slider,91.8,2,S,L,3,2,1,2,4,0
+Slider,85.2,5,X,R,0,0,1,2,4,0
+Cutter,87.2,9,X,L,0,0,1,2,4,-1
+2-Seam Fastball,91.9,11,B,L,1,0,1,2,4,-1
+2-Seam Fastball,92.9,11,B,L,2,0,1,2,4,-1
+2-Seam Fastball,93.5,1,S,L,2,1,1,2,4,-1
+Changeup,93.6,13,X,L,0,0,0,0,5,-1
+Cutter,86.1,8,S,L,0,1,0,0,5,-1
+Changeup,91.5,11,B,L,1,1,0,0,5,-1
+Changeup,87.4,14,S,L,1,2,0,0,5,-1
+Cutter,86,14,S,R,0,0,0,1,5,-1
+Slider,92.2,12,S,R,0,1,0,1,5,-1
+Slider,87.2,14,S,R,0,2,0,1,5,-1
+2-Seam Fastball,87.8,8,X,L,0,0,0,2,5,-1
+Changeup,93.2,7,S,L,0,1,0,2,5,-1
+Cutter,89.1,5,S,L,0,2,0,2,5,-1
+Slider,92.6,13,B,L,1,2,0,2,5,-1
+2-Seam Fastball,87.5,13,B,L,2,2,0,2,5,-1
+2-Seam Fastball,93.9,14,B,L,3,2,0,2,5,-1
+Cutter,92,11,S,L,3,2,0,2,5,-1
+2-Seam Fastball,91.4,13,B,R,0,0,1,2,5,-1
+Slider,93.1,2,S,R,0,1,1,2,5,-1
+Slider,86.7,9,S,R,0,2,1,2,5,-1
+2-Seam Fastball,88.1,14,S,R,0,2,1,2,5,-1
+2-Seam Fastball,91.9,11,S,L,0,0,0,0,6,0
+Changeup,92.5,14,S,L,0,1,0,0,6,0
+2-Seam Fastball,84.1,13,B,L,1,1,0,0,6,0
+Cutter,93.3,13,B,L,2,1,0,0,6,0
+2-Seam Fastball,92.2,4,S,L,2,2,0,0,6,0
+2-Seam Fastball,93.5,4,X,L,0,0,1,0,6,0
+2-Seam Fastball,93,13,S,L,0,1,1,0,6,0
+2-Seam Fastball,92.7,14,B,L,1,1,1,0,6,0
+Slider,93.9,4,S,L,1,2,1,0,6,0
+Cutter,87.3,14,S,L,0,0,1,1,6,0
+2-Seam Fastball,91.6,8,S,L,0,1,1,1,6,0
+Cutter,93,4,S,L,0,2,1,1,6,0
+Slider,92.4,3,S,L,0,2,1,1,6,0
+Cutter,86.9,13,B,L,1,2,1,1,6,0
+2-Seam Fastball,91.4,11,B,L,2,2,1,1,6,0
+Slider,92.2,7,S,L,2,2,1,1,6,0
+2-Seam Fastball,86.4,13,B,L,3,2,1,1,6,0
+2-Seam Fastball,93.3,7,S,L,0,0,0,0,1,0
+Slider,93.6,7,S,L,0,1,0,0,1,0
+Slider,85.2,4,S,L,0,2,0,0,1,0
+2-Seam Fastball,85,7,S,R,0,0,0,1,1,0
+Slider,93.5,14,B,R,1,0,0,1,1,0
+2-Seam Fastball,85.6,14,B,R,2,0,0,1,1,0
+Cutter,91.9,5,S,R,2,1,0,1,1,0
+2-Seam Fastball,90.9,6,X,L,0,0,0,2,1,0
+2-Seam Fastball,93.4,13,B,L,1,0,0,2,1,0
+Slider,93.5,14,B,L,2,0,0,2,1,0
+2-Seam Fastball,83.4,5,S,L,2,1,0,2,1,0
+2-Seam Fastball,93.3,7,X,R,0,0,0,0,2,0
+Cutter,94,8,S,R,0,1,0,0,2,0
+Slider,90.3,12,B,R,1,1,0,0,2,0
+Slider,86.7,14,B,R,2,1,0,0,2,0
+Slider,85.4,7,S,R,2,2,0,0,2,0
+2-Seam Fastball,87.9,14,B,R,3,2,0,0,2,0
+Cutter,93.3,14,B,L,0,0,1,0,2,0
+2-Seam Fastball,91,2,X,R,0,0,1,0,2,0
+2-Seam Fastball,93.5,14,B,R,1,0,1,0,2,0
+Slider,93.5,14,B,R,2,0,1,0,2,0
+Cutter,85.8,14,S,R,2,1,1,0,2,0
+Slider,92.1,6,X,R,0,0,1,2,2,0
+Cutter,87.8,14,S,R,0,1,1,2,2,0
+Slider,92.5,12,S,R,0,2,1,2,2,0
+2-Seam Fastball,87.7,14,X,L,0,0,0,0,3,0
+Slider,92,7,S,L,0,1,0,0,3,0
+Slider,84.7,13,B,L,1,1,0,0,3,0
+Slider,85.3,7,S,L,1,2,0,0,3,0
+2-Seam Fastball,84.4,13,B,L,2,2,0,0,3,0
+2-Seam Fastball,92.7,11,S,R,0,0,0,1,3,0
+Cutter,93.1,6,S,R,0,1,0,1,3,0
+Slider,90.2,14,B,R,1,1,0,1,3,0
+Slider,85.6,14,B,R,2,1,0,1,3,0
+Slider,86.9,4,S,R,2,2,0,1,3,0
+2-Seam Fastball,86.5,14,B,R,3,2,0,1,3,0
+2-Seam Fastball,93.3,14,B,L,0,0,1,1,3,0
+Slider,92.8,11,B,L,1,0,1,1,3,0
+2-Seam Fastball,86.6,14,B,L,2,0,1,1,3,0
+2-Seam Fastball,92.9,13,S,L,2,1,1,1,3,0
+Slider,93.4,13,X,R,0,0,1,1,3,0
+2-Seam Fastball,88.9,14,B,R,1,0,1,1,3,0
+Cutter,92.7,7,S,R,1,1,1,1,3,0
+Slider,91.8,12,S,R,1,2,1,1,3,0
+Slider,89,14,B,R,2,2,1,1,3,0
+Slider,89.1,14,B,R,3,2,1,1,3,0
+2-Seam Fastball,89,14,B,L,0,0,1,1,3,0
+2-Seam Fastball,93.3,7,S,L,0,1,1,1,3,0
+2-Seam Fastball,93.4,13,B,L,1,1,1,1,3,0
+2-Seam Fastball,93,13,S,L,1,2,1,1,3,0
+Slider,93.3,13,S,R,0,0,1,2,3,0
+2-Seam Fastball,89,14,B,R,1,0,1,2,3,0
+Slider,92.6,7,S,R,1,1,1,2,3,0
+Slider,86.7,1,S,R,1,2,1,2,3,0
+2-Seam Fastball,88.5,14,S,L,0,0,0,0,4,0
+2-Seam Fastball,91,13,B,L,1,0,0,0,4,0
+2-Seam Fastball,93,11,B,L,2,0,0,0,4,0
+2-Seam Fastball,92.9,11,B,L,3,0,0,0,4,0
+Slider,92.9,4,X,R,0,0,0,1,4,0
+Slider,86.8,2,B,R,1,0,0,1,4,0
+Cutter,82.6,8,S,R,1,1,0,1,4,0
+2-Seam Fastball,87.8,14,X,R,0,0,1,1,4,0
+2-Seam Fastball,93.6,4,S,R,0,1,1,1,4,0
+Slider,93.2,5,X,L,0,0,0,0,5,3
+2-Seam Fastball,84.1,11,B,L,1,0,0,0,5,3
+Slider,92.3,13,S,L,1,1,0,0,5,3
+2-Seam Fastball,85.4,13,B,L,2,1,0,0,5,3
+2-Seam Fastball,92.1,1,S,L,2,2,0,0,5,3
+2-Seam Fastball,93.1,8,X,R,0,0,0,1,5,3
+2-Seam Fastball,92.4,13,B,R,1,0,0,1,5,3
+2-Seam Fastball,93,3,S,R,1,1,0,1,5,3
+2-Seam Fastball,93.3,14,B,R,2,1,0,1,5,3
+Slider,92.5,9,S,R,2,2,0,1,5,3
+Slider,87.9,14,X,L,0,0,1,1,5,3
+Cutter,87.7,13,X,R,0,0,1,2,5,3
+2-Seam Fastball,90.9,11,S,R,0,1,1,2,5,3
+Cutter,92.9,13,B,R,1,1,1,2,5,3
+Cutter,90.8,1,S,R,1,2,1,2,5,3
+Slider,90.9,12,S,R,1,2,1,2,5,3
+Slider,90,14,B,R,2,2,1,2,5,3
+Slider,90.7,12,X,L,0,0,0,0,6,6
+Changeup,82.9,4,S,L,0,1,0,0,6,6
+2-Seam Fastball,84.9,13,B,L,1,1,0,0,6,6
+Slider,92.8,4,X,R,0,0,0,0,6,5
+Cutter,87.7,13,B,R,1,0,0,0,6,5
+2-Seam Fastball,91.4,5,X,L,0,0,0,1,6,5
+2-Seam Fastball,92.6,13,B,L,1,0,0,1,6,5
+Slider,92.7,13,B,L,2,0,0,1,6,5
+2-Seam Fastball,85,9,S,L,2,1,0,1,6,5
+Cutter,93.4,13,S,L,2,2,0,1,6,5
+Slider,92.3,13,B,L,3,2,0,1,6,5
+Cutter,86.1,14,B,R,0,0,1,1,6,5
+Cutter,91.3,14,B,R,1,0,1,1,6,5
+Slider,90.3,12,B,R,2,0,1,1,6,5
+Cutter,87.9,14,B,R,3,0,1,1,6,5
+Slider,90.7,14,B,R,0,0,1,1,6,5
+2-Seam Fastball,87,9,S,R,0,1,1,1,6,5
+2-Seam Fastball,92.5,7,X,L,0,0,0,0,7,7
+2-Seam Fastball,91,13,X,R,0,0,1,0,7,7
+2-Seam Fastball,92,13,B,R,1,0,1,0,7,7
+2-Seam Fastball,91.8,13,S,R,1,1,1,0,7,7
+Cutter,91.8,11,S,R,1,2,1,0,7,7
+2-Seam Fastball,90.6,11,B,R,2,2,1,0,7,7
+Cutter,92.7,4,S,R,2,2,1,0,7,7
+2-Seam Fastball,91,1,B,R,3,2,1,0,7,7
+Changeup,92.2,13,B,L,0,0,0,0,1,0
+2-Seam Fastball,85.6,13,B,L,1,0,0,0,1,0
+Curveball,91.4,11,S,L,1,1,0,0,1,0
+Changeup,88.5,12,B,L,2,1,0,0,1,0
+Curveball,88.5,14,B,L,0,0,0,1,1,0
+Changeup,76.9,2,S,L,0,1,0,1,1,0
+2-Seam Fastball,89.3,14,X,R,0,0,0,2,1,0
+Slider,92.4,4,S,R,0,1,0,2,1,0
+Slider,85.4,14,S,R,0,2,0,2,1,0
+Slider,87.5,14,B,R,1,2,0,2,1,0
+Slider,86.8,14,B,R,2,2,0,2,1,0
+2-Seam Fastball,87.4,14,B,R,3,2,0,2,1,0
+Cutter,91.9,14,X,L,0,0,0,0,2,0
+2-Seam Fastball,88.6,11,B,L,1,0,0,0,2,0
+Changeup,91.2,8,S,L,1,1,0,0,2,0
+Cutter,83.9,14,S,L,1,2,0,0,2,0
+Slider,90.8,11,B,L,2,2,0,0,2,0
+Slider,84.9,13,X,R,0,0,0,1,2,0
+Cutter,84.9,14,S,R,0,1,0,1,2,0
+Slider,89.7,3,S,R,0,2,0,1,2,0
+2-Seam Fastball,85.6,14,X,R,0,0,1,1,2,0
+2-Seam Fastball,91.5,4,S,R,0,1,1,1,2,0
+Slider,91.1,4,S,R,0,2,1,1,2,0
+2-Seam Fastball,87.3,14,X,R,0,0,1,2,2,0
+Cutter,92.3,8,S,R,0,1,1,2,2,0
+Slider,90.3,11,B,R,1,1,1,2,2,0
+2-Seam Fastball,86.2,14,B,R,2,1,1,2,2,0
+2-Seam Fastball,91.7,1,X,L,0,0,1,2,2,0
+Cutter,92.9,5,S,L,0,1,1,2,2,0
+Slider,90.1,3,S,L,0,2,1,2,2,0
+Slider,85.3,13,B,L,1,2,1,2,2,0
+2-Seam Fastball,86.4,14,B,L,2,2,1,2,2,0
+2-Seam Fastball,92.2,13,B,L,3,2,1,2,2,0
+2-Seam Fastball,92.4,7,X,R,0,0,0,0,3,1
+Slider,91,11,B,R,1,0,0,0,3,1
+2-Seam Fastball,83.1,11,B,R,2,0,0,0,3,1
+2-Seam Fastball,90.8,7,S,R,2,1,0,0,3,1
+Cutter,91.5,5,X,L,0,0,0,1,3,1
+Changeup,90,4,S,L,0,1,0,1,3,1
+Changeup,85.5,7,X,L,0,0,0,2,3,1
+2-Seam Fastball,86.1,14,B,L,1,0,0,2,3,1
+Cutter,93,13,S,L,1,1,0,2,3,1
+Slider,91,2,S,L,1,2,0,2,3,1
+Cutter,82.8,9,S,L,1,2,0,2,3,1
+Slider,91.5,11,B,L,2,2,0,2,3,1
+Changeup,85.8,4,S,L,2,2,0,2,3,1
+Cutter,85.4,14,S,R,0,0,0,0,4,1
+2-Seam Fastball,91,6,S,R,0,1,0,0,4,1
+Slider,92.2,13,B,R,1,1,0,0,4,1
+Slider,86,9,S,R,1,2,0,0,4,1
+Cutter,86.1,14,B,R,2,2,0,0,4,1
+Slider,90.7,3,X,L,0,0,0,1,4,1
+Slider,86.8,5,S,L,0,1,0,1,4,1
+Cutter,83,11,B,L,1,1,0,1,4,1
+2-Seam Fastball,91.8,8,X,R,0,0,0,2,4,1
+Cutter,93.5,9,S,R,0,1,0,2,4,1
+Cutter,91.1,14,B,R,1,1,0,2,4,1
+Slider,91.7,14,B,R,2,1,0,2,4,1
+Slider,85,14,S,R,2,2,0,2,4,1
+Slider,86.7,14,B,R,3,2,0,2,4,1
+Slider,87.4,14,S,R,0,0,0,0,5,3
+2-Seam Fastball,83.3,5,S,R,0,1,0,0,5,3
+2-Seam Fastball,91.1,13,B,R,1,1,0,0,5,3
+Slider,91.5,11,B,R,2,1,0,0,5,3
+2-Seam Fastball,85.4,9,X,R,0,0,0,0,5,2
+Cutter,91.7,13,S,R,0,1,0,0,5,2
+2-Seam Fastball,90,14,B,R,1,1,0,0,5,2
+Slider,92.3,4,S,R,1,2,0,0,5,2
+Cutter,88.5,14,B,R,2,2,0,0,5,2
+2-Seam Fastball,90,12,B,R,3,2,0,0,5,2
+2-Seam Fastball,91.7,2,X,L,0,0,0,1,5,2
+Cutter,92.7,13,B,L,1,0,0,1,5,2
+2-Seam Fastball,89.9,14,B,L,2,0,0,1,5,2
+2-Seam Fastball,92.6,8,S,L,2,1,0,1,5,2
+2-Seam Fastball,92,4,S,L,2,2,0,1,5,2
+2-Seam Fastball,93.4,14,B,L,3,2,0,1,5,2
+Cutter,91.5,7,X,R,0,0,0,2,5,2
+2-Seam Fastball,90.2,14,X,L,0,0,1,2,5,2
+Cutter,90.9,13,B,L,1,0,1,2,5,2
+Slider,90.4,3,S,L,1,1,1,2,5,2
+Slider,85.2,7,S,L,1,2,1,2,5,2
+4-Seam Fastball,86.4,14,B,L,2,2,1,2,5,2
+Changeup,90.2,1,S,L,2,2,1,2,5,2
+Cutter,86.5,13,S,L,2,2,1,2,5,2
+Cutter,91.5,14,B,L,3,2,1,2,5,2
+2-Seam Fastball,90.6,12,B,L,0,0,1,2,5,2
+Cutter,92.2,13,B,L,1,0,1,2,5,2
+2-Seam Fastball,91.4,14,S,L,1,1,1,2,5,2
+2-Seam Fastball,90.5,4,X,L,0,0,0,0,1,0
+2-Seam Fastball,93.2,11,B,L,1,0,0,0,1,0
+Cutter,91.8,4,S,L,1,1,0,0,1,0
+Slider,90.4,3,S,L,1,2,0,0,1,0
+Cutter,83.6,14,B,L,2,2,0,0,1,0
+2-Seam Fastball,91,8,X,R,0,0,0,1,1,0
+2-Seam Fastball,94,7,B,R,1,0,0,1,1,0
+Slider,94.2,4,X,L,0,0,1,1,1,0
+2-Seam Fastball,85.9,11,B,L,1,0,1,1,1,0
+2-Seam Fastball,92.5,11,B,L,2,0,1,1,1,0
+2-Seam Fastball,92.8,7,S,L,2,1,1,1,1,0
+2-Seam Fastball,93.2,7,S,L,2,2,1,1,1,0
+2-Seam Fastball,94.7,4,S,L,2,2,1,1,1,0
+2-Seam Fastball,93.7,13,B,L,3,2,1,1,1,0
+Cutter,94.3,13,S,L,3,2,1,1,1,0
+2-Seam Fastball,92.4,14,S,L,3,2,1,1,1,0
+2-Seam Fastball,94.7,8,X,R,0,0,1,1,1,0
+Cutter,93.8,7,S,R,0,1,1,1,1,0
+Cutter,92.5,14,S,R,0,2,1,1,1,0
+Slider,93.3,11,B,R,1,2,1,1,1,0
+2-Seam Fastball,87.1,14,X,L,0,0,1,1,1,-1
+Cutter,93.7,5,S,L,0,1,1,1,1,-1
+Cutter,91,14,S,L,0,2,1,1,1,-1
+2-Seam Fastball,91.8,6,S,L,0,2,1,1,1,-1
+2-Seam Fastball,92.8,11,B,L,1,2,1,1,1,-1
+Cutter,92.8,4,S,L,1,2,1,1,1,-1
+2-Seam Fastball,90.7,2,X,R,0,0,1,1,1,-3
+2-Seam Fastball,92.6,13,B,R,1,0,1,1,1,-3
+2-Seam Fastball,92.8,1,X,R,0,0,1,2,1,-3
+2-Seam Fastball,91.9,11,B,R,1,0,1,2,1,-3
+2-Seam Fastball,92.8,4,X,L,0,0,0,0,2,-3
+Changeup,92.3,7,S,L,0,1,0,0,2,-3
+Cutter,86,1,S,L,0,2,0,0,2,-3
+2-Seam Fastball,91.8,11,B,L,1,2,0,0,2,-3
+2-Seam Fastball,93.1,11,B,L,2,2,0,0,2,-3
+Cutter,93,11,S,L,2,2,0,0,2,-3
+2-Seam Fastball,91.8,13,X,R,0,0,1,0,2,-3
+Slider,90.8,11,X,L,0,0,1,1,2,-3
+Cutter,82.7,4,X,R,0,0,0,0,3,-3
+2-Seam Fastball,91.1,14,S,R,0,1,0,0,3,-3
+Slider,93.6,5,X,L,0,0,0,1,3,-3
+Slider,81.3,11,B,L,1,0,0,1,3,-3
+Cutter,83.4,4,X,R,0,0,1,1,3,-3
+2-Seam Fastball,92.4,14,B,R,1,0,1,1,3,-3
+2-Seam Fastball,93.5,13,S,R,1,1,1,1,3,-3
+2-Seam Fastball,93.3,7,S,R,1,2,1,1,3,-3
+Changeup,93.4,1,S,R,1,2,1,1,3,-3
+Cutter,87.5,14,B,R,2,2,1,1,3,-3
+2-Seam Fastball,92.5,14,S,R,2,2,1,1,3,-3
+2-Seam Fastball,92.9,11,X,L,0,0,1,2,3,-3
+2-Seam Fastball,93.5,1,S,L,0,1,1,2,3,-3
+Cutter,93.7,13,B,L,1,1,1,2,3,-3
+Changeup,91.6,14,S,L,1,2,1,2,3,-3
+Slider,86.4,13,X,R,0,0,0,0,4,-3
+2-Seam Fastball,81.5,5,S,R,0,1,0,0,4,-3
+Cutter,92.2,8,S,R,0,2,0,0,4,-3
+Slider,91.4,11,B,R,1,2,0,0,4,-3
+2-Seam Fastball,84.7,3,S,R,1,2,0,0,4,-3
+Cutter,93.6,6,S,R,0,0,0,1,4,-3
+Changeup,91.7,3,S,R,0,1,0,1,4,-3
+2-Seam Fastball,88.6,14,B,R,1,1,0,1,4,-3
+Slider,93.7,7,X,L,0,0,0,2,4,-3
+Changeup,83.5,13,S,L,0,1,0,2,4,-3
+2-Seam Fastball,88.4,13,B,L,1,1,0,2,4,-3
+2-Seam Fastball,93.6,7,X,R,0,0,0,0,5,-3
+2-Seam Fastball,93.1,2,B,R,1,0,0,0,5,-3
+2-Seam Fastball,91.1,1,B,R,2,0,0,0,5,-3
+2-Seam Fastball,92,5,S,R,2,1,0,0,5,-3
+2-Seam Fastball,90.6,8,S,R,2,2,0,0,5,-3
+2-Seam Fastball,93.2,2,S,L,0,0,0,1,5,-3
+Cutter,94,5,X,R,0,0,0,1,5,-4
+2-Seam Fastball,91.1,6,S,R,0,1,0,1,5,-4
+2-Seam Fastball,93.3,13,B,R,1,1,0,1,5,-4
+2-Seam Fastball,92.8,13,B,R,2,1,0,1,5,-4
+2-Seam Fastball,92.7,8,X,L,0,0,0,2,5,-4
+Changeup,94.4,5,S,L,0,1,0,2,5,-4
+Changeup,88.9,13,B,L,1,1,0,2,5,-4
+2-Seam Fastball,85.7,14,X,R,0,0,0,0,6,-4
+Changeup,93,4,S,R,0,1,0,0,6,-4
+Cutter,87.2,14,B,R,1,1,0,0,6,-4
+2-Seam Fastball,91.7,12,X,L,0,0,0,1,6,-4
+Changeup,93.4,11,S,L,0,1,0,1,6,-4
+Cutter,88.8,13,B,L,1,1,0,1,6,-4
+Changeup,91.3,5,S,L,1,2,0,1,6,-4
+Cutter,87.6,13,B,L,2,2,0,1,6,-4
+2-Seam Fastball,92,3,X,R,0,0,0,2,6,-4
+Slider,93.9,4,X,R,0,0,0,0,7,-4
+2-Seam Fastball,84,5,S,R,0,1,0,0,7,-4
+Cutter,92.6,8,X,L,0,0,0,1,7,-4
+Cutter,92.3,11,X,R,0,0,0,2,7,-4
+2-Seam Fastball,91.9,2,B,R,1,0,0,2,7,-4
+2-Seam Fastball,93.4,1,B,R,2,0,0,2,7,-4
+2-Seam Fastball,92.1,13,B,R,3,0,0,2,7,-4
+2-Seam Fastball,92.6,5,X,L,0,0,0,0,1,0
+2-Seam Fastball,93.3,13,B,L,1,0,0,0,1,0
+2-Seam Fastball,92.8,5,X,L,0,0,0,1,1,0
+Cutter,93.9,8,S,L,0,1,0,1,1,0
+2-Seam Fastball,90.7,6,X,L,0,0,0,2,1,0
+Cutter,93.6,7,S,L,0,1,0,2,1,0
+2-Seam Fastball,92.5,12,B,L,1,1,0,2,1,0
+2-Seam Fastball,93.7,13,X,L,0,0,0,0,2,0
+2-Seam Fastball,92.9,11,B,L,1,0,0,0,2,0
+Slider,92.6,7,S,L,1,1,0,0,2,0
+2-Seam Fastball,85.7,7,X,R,0,0,1,0,2,0
+Cutter,93.5,13,B,R,1,0,1,0,2,0
+2-Seam Fastball,91.7,14,S,R,1,1,1,0,2,0
+Slider,92.7,7,S,R,1,2,1,0,2,0
+2-Seam Fastball,88,9,X,R,0,0,1,1,2,0
+2-Seam Fastball,93.1,13,S,R,0,1,1,1,2,0
+Slider,92.6,11,S,R,0,2,1,1,2,0
+Cutter,87.2,14,B,R,1,2,1,1,2,0
+Slider,91.6,3,S,R,1,2,1,1,2,0
+2-Seam Fastball,86.8,14,B,R,2,2,1,1,2,0
+Slider,93,11,B,R,3,2,1,1,2,0
+2-Seam Fastball,86.7,4,S,R,0,0,0,0,3,0
+2-Seam Fastball,92,11,B,R,1,0,0,0,3,0
+2-Seam Fastball,92.4,8,S,R,1,1,0,0,3,0
+2-Seam Fastball,92.5,14,B,R,2,1,0,0,3,0
+2-Seam Fastball,92.5,11,S,R,2,2,0,0,3,0
+2-Seam Fastball,92.7,8,S,R,0,0,0,1,3,0
+Changeup,92.3,8,S,R,0,1,0,1,3,0
+Cutter,84.8,14,B,R,1,1,0,1,3,0
+2-Seam Fastball,91.9,12,B,R,2,1,0,1,3,0
+2-Seam Fastball,92.5,5,X,R,0,0,0,2,3,0
+Slider,93,7,S,R,0,1,0,2,3,0
+2-Seam Fastball,86.3,12,B,R,1,1,0,2,3,0
+2-Seam Fastball,92.9,1,X,L,0,0,0,0,4,0
+Changeup,92,7,S,L,0,1,0,0,4,0
+Changeup,84.6,14,B,L,1,1,0,0,4,0
+Slider,82.7,5,X,L,0,0,0,1,4,0
+Slider,84.7,11,B,L,1,0,0,1,4,0
+2-Seam Fastball,84.7,4,S,L,1,1,0,1,4,0
+2-Seam Fastball,92.5,13,B,L,2,1,0,1,4,0
+2-Seam Fastball,93.2,5,X,L,0,0,1,1,4,0
+Cutter,92.4,11,S,L,0,1,1,1,4,0
+2-Seam Fastball,91.7,6,S,L,0,2,1,1,4,0
+Cutter,93.5,14,B,L,1,2,1,1,4,0
+2-Seam Fastball,91.8,11,B,L,2,2,1,1,4,0
+Slider,92.4,13,S,L,2,2,1,1,4,0
+Slider,86.3,14,B,L,3,2,1,1,4,0
+2-Seam Fastball,85.7,13,S,L,3,2,1,1,4,0
+2-Seam Fastball,93.6,14,B,L,0,0,1,1,4,0
+Cutter,92.9,7,S,L,0,1,1,1,4,0
+Cutter,91.7,2,S,L,0,2,1,1,4,0
+2-Seam Fastball,92.3,12,B,L,1,2,1,1,4,0
+2-Seam Fastball,93.2,5,X,R,0,0,1,1,4,-1
+Cutter,92.9,8,S,R,0,1,1,1,4,-1
+2-Seam Fastball,90.5,12,B,R,1,1,1,1,4,-1
+Slider,92.3,13,B,R,2,1,1,1,4,-1
+2-Seam Fastball,86,14,B,R,3,1,1,1,4,-1
+2-Seam Fastball,92.6,5,S,R,3,2,1,1,4,-1
+Cutter,93.2,1,S,R,3,2,1,1,4,-1
+Slider,91.8,9,X,R,0,0,1,1,4,-2
+Slider,86.3,9,S,R,0,1,1,1,4,-2
+2-Seam Fastball,87.8,14,B,R,1,1,1,1,4,-2
+Slider,92.1,13,X,R,0,0,0,1,4,-5
+Changeup,85.9,8,S,R,0,1,0,1,4,-5
+Slider,85.3,3,S,R,0,2,0,1,4,-5
+2-Seam Fastball,86.5,12,B,R,1,2,0,1,4,-5
+Changeup,91.9,7,S,R,0,0,0,2,4,-5
+2-Seam Fastball,83,14,S,R,0,1,0,2,4,-5
+Slider,92.3,4,X,R,0,0,0,0,5,-5
+Slider,85.1,8,S,R,0,1,0,0,5,-5
+2-Seam Fastball,85.8,14,S,R,0,2,0,0,5,-5
+Changeup,92.4,14,S,L,0,0,0,1,5,-5
+Changeup,82.7,14,B,L,1,0,0,1,5,-5
+Slider,83.3,8,X,L,0,0,0,2,5,-5
+Slider,84.2,14,S,L,0,1,0,2,5,-5
+Cutter,85.6,13,B,L,1,1,0,2,5,-5
+Slider,90.8,11,B,L,2,1,0,2,5,-5
+2-Seam Fastball,84.4,13,B,L,3,1,0,2,5,-5
+2-Seam Fastball,92.2,13,B,L,0,0,1,2,5,-5
+Cutter,92.8,14,B,L,1,0,1,2,5,-5
+2-Seam Fastball,91,9,S,L,1,1,1,2,5,-5
+Changeup,91.9,5,S,L,1,2,1,2,5,-5
+Cutter,83.4,14,S,L,1,2,1,2,5,-5
+Slider,92.2,11,B,L,2,2,1,2,5,-5
+Slider,87.1,14,S,L,2,2,1,2,5,-5
+Cutter,85.7,14,X,L,0,0,0,0,6,-4
+Cutter,88.6,11,B,L,1,0,0,0,6,-4
+Changeup,90.6,14,S,L,1,1,0,0,6,-4
+Slider,82.4,8,X,R,0,0,0,0,6,-5
+2-Seam Fastball,86.3,12,S,R,0,1,0,0,6,-5
+Slider,92.9,14,B,R,1,1,0,0,6,-5
+2-Seam Fastball,85.7,5,X,R,0,0,0,1,6,-5
+Changeup,91.9,8,S,R,0,1,0,1,6,-5
+Cutter,85.3,14,B,R,1,1,0,1,6,-5
+Slider,92,14,B,R,2,1,0,1,6,-5
+Slider,86.8,14,S,R,2,2,0,1,6,-5
+Slider,86.3,14,X,R,0,0,0,2,6,-5
+Slider,85.2,14,B,R,1,0,0,2,6,-5
+2-Seam Fastball,85.4,14,B,R,2,0,0,2,6,-5
+2-Seam Fastball,91.6,7,S,R,2,1,0,2,6,-5
+2-Seam Fastball,92,11,B,R,3,1,0,2,6,-5
+2-Seam Fastball,92,5,X,L,0,0,0,0,1,0
+Cutter,93.3,11,S,L,0,1,0,0,1,0
+2-Seam Fastball,89.4,11,B,L,1,1,0,0,1,0
+Slider,93.1,5,S,L,1,2,0,0,1,0
+2-Seam Fastball,88,14,X,L,0,0,0,1,1,0
+2-Seam Fastball,92.8,8,S,L,0,1,0,1,1,0
+Cutter,93.2,4,S,L,0,2,0,1,1,0
+Slider,89.8,11,B,L,1,2,0,1,1,0
+Cutter,87,4,X,R,0,0,1,1,1,0
+Slider,90.2,12,B,R,1,0,1,1,1,0
+Cutter,87.2,5,S,R,1,1,1,1,1,0
+2-Seam Fastball,89.6,11,B,R,2,1,1,1,1,0
+Slider,92.4,9,S,R,2,2,1,1,1,0
+2-Seam Fastball,87.1,9,X,L,0,0,1,2,1,0
+Cutter,93.2,9,S,L,0,1,1,2,1,0
+Cutter,91.3,3,B,L,1,1,1,2,1,0
+2-Seam Fastball,90.8,2,B,L,2,1,1,2,1,0
+2-Seam Fastball,91.5,8,S,L,2,2,1,2,1,0
+2-Seam Fastball,92.4,14,B,L,3,2,1,2,1,0
+2-Seam Fastball,93.4,8,S,L,3,2,1,2,1,0
+Curveball,93.1,4,S,R,0,0,0,0,2,1
+Cutter,73.4,6,S,R,0,1,0,0,2,1
+2-Seam Fastball,91.8,12,B,R,1,1,0,0,2,1
+2-Seam Fastball,92.8,14,B,R,2,1,0,0,2,1
+Slider,92.7,5,S,R,2,2,0,0,2,1
+2-Seam Fastball,88.3,2,X,L,0,0,1,0,2,1
+2-Seam Fastball,93.3,13,B,L,1,0,1,0,2,1
+Curveball,93.1,7,X,L,0,0,0,2,2,1
+2-Seam Fastball,76.9,14,B,L,1,0,0,2,2,1
+2-Seam Fastball,94.4,14,B,L,2,0,0,2,2,1
+Slider,92.9,1,X,L,0,0,0,0,3,2
+Slider,84.9,11,B,L,1,0,0,0,3,2
+Cutter,84.8,14,S,L,1,1,0,0,3,2
+Slider,91.6,11,B,L,2,1,0,0,3,2
+Cutter,83.7,7,S,L,2,2,0,0,3,2
+Slider,91.7,3,B,L,3,2,0,0,3,2
+Slider,83.9,5,X,R,0,0,0,1,3,2
+Cutter,84.2,9,S,R,0,1,0,1,3,2
+2-Seam Fastball,91.7,14,B,R,1,1,0,1,3,2
+2-Seam Fastball,92.1,11,B,R,2,1,0,1,3,2
+2-Seam Fastball,93.2,5,S,R,2,2,0,1,3,2
+2-Seam Fastball,93.3,14,B,R,3,2,0,1,3,2
+Cutter,92.6,5,X,L,0,0,1,1,3,2
+Cutter,92,3,S,L,0,1,1,1,3,2
+Cutter,92.1,14,S,L,0,2,1,1,3,2
+4-Seam Fastball,92,14,S,L,0,2,1,1,3,2
+Cutter,93.6,11,B,L,1,2,1,1,3,2
+2-Seam Fastball,91.6,9,B,L,2,2,1,1,3,2
+Cutter,92.5,14,B,L,3,2,1,1,3,2
+2-Seam Fastball,91.8,9,S,L,0,0,1,2,3,2
+Changeup,93.2,14,B,L,1,0,1,2,3,2
+Cutter,89,8,X,R,0,0,1,2,3,1
+Slider,91.4,12,S,R,0,1,1,2,3,1
+2-Seam Fastball,84.8,14,X,L,0,0,0,0,4,1
+2-Seam Fastball,92.4,11,B,L,1,0,0,0,4,1
+Cutter,90.8,13,B,L,2,0,0,0,4,1
+2-Seam Fastball,90.8,2,S,L,2,1,0,0,4,1
+Cutter,92.1,5,S,L,2,2,0,0,4,1
+2-Seam Fastball,90.9,3,X,R,0,0,0,1,4,1
+2-Seam Fastball,93.5,14,B,R,1,0,0,1,4,1
+Cutter,93.1,9,S,R,1,1,0,1,4,1
+Slider,91.9,2,S,R,1,2,0,1,4,1
+2-Seam Fastball,87.4,14,X,L,0,0,0,2,4,1
+2-Seam Fastball,93.2,8,X,L,0,0,1,2,4,1
+Cutter,92.7,8,S,L,0,1,1,2,4,1
+Cutter,91.6,11,S,L,0,2,1,2,4,1
+Slider,91.3,11,B,L,1,2,1,2,4,1
+Cutter,85.7,4,S,L,0,0,0,0,5,1
+2-Seam Fastball,91.7,3,X,R,0,0,1,0,5,1
+2-Seam Fastball,92.7,14,B,R,1,0,1,0,5,1
+2-Seam Fastball,92.8,14,B,R,2,0,1,0,5,1
+2-Seam Fastball,93.5,14,S,R,2,1,1,0,5,1
+2-Seam Fastball,92.4,13,B,R,3,1,1,0,5,1
+2-Seam Fastball,92.8,2,S,R,3,2,1,0,5,1
+2-Seam Fastball,93.4,1,X,L,0,0,1,1,5,1
+2-Seam Fastball,93,14,B,L,1,0,1,1,5,1
+2-Seam Fastball,92.6,7,X,L,0,0,1,2,5,1
+4-Seam Fastball,93.1,7,X,R,0,0,1,2,5,0
+Cutter,93.6,14,B,R,1,0,1,2,5,0
+Slider,92.7,14,B,R,2,0,1,2,5,0
+Slider,87.2,9,S,R,2,1,1,2,5,0
+Slider,87.2,9,S,R,2,2,1,2,5,0
+Slider,86.5,9,S,R,2,2,1,2,5,0
+Cutter,86.9,14,S,R,2,2,1,2,5,0
+Slider,91.4,12,B,R,3,2,1,2,5,0
+Slider,84.6,2,S,R,3,2,1,2,5,0
+2-Seam Fastball,85.5,14,X,L,0,0,1,2,5,0
+2-Seam Fastball,91.1,7,S,L,0,1,1,2,5,0
+2-Seam Fastball,92.9,14,B,L,1,1,1,2,5,0
+Changeup,91.6,8,S,L,1,2,1,2,5,0
+2-Seam Fastball,86.2,11,B,L,2,2,1,2,5,0
+2-Seam Fastball,92.8,9,S,R,0,0,0,0,6,7
+Slider,90.7,7,S,R,0,1,0,0,6,7
+Slider,84.4,14,S,R,0,2,0,0,6,7
+Cutter,85.3,14,B,R,1,2,0,0,6,7
+Slider,91,3,B,R,2,2,0,0,6,7
+2-Seam Fastball,84,14,B,R,3,2,0,0,6,7
+2-Seam Fastball,91.9,9,X,L,0,0,0,1,6,7
+2-Seam Fastball,90.8,1,S,L,0,1,0,1,6,7
+Slider,91.4,13,S,L,0,2,0,1,6,7
+Cutter,84,14,B,L,1,2,0,1,6,7
+Slider,90.5,11,B,L,2,2,0,1,6,7
+2-Seam Fastball,83.3,14,B,L,3,2,0,1,6,7
+2-Seam Fastball,91.5,4,S,L,3,2,0,1,6,7
+2-Seam Fastball,91.9,14,S,L,0,0,0,2,6,7
+2-Seam Fastball,92.3,5,X,L,0,0,0,0,1,0
+Slider,91.4,4,X,R,0,0,0,1,1,0
+4-Seam Fastball,83.3,8,S,R,0,1,0,1,1,0
+Cutter,93.7,1,B,R,1,1,0,1,1,0
+4-Seam Fastball,90.4,2,S,R,1,2,0,1,1,0
+Slider,93.6,11,B,R,2,2,0,1,1,0
+Slider,86.9,9,X,L,0,0,0,2,1,0
+Cutter,85.3,13,B,L,1,0,0,2,1,0
+Cutter,91.5,1,S,L,1,1,0,2,1,0
+4-Seam Fastball,91.6,2,S,L,1,2,0,2,1,0
+Cutter,94,2,S,L,1,2,0,2,1,0
+Slider,91.5,1,B,L,2,2,0,2,1,0
+2-Seam Fastball,85,8,X,R,0,0,0,0,2,0
+Slider,91.6,7,S,R,0,1,0,0,2,0
+Slider,84.5,14,S,R,0,2,0,0,2,0
+Curveball,84.6,12,S,L,0,0,0,1,2,0
+Slider,71.5,14,B,L,1,0,0,1,2,0
+2-Seam Fastball,84.7,9,X,R,0,0,0,2,2,0
+2-Seam Fastball,92.9,8,S,R,0,1,0,2,2,0
+2-Seam Fastball,91.7,4,X,R,0,0,0,0,3,0
+Cutter,92.5,3,S,R,0,1,0,0,3,0
+Slider,89.9,12,B,R,1,1,0,0,3,0
+Cutter,83.9,3,S,R,1,2,0,0,3,0
+Slider,91.1,12,S,R,1,2,0,0,3,0
+Slider,86.3,14,S,L,0,0,0,1,3,0
+2-Seam Fastball,81.8,8,S,L,0,1,0,1,3,0
+Cutter,93,13,B,L,1,1,0,1,3,0
+Cutter,90.6,7,S,L,1,2,0,1,3,0
+Slider,90.6,12,B,L,2,2,0,1,3,0
+2-Seam Fastball,84.9,8,S,L,0,0,0,2,3,0
+Slider,93.1,13,B,L,1,0,0,2,3,0
+Cutter,84,2,S,L,1,1,0,2,3,0
+4-Seam Fastball,90.4,2,S,L,1,2,0,2,3,0
+Cutter,93.4,12,B,L,2,2,0,2,3,0
+Slider,91.6,2,X,L,0,0,1,2,3,0
+Slider,87.4,14,B,L,1,0,1,2,3,0
+2-Seam Fastball,87.2,14,B,L,2,0,1,2,3,0
+2-Seam Fastball,93.8,14,B,L,3,0,1,2,3,0
+2-Seam Fastball,92.9,4,S,L,3,1,1,2,3,0
+2-Seam Fastball,93.5,9,S,L,3,2,1,2,3,0
+4-Seam Fastball,93,5,X,R,0,0,0,0,4,0
+Slider,92.7,12,B,R,1,0,0,0,4,0
+4-Seam Fastball,85.9,6,S,R,1,1,0,0,4,0
+Cutter,93.2,2,S,R,1,2,0,0,4,0
+Cutter,90.9,14,B,R,2,2,0,0,4,0
+4-Seam Fastball,91.5,12,B,R,3,2,0,0,4,0
+2-Seam Fastball,93.7,11,B,L,0,0,1,0,4,0
+Cutter,92.7,2,S,L,0,1,1,0,4,0
+Cutter,92.2,12,B,L,1,1,1,0,4,0
+Cutter,91.3,12,B,L,2,1,1,0,4,0
+Slider,91.5,12,X,R,0,0,0,2,4,0
+2-Seam Fastball,85.9,6,S,R,0,1,0,2,4,0
+2-Seam Fastball,92.8,5,X,L,0,0,0,0,5,1
+Slider,92.3,11,B,L,1,0,0,0,5,1
+Slider,84.1,7,S,L,1,1,0,0,5,1
+4-Seam Fastball,82.9,9,S,L,1,2,0,0,5,1
+4-Seam Fastball,93.8,12,S,L,1,2,0,0,5,1
+Slider,93.4,11,S,L,1,2,0,0,5,1
+Cutter,85.5,14,S,L,1,2,0,0,5,1
+Cutter,91.1,11,B,L,2,2,0,0,5,1
+2-Seam Fastball,92.4,3,X,R,0,0,0,0,5,0
+2-Seam Fastball,93.3,13,B,R,1,0,0,0,5,0
+Slider,92.9,2,S,R,1,1,0,0,5,0
+Slider,85,5,X,R,0,0,0,1,5,0
+2-Seam Fastball,84.5,14,X,L,0,0,0,2,5,0
+2-Seam Fastball,92.4,14,B,L,1,0,0,2,5,0
+Slider,92.1,1,B,L,2,0,0,2,5,0
+2-Seam Fastball,81.9,11,B,L,3,0,0,2,5,0
+2-Seam Fastball,92.5,2,S,L,3,1,0,2,5,0
+Slider,92.3,2,X,L,0,0,0,2,5,-1
+2-Seam Fastball,85.9,13,B,L,1,0,0,2,5,-1
+2-Seam Fastball,92.4,14,B,L,2,0,0,2,5,-1
+Slider,92.2,4,S,L,2,1,0,2,5,-1
+Slider,86,13,S,L,2,2,0,2,5,-1
+Cutter,86.4,4,S,L,2,2,0,2,5,-1
+2-Seam Fastball,91.1,3,X,L,0,0,0,0,6,-1
+Cutter,92.7,14,S,L,0,1,0,0,6,-1
+Slider,91.2,11,S,L,0,2,0,0,6,-1
+Cutter,83.3,4,S,L,0,2,0,0,6,-1
+Slider,90.9,11,B,L,1,2,0,0,6,-1
+Slider,85,4,X,R,0,0,0,1,6,-1
+Slider,84.4,14,B,R,1,0,0,1,6,-1
+Slider,84.9,5,S,R,1,1,0,1,6,-1
+Slider,86.5,14,X,L,0,0,0,2,6,-1
+Slider,85.1,8,X,R,0,0,0,0,7,-1
+Slider,83.7,1,S,R,0,1,0,0,7,-1
+Cutter,86.8,14,S,R,0,2,0,0,7,-1
+2-Seam Fastball,91.5,9,X,L,0,0,0,1,7,-1
+Changeup,93.2,7,S,L,0,1,0,1,7,-1
+2-Seam Fastball,87.6,13,B,L,1,1,0,1,7,-1
+Cutter,93,13,X,R,0,0,0,2,7,-1
+Slider,91.1,1,S,R,0,1,0,2,7,-1
+Slider,87.3,14,B,R,1,1,0,2,7,-1
+Slider,87.7,14,B,R,2,1,0,2,7,-1
+Slider,85.4,11,S,R,2,2,0,2,7,-1
+2-Seam Fastball,87.5,9,S,R,2,2,0,2,7,-1
+2-Seam Fastball,91.8,4,X,R,0,0,0,0,8,-1
+Slider,92.9,6,S,R,0,1,0,0,8,-1
+Slider,85.6,3,S,R,0,2,0,0,8,-1
+Slider,88.9,14,B,R,1,2,0,0,8,-1
+2-Seam Fastball,88,14,S,R,1,2,0,0,8,-1
+Slider,92.9,11,S,R,1,2,0,0,8,-1
+2-Seam Fastball,88,14,X,R,0,0,0,0,1,0
+2-Seam Fastball,93.2,7,B,R,1,0,0,0,1,0
+2-Seam Fastball,92.7,2,X,L,0,0,0,1,1,0
+Cutter,93.4,8,S,L,0,1,0,1,1,0
+Cutter,90.6,12,S,L,0,2,0,1,1,0
+Slider,92.4,3,X,R,0,0,0,2,1,0
+4-Seam Fastball,87.6,7,S,R,0,1,0,2,1,0
+Cutter,94.4,4,S,R,0,2,0,2,1,0
+Slider,92.8,6,S,R,0,2,0,2,1,0
+Slider,90.6,14,B,R,1,2,0,2,1,0
+Slider,87.3,3,X,R,0,0,0,0,2,1
+4-Seam Fastball,85.1,8,S,R,0,1,0,0,2,1
+Cutter,92.9,11,B,R,1,1,0,0,2,1
+Slider,90.8,2,S,R,1,2,0,0,2,1
+Cutter,87.5,12,B,R,2,2,0,0,2,1
+Cutter,91.3,11,B,R,3,2,0,0,2,1
+Slider,91.6,3,S,R,3,2,0,0,2,1
+2-Seam Fastball,85.2,3,X,L,0,0,0,1,2,1
+2-Seam Fastball,92.7,11,B,L,1,0,0,1,2,1
+Slider,92.8,11,B,L,2,0,0,1,2,1
+Cutter,82.7,11,S,L,2,1,0,1,2,1
+2-Seam Fastball,91.1,11,B,L,3,1,0,1,2,1
+2-Seam Fastball,92.3,5,X,R,0,0,1,1,2,1
+2-Seam Fastball,93.1,2,S,R,0,1,1,1,2,1
+2-Seam Fastball,93.2,11,B,R,1,1,1,1,2,1
+Cutter,91.5,13,X,L,0,0,1,1,2,1
+2-Seam Fastball,90.7,6,X,R,0,0,1,2,2,1
+Cutter,92.9,12,B,R,1,0,1,2,2,1
+2-Seam Fastball,92.2,14,B,R,2,0,1,2,2,1
+Slider,93.7,12,S,R,2,1,1,2,2,1
+Cutter,85.3,11,S,R,2,2,1,2,2,1
+2-Seam Fastball,92.7,12,X,L,0,0,0,0,3,2
+Slider,93,4,S,L,0,1,0,0,3,2
+Slider,86.5,8,S,L,0,2,0,0,3,2
+Slider,87.1,13,S,R,0,0,0,1,3,2
+Cutter,85.2,2,S,R,0,1,0,1,3,2
+Slider,91.1,11,S,R,0,2,0,1,3,2
+Cutter,88.2,12,X,L,0,0,1,1,3,2
+2-Seam Fastball,92.6,14,S,L,0,1,1,1,3,2
+2-Seam Fastball,92.4,13,B,L,1,1,1,1,3,2
+Cutter,93.4,14,B,L,2,1,1,1,3,2
+2-Seam Fastball,92.4,14,B,L,3,1,1,1,3,2
+Cutter,92.1,11,B,R,0,0,1,1,3,2
+2-Seam Fastball,92.5,14,B,R,1,0,1,1,3,2
+Slider,93.1,8,S,R,1,1,1,1,3,2
+Cutter,87.6,9,S,R,1,2,1,1,3,2
+Cutter,93,3,S,R,1,2,1,1,3,2
+Slider,89.7,14,B,R,2,2,1,1,3,2
+2-Seam Fastball,85.4,14,X,R,0,0,1,2,3,2
+Cutter,93.8,14,B,R,1,0,1,2,3,2
+Cutter,92.3,3,S,R,1,1,1,2,3,2
+Cutter,92.4,3,S,R,1,2,1,2,3,2
+4-Seam Fastball,93.3,2,S,R,1,2,1,2,3,2
+Slider,94.5,12,S,R,1,2,1,2,3,2
+Slider,87.3,12,X,R,0,0,0,0,4,2
+Slider,84.6,3,S,R,0,1,0,0,4,2
+Cutter,87.7,14,B,R,1,1,0,0,4,2
+2-Seam Fastball,91.3,14,B,R,2,1,0,0,4,2
+Slider,92.5,2,S,R,2,2,0,0,4,2
+Curveball,87.8,14,X,R,0,0,0,1,4,2
+Slider,72.8,8,S,R,0,1,0,1,4,2
+Slider,87.3,14,S,R,0,2,0,1,4,2
+Cutter,88.7,14,B,R,1,2,0,1,4,2
+Slider,91.4,11,B,R,2,2,0,1,4,2
+4-Seam Fastball,88.1,9,S,L,0,0,0,2,4,2
+Cutter,93,8,S,L,0,1,0,2,4,2
+Cutter,91.4,12,B,L,1,1,0,2,4,2
+Slider,91.5,2,S,L,1,2,0,2,4,2
+Slider,87.1,13,S,R,0,0,0,0,5,2
+Slider,86.3,3,S,R,0,1,0,0,5,2
+Slider,86,12,S,R,0,2,0,0,5,2
+4-Seam Fastball,89,14,B,R,1,2,0,0,5,2
+Slider,93.5,12,B,R,2,2,0,0,5,2
+Slider,88.1,14,S,L,0,0,0,1,5,2
+Cutter,86.2,13,B,L,1,0,0,1,5,2
+2-Seam Fastball,91.6,12,B,L,2,0,0,1,5,2
+Cutter,93.1,13,X,R,0,0,0,2,5,2
+Slider,92.5,12,B,R,1,0,0,2,5,2
+Slider,88.1,1,B,R,2,0,0,2,5,2
+Cutter,83.1,5,S,R,2,1,0,2,5,2
+Cutter,88,14,B,R,3,1,0,2,5,2
+Slider,92.2,3,X,L,0,0,0,0,6,5
+Cutter,85.7,4,S,L,0,1,0,0,6,5
+Changeup,91.1,11,B,L,1,1,0,0,6,5
+Changeup,86.7,14,S,L,1,2,0,0,6,5
+2-Seam Fastball,88.9,5,S,L,1,2,0,0,6,5
+Slider,93.2,7,X,R,0,0,1,0,6,5
+Cutter,87.6,14,B,R,1,0,1,0,6,5
+Cutter,92,4,S,R,1,1,1,0,6,5
+Slider,91.8,2,S,R,1,2,1,0,6,5
+Slider,88.1,14,X,R,0,0,1,1,6,5
+Cutter,87.8,14,S,R,0,1,1,1,6,5
+Cutter,92.2,12,B,R,1,1,1,1,6,5
+Slider,90.9,14,B,R,2,1,1,1,6,5
+Slider,86.8,14,S,R,2,2,1,1,6,5
+Slider,87.5,12,S,R,2,2,1,1,6,5
+Slider,86.6,14,B,R,3,2,1,1,6,5
+Cutter,86.8,6,S,R,3,2,1,1,6,5
+Cutter,91.9,9,S,R,0,0,1,2,6,5
+Slider,92.3,14,S,R,0,1,1,2,6,5
+Slider,87.2,14,S,R,0,2,1,2,6,5
+Slider,87.8,14,B,R,1,2,1,2,6,5
+Slider,87.6,14,B,R,2,2,1,2,6,5
+Cutter,89.3,14,B,R,3,2,1,2,6,5
+2-Seam Fastball,91.7,3,S,R,0,0,0,0,1,0
+2-Seam Fastball,92.5,5,X,L,0,0,1,0,1,0
+Cutter,92.6,11,X,L,0,0,1,0,1,-1
+Cutter,90.5,12,B,L,1,0,1,0,1,-1
+Slider,91.3,12,B,L,2,0,1,0,1,-1
+Slider,84,7,S,L,2,1,1,0,1,-1
+Cutter,84.7,9,S,L,2,2,1,0,1,-1
+Slider,91.6,14,B,L,3,2,1,0,1,-1
+2-Seam Fastball,85.2,14,S,L,3,2,1,0,1,-1
+2-Seam Fastball,92.8,14,B,R,0,0,1,0,1,-1
+Slider,93,6,S,R,0,1,1,0,1,-1
+Slider,86.9,14,S,R,0,2,1,0,1,-1
+Slider,87.2,14,B,R,1,2,1,0,1,-1
+Slider,86.8,14,S,R,0,0,1,1,1,-1
+Slider,86.9,9,S,R,0,1,1,1,1,-1
+Slider,85.7,9,S,R,0,2,1,1,1,-1
+Cutter,87.1,14,B,R,1,2,1,1,1,-1
+Slider,91.8,3,B,R,2,2,1,1,1,-1
+Cutter,87.2,9,X,L,0,0,1,2,1,-1
+2-Seam Fastball,91.4,3,X,R,0,0,1,2,1,-2
+Slider,92.6,5,S,R,0,1,1,2,1,-2
+Slider,86.5,12,X,R,0,0,0,0,2,-2
+Slider,83.1,4,S,R,0,1,0,0,2,-2
+Slider,84.3,4,S,R,0,2,0,0,2,-2
+Slider,88.4,14,B,R,1,2,0,0,2,-2
+Cutter,88.6,14,B,R,2,2,0,0,2,-2
+Cutter,91.3,3,S,L,0,0,0,1,2,-2
+Cutter,91.8,6,S,L,0,1,0,1,2,-2
+2-Seam Fastball,91.3,3,X,R,0,0,0,2,2,-2
+Slider,93,7,S,R,0,1,0,2,2,-2
+Cutter,86.9,14,S,R,0,2,0,2,2,-2
+Slider,91.3,2,S,R,0,2,0,2,2,-2
+Cutter,87.8,14,B,R,1,2,0,2,2,-2
+Slider,91.5,14,B,R,2,2,0,2,2,-2
+Slider,85.5,12,B,R,3,2,0,2,2,-2
+2-Seam Fastball,85.3,3,S,R,3,2,0,2,2,-2
+Slider,92.4,14,S,R,3,2,0,2,2,-2
+2-Seam Fastball,86.9,14,X,L,0,0,0,0,3,-2
+Slider,91.6,11,B,L,1,0,0,0,3,-2
+Cutter,83.2,1,S,L,1,1,0,0,3,-2
+2-Seam Fastball,90.1,12,B,L,2,1,0,0,3,-2
+Cutter,90.6,7,S,L,2,2,0,0,3,-2
+2-Seam Fastball,90.6,14,B,L,3,2,0,0,3,-2
+Slider,92.5,5,S,L,0,0,0,1,3,-2
+Cutter,87.3,13,B,L,1,0,0,1,3,-2
+2-Seam Fastball,91.5,14,S,L,1,1,0,1,3,-2
+Slider,92.9,14,B,L,2,1,0,1,3,-2
+Curveball,85,8,X,R,0,0,0,2,3,-2
+Cutter,74.4,14,B,R,1,0,0,2,3,-2
+Slider,91.1,12,B,R,2,0,0,2,3,-2
+2-Seam Fastball,85.8,1,B,R,3,0,0,2,3,-2
+Cutter,91.9,11,B,R,0,0,1,2,3,-2
+Slider,91.5,4,S,R,0,1,1,2,3,-2
+Cutter,86.9,14,B,R,1,1,1,2,3,-2
+2-Seam Fastball,91.3,11,X,L,0,0,0,0,4,-1
+Changeup,92,11,B,L,1,0,0,0,4,-1
+2-Seam Fastball,87.2,14,B,L,2,0,0,0,4,-1
+2-Seam Fastball,92,11,S,L,2,1,0,0,4,-1
+Slider,93.1,11,X,R,0,0,0,1,4,-1
+2-Seam Fastball,86.6,6,X,R,0,0,0,2,4,-1
+2-Seam Fastball,93.2,8,X,L,0,0,0,2,4,-2
+Cutter,92.8,5,S,L,0,1,0,2,4,-2
+Slider,92.1,6,S,L,0,2,0,2,4,-2
+Cutter,84.9,8,S,L,0,2,0,2,4,-2
+Slider,91.5,3,S,R,0,0,0,0,5,-2
+Changeup,81.6,12,B,R,1,0,0,0,5,-2
+2-Seam Fastball,89.5,11,B,R,0,0,0,0,1,0
+Slider,94.9,13,B,R,1,0,0,0,1,0
+2-Seam Fastball,84.6,9,B,R,2,0,0,0,1,0
+2-Seam Fastball,93.5,1,S,R,2,1,0,0,1,0
+2-Seam Fastball,94.4,11,X,R,0,0,0,1,1,0
+Cutter,95.4,14,B,R,1,0,0,1,1,0
+Cutter,93.4,11,B,R,2,0,0,1,1,0
+Slider,92.9,9,S,R,2,1,0,1,1,0
+Cutter,87.1,2,S,R,2,2,0,1,1,0
+Slider,92.7,2,X,L,0,0,1,1,1,0
+Cutter,88,13,B,L,1,0,1,1,1,0
+2-Seam Fastball,92.5,2,S,L,1,1,1,1,1,0
+Slider,93.6,11,X,R,0,0,0,0,2,0
+2-Seam Fastball,85.3,1,S,R,0,1,0,0,2,0
+2-Seam Fastball,92.1,9,X,R,0,0,1,0,2,0
+2-Seam Fastball,94.1,9,S,R,0,1,1,0,2,0
+Cutter,92.5,4,X,L,0,0,1,0,2,0
+Cutter,92.7,11,B,L,1,0,1,0,2,0
+Slider,92.2,2,X,R,0,0,1,1,2,0
+Cutter,89.7,14,B,R,1,0,1,1,2,0
+Cutter,91.9,12,B,R,2,0,1,1,2,0
+2-Seam Fastball,92.3,3,S,R,2,1,1,1,2,0
+Cutter,94.2,7,X,R,0,0,1,1,2,-2
+Cutter,92.1,14,B,R,1,0,1,1,2,-2
+Slider,91.5,6,S,R,1,1,1,1,2,-2
+Slider,87.5,14,S,R,1,2,1,1,2,-2
+Cutter,87.8,4,S,L,0,0,1,2,2,-2
+Cutter,92.3,14,B,L,1,0,1,2,2,-2
+Slider,91.6,12,B,L,2,0,1,2,2,-2
+Cutter,85.6,7,S,L,2,1,1,2,2,-2
+4-Seam Fastball,91.5,4,S,L,2,2,1,2,2,-2
+Slider,93.8,11,S,R,0,0,0,0,3,-2
+Cutter,86.9,2,S,R,0,1,0,0,3,-2
+Cutter,90.7,11,B,R,1,1,0,0,3,-2
+Slider,91.8,12,S,R,1,2,0,0,3,-2
+Cutter,87.5,14,S,R,0,0,0,1,3,-2
+Changeup,93,3,S,R,0,1,0,1,3,-2
+Slider,90.2,13,B,R,1,1,0,1,3,-2
+Slider,90.2,8,S,R,1,2,0,1,3,-2
+Cutter,89.6,12,B,R,2,2,0,1,3,-2
+Slider,91.9,12,B,R,3,2,0,1,3,-2
+Curveball,86.7,6,X,L,0,0,0,2,3,-2
+2-Seam Fastball,75.1,1,S,L,0,1,0,2,3,-2
+Cutter,91,4,X,R,0,0,0,0,4,-2
+Slider,91.5,12,X,R,0,0,1,0,4,-2
+2-Seam Fastball,88.5,9,X,L,0,0,1,1,4,-2
+Cutter,93.5,1,S,L,0,1,1,1,4,-2
+4-Seam Fastball,92.1,2,S,L,0,2,1,1,4,-2
+Cutter,94.9,11,B,L,1,2,1,1,4,-2
+Slider,92.2,11,B,L,2,2,0,2,4,-2
+Slider,89,13,S,R,0,0,0,0,5,0
+Cutter,86.5,9,S,R,0,1,0,0,5,0
+Slider,92.4,14,B,R,1,1,0,0,5,0
+Slider,87.7,5,S,R,1,2,0,0,5,0
+Cutter,88.4,14,B,R,2,2,0,0,5,0
+2-Seam Fastball,92.6,9,X,R,0,0,1,0,5,0
+Cutter,94.4,14,B,R,1,0,1,0,5,0
+Cutter,92.4,14,B,R,2,0,1,0,5,0
+2-Seam Fastball,93.6,14,B,R,3,0,1,0,5,0
+Slider,93.3,7,S,R,3,1,1,0,5,0
+Slider,87.9,14,S,R,3,2,1,0,5,0
+Cutter,88.7,7,B,L,0,0,1,0,5,0
+Cutter,92.4,1,X,R,0,0,1,1,5,0
+Slider,92.1,12,B,R,1,0,1,1,5,0
+Slider,88.8,8,B,R,2,0,1,1,5,0
+Slider,88.4,14,X,R,0,0,1,2,5,0
+Cutter,89.8,14,B,R,1,0,1,2,5,0
+4-Seam Fastball,93.1,9,S,R,1,1,1,2,5,0
+Slider,93.9,14,B,R,2,1,1,2,5,-1
+Slider,89.4,14,S,R,2,2,1,2,5,-1
+Slider,90.6,14,B,R,3,2,1,2,5,-1
+2-Seam Fastball,88,11,B,L,0,0,1,2,5,-1
+Cutter,93.3,7,S,L,0,1,1,2,5,-1
+Cutter,92,12,B,L,1,1,1,2,5,-1
+Slider,90.3,2,S,L,1,2,1,2,5,-1
+Slider,88.2,14,B,L,2,2,1,2,5,-1
+4-Seam Fastball,89.1,14,S,L,2,2,1,2,5,-1
+Slider,93.2,11,B,L,3,2,1,2,5,-1
+Slider,87.1,7,X,R,0,0,0,0,6,-1
+Slider,85,12,S,R,0,1,0,0,6,-1
+Cutter,87.8,14,S,R,0,2,0,0,6,-1
+Slider,91.4,12,B,R,1,2,0,0,6,-1
+Slider,88,14,B,R,2,2,0,0,6,-1
+Curveball,86.2,8,S,R,0,0,0,1,6,-1
+Cutter,73.9,12,B,R,1,0,0,1,6,-1
+Slider,92.1,6,S,R,1,1,0,1,6,-1
+Slider,86.3,6,S,R,1,2,0,1,6,-1
+Slider,88.6,14,S,L,0,0,0,2,6,-1
+Slider,86.9,2,S,L,0,1,0,2,6,-1
+Cutter,88.5,13,B,L,1,1,0,2,6,-1
+Cutter,91.8,11,B,L,2,1,0,2,6,-1
+Slider,91.6,14,S,L,2,2,0,2,6,-1
+Slider,86.9,11,B,L,3,2,0,2,6,-1
+Cutter,86.3,7,X,R,0,0,1,2,6,-1
+Cutter,92.7,14,B,R,1,0,1,2,6,-1
+Cutter,92.2,9,S,R,1,1,1,2,6,-1
+Slider,91.5,2,S,R,1,2,1,2,6,-1
+2-Seam Fastball,88.3,9,S,R,0,0,0,0,1,1
+Slider,92.7,4,S,R,0,1,0,0,1,1
+Slider,84.6,9,S,R,0,2,0,0,1,1
+Cutter,87,14,B,R,1,2,0,0,1,1
+2-Seam Fastball,91.8,5,X,L,0,0,1,0,1,1
+2-Seam Fastball,92.8,7,S,L,0,1,1,0,1,1
+Cutter,92.3,13,B,L,1,1,1,0,1,1
+Slider,92.6,12,X,R,0,0,1,0,1,1
+Cutter,87.3,14,B,R,1,0,1,0,1,1
+Slider,90.8,14,S,R,1,1,1,0,1,1
+Slider,87.2,14,S,R,1,2,1,0,1,1
+Slider,87.5,14,S,R,0,0,1,1,1,1
+Slider,88.6,8,X,L,0,0,1,2,1,1
+2-Seam Fastball,87.2,14,B,L,1,0,1,2,1,1
+Slider,94,14,B,L,2,0,1,2,1,1
+Slider,88,7,S,L,2,1,1,2,1,1
+Slider,87,11,S,L,2,2,1,2,1,1
+Slider,86.4,7,S,L,2,2,1,2,1,1
+2-Seam Fastball,87.8,14,S,L,0,0,0,0,2,2
+Changeup,92.7,13,S,L,0,1,0,0,2,2
+4-Seam Fastball,87.6,13,S,L,0,2,0,0,2,2
+2-Seam Fastball,93.7,5,X,L,0,0,1,0,2,2
+Cutter,93.5,13,B,L,1,0,1,0,2,2
+Slider,92.5,14,B,L,2,0,1,0,2,2
+Cutter,86.4,14,S,L,2,1,1,0,2,2
+Slider,91.8,4,X,R,0,0,1,1,2,2
+2-Seam Fastball,87.8,14,B,R,1,0,1,1,2,2
+Slider,93.2,8,S,R,1,1,1,1,2,2
+2-Seam Fastball,87.8,14,X,R,0,0,1,2,2,2
+Cutter,93.4,14,B,R,1,0,1,2,2,2
+Slider,92.6,12,B,R,2,0,1,2,2,2
+2-Seam Fastball,86.5,14,B,R,3,0,1,2,2,2
+Cutter,93.8,7,S,R,3,1,1,2,2,2
+2-Seam Fastball,92.3,4,X,R,0,0,0,0,3,2
+Slider,92.2,11,B,R,1,0,0,0,3,2
+Slider,84,12,B,R,2,0,0,0,3,2
+2-Seam Fastball,82.2,4,X,L,0,0,1,0,3,2
+Cutter,93,11,B,L,1,0,1,0,3,2
+2-Seam Fastball,91.7,1,S,L,1,1,1,0,3,2
+4-Seam Fastball,93.1,7,X,R,0,0,0,2,3,2
+Slider,93.8,8,S,R,0,1,0,2,3,2
+Slider,88.3,14,S,R,0,2,0,2,3,2
+Cutter,89.7,14,B,R,1,2,0,2,3,2
+Slider,91.6,12,B,R,2,2,0,2,3,2
+Slider,87.9,5,X,R,0,0,0,0,4,6
+Changeup,85.6,4,S,R,0,1,0,0,4,6
+2-Seam Fastball,86.5,14,B,R,1,1,0,0,4,6
+Cutter,94.5,14,B,R,2,1,0,0,4,6
+Slider,91.5,8,S,R,2,2,0,0,4,6
+2-Seam Fastball,88.7,9,X,L,0,0,0,1,4,6
+Cutter,93.3,13,B,L,1,0,0,1,4,6
+Changeup,91.8,4,S,L,1,1,0,1,4,6
+Slider,87.4,13,X,L,0,0,1,1,4,6
+Slider,88.1,13,B,L,1,0,1,1,4,6
+Cutter,87.2,14,S,L,1,1,1,1,4,6
+Slider,92.1,6,S,L,1,2,1,1,4,6
+2-Seam Fastball,88.6,14,X,L,0,0,1,1,4,6
+Slider,93.6,7,S,L,0,1,1,1,4,6
+Slider,87.4,14,S,L,0,2,1,1,4,6
+Slider,87.9,14,B,L,1,2,1,1,4,6
+Cutter,88.1,7,S,R,0,0,1,2,4,6
+2-Seam Fastball,92.7,6,X,R,0,0,0,0,5,6
+Cutter,92.3,11,S,R,0,1,0,0,5,6
+Slider,91.5,12,B,R,1,1,0,0,5,6
+Slider,82.8,3,B,R,2,1,0,0,5,6
+2-Seam Fastball,85.5,4,X,R,0,0,0,1,5,6
+2-Seam Fastball,93.5,11,B,R,1,0,0,1,5,6
+Cutter,93.3,14,B,R,2,0,0,1,5,6
+Changeup,91,5,X,L,0,0,0,2,5,6
+Changeup,88.9,8,S,L,0,1,0,2,5,6
+Cutter,88.8,14,X,R,0,0,0,0,6,11
+Cutter,91.1,13,B,R,1,0,0,0,6,11
+Cutter,89.1,5,S,R,1,1,0,0,6,11
+Slider,90.9,14,B,R,2,1,0,0,6,11
+Cutter,86.1,1,S,R,2,2,0,0,6,11
+Cutter,90.9,5,X,R,0,0,0,1,6,11
+Changeup,92.2,14,S,R,0,1,0,1,6,11
+Curveball,88.6,7,X,L,0,0,0,2,6,11
+Slider,70.4,1,S,L,0,1,0,2,6,11
+Slider,87.2,1,S,L,0,2,0,2,6,11
+Cutter,85.5,2,X,L,0,0,1,2,6,11
+2-Seam Fastball,90.5,11,B,L,1,0,1,2,6,11
+Cutter,92.3,8,S,L,1,1,1,2,6,11
+Slider,91.2,6,S,L,1,2,1,2,6,11
+Slider,87,14,B,L,2,2,1,2,6,11
+2-Seam Fastball,87.2,11,B,L,3,2,1,2,6,11
+2-Seam Fastball,92.7,5,S,L,0,0,0,0,7,12
+Slider,92.1,7,S,L,0,1,0,0,7,12
+Cutter,85,11,B,L,1,1,0,0,7,12
+2-Seam Fastball,91.3,12,B,L,2,1,0,0,7,12
+Slider,91.9,13,S,L,2,2,0,0,7,12
+2-Seam Fastball,86.1,14,B,L,3,2,0,0,7,12
+Changeup,92.8,14,S,R,0,0,0,1,7,12
+Slider,88.5,1,S,R,0,1,0,1,7,12
+Slider,87,14,B,R,1,1,0,1,7,12
+Slider,85.4,8,S,R,1,2,0,1,7,12
+Cutter,88.5,14,B,R,2,2,0,1,7,12
+Slider,91.7,12,B,R,3,2,0,1,7,12
+2-Seam Fastball,85.4,4,X,R,0,0,0,2,7,12
+Slider,92.9,14,B,R,1,0,0,2,7,12
+2-Seam Fastball,87.9,14,B,R,2,0,0,2,7,12
+2-Seam Fastball,92.4,5,X,L,0,0,0,0,1,0
+2-Seam Fastball,92.6,11,B,L,1,0,0,0,1,0
+2-Seam Fastball,93.4,13,X,R,0,0,0,1,1,0
+Cutter,93.4,8,S,R,0,1,0,1,1,0
+Slider,91.2,8,S,R,0,2,0,1,1,0
+Slider,87.1,14,B,R,1,2,0,1,1,0
+Slider,85.3,12,S,L,0,0,0,2,1,0
+2-Seam Fastball,85.4,14,B,L,1,0,0,2,1,0
+Slider,92.4,13,B,L,2,0,0,2,1,0
+Cutter,82.4,8,S,L,2,1,0,2,1,0
+2-Seam Fastball,91,6,S,L,2,2,0,2,1,0
+Slider,93.5,8,X,L,0,0,0,0,2,0
+Changeup,83.3,1,S,L,0,1,0,0,2,0
+Cutter,88.7,13,B,L,1,1,0,0,2,0
+2-Seam Fastball,90.3,14,B,L,2,1,0,0,2,0
+Slider,91.2,7,S,L,2,2,0,0,2,0
+2-Seam Fastball,86.4,14,B,L,3,2,0,0,2,0
+2-Seam Fastball,92.7,13,S,L,0,0,0,1,2,0
+Cutter,93.7,13,B,L,1,0,0,1,2,0
+2-Seam Fastball,91.4,13,S,L,1,1,0,1,2,0
+Slider,92.7,11,B,L,2,1,0,1,2,0
+2-Seam Fastball,85,11,B,L,3,1,0,1,2,0
+2-Seam Fastball,92.1,8,S,L,3,2,0,1,2,0
+Slider,93.1,13,X,L,0,0,1,1,2,0
+2-Seam Fastball,85.9,7,X,R,0,0,1,2,2,0
+Slider,93,14,B,R,1,0,1,2,2,0
+Slider,87.8,14,B,R,2,0,1,2,2,0
+Cutter,87.4,14,S,R,2,1,1,2,2,0
+Slider,90.9,6,S,R,2,2,1,2,2,0
+Slider,88.6,14,B,R,3,2,1,2,2,0
+2-Seam Fastball,87.7,8,S,L,0,0,0,0,3,0
+Changeup,91.6,7,S,L,0,1,0,0,3,0
+Cutter,88,13,B,L,1,1,0,0,3,0
+Slider,89.8,4,S,L,1,2,0,0,3,0
+Cutter,86,13,B,L,2,2,0,0,3,0
+2-Seam Fastball,90.7,5,X,R,0,0,1,0,3,0
+Slider,92.4,8,S,R,0,1,1,0,3,0
+Cutter,85.7,14,B,R,1,1,1,0,3,0
+Slider,91.2,6,S,R,1,2,1,0,3,0
+Slider,87.8,14,S,L,0,0,0,2,3,0
+Changeup,85.9,4,S,L,0,1,0,2,3,0
+Slider,89.7,13,S,L,0,2,0,2,3,0
+Cutter,87.9,14,B,L,1,2,0,2,3,0
+2-Seam Fastball,91.8,6,S,L,1,2,0,2,3,0
+2-Seam Fastball,92.6,14,B,L,2,2,0,2,3,0
+Cutter,90.7,13,S,L,2,2,0,2,3,0
+Slider,91.9,4,S,L,2,2,0,2,3,0
+Slider,87.2,14,S,R,0,0,0,0,4,0
+Slider,84.3,14,B,R,1,0,0,0,4,0
+Slider,82.5,12,B,R,2,0,0,0,4,0
+Slider,85.5,14,S,R,2,1,0,0,4,0
+2-Seam Fastball,86.8,6,X,L,0,0,0,1,4,0
+Cutter,92.5,13,B,L,1,0,0,1,4,0
+2-Seam Fastball,90.8,2,S,L,1,1,0,1,4,0
+Cutter,92.9,4,X,L,0,0,0,2,4,0
+Changeup,92.2,4,S,L,0,1,0,2,4,0
+Cutter,88.9,13,B,L,1,1,0,2,4,0
+Slider,91.9,14,B,L,2,1,0,2,4,0
+Cutter,85.5,3,S,L,2,2,0,2,4,0
+Slider,91.9,8,X,L,0,0,1,2,4,0
+Cutter,86.5,13,B,L,1,0,1,2,4,0
+2-Seam Fastball,91.5,5,X,L,0,0,0,0,5,0
+Cutter,91.2,13,B,L,1,0,0,0,5,0
+Changeup,89.5,3,S,L,1,1,0,0,5,0
+Slider,87.1,13,S,L,1,2,0,0,5,0
+Curveball,85.1,8,X,R,0,0,0,1,5,0
+Cutter,72.5,14,B,R,1,0,0,1,5,0
+Slider,90.7,14,B,R,2,0,0,1,5,0
+Cutter,84.1,1,S,R,2,1,0,1,5,0
+Slider,90.6,12,S,R,2,2,0,1,5,0
+Slider,86.4,14,B,R,3,2,0,1,5,0
+Slider,87.3,14,S,L,0,0,0,2,5,0
+2-Seam Fastball,85.5,8,S,L,0,1,0,2,5,0
+2-Seam Fastball,92.8,13,B,L,1,1,0,2,5,0
+Slider,92.3,11,B,L,2,1,0,2,5,0
+Slider,84.5,1,S,L,2,2,0,2,5,0
+Cutter,86,4,X,R,0,0,1,2,5,0
+Slider,90.5,5,X,L,0,0,1,2,5,-1
+Cutter,86.2,1,S,L,0,1,1,2,5,-1
+Cutter,91.5,12,B,L,1,1,1,2,5,-1
+Slider,91.2,11,X,R,0,0,0,0,6,-1
+Curveball,85.2,9,X,L,0,0,0,1,6,-1
+Slider,73.2,14,B,L,1,0,0,1,6,-1
+Cutter,85,7,S,L,1,1,0,1,6,-1
+Cutter,91.3,14,B,L,2,1,0,1,6,-1
+Cutter,90.7,14,X,L,0,0,0,2,6,-1
+Slider,91.2,7,S,L,0,1,0,2,6,-1
+Slider,81.8,13,B,L,1,1,0,2,6,-1
+Changeup,85,13,S,L,1,2,0,2,6,-1
+Slider,87.4,1,X,L,0,0,0,0,7,-1
+Cutter,83.9,11,S,L,0,1,0,0,7,-1
+2-Seam Fastball,89.6,12,B,L,1,1,0,0,7,-1
+Slider,91.5,7,X,L,0,0,0,1,7,-1
+2-Seam Fastball,83.7,13,B,L,1,0,0,1,7,-1
+Slider,91.5,11,B,L,2,0,0,1,7,-1
+2-Seam Fastball,84.5,11,B,L,3,0,0,1,7,-1
+Cutter,91.7,13,B,R,0,0,1,1,7,-1
+Slider,90.9,12,B,R,1,0,1,1,7,-1
+Slider,86.6,9,S,R,1,1,1,1,7,-1
+2-Seam Fastball,86.2,8,X,L,0,0,1,2,7,-1
+2-Seam Fastball,92.3,7,X,L,0,0,0,0,1,1
+2-Seam Fastball,93.2,11,B,L,1,0,0,0,1,1
+2-Seam Fastball,92.7,1,B,L,2,0,0,0,1,1
+Cutter,92.1,2,S,L,2,1,0,0,1,1
+2-Seam Fastball,91.1,5,X,L,0,0,1,0,1,1
+2-Seam Fastball,92.1,14,B,L,1,0,1,0,1,1
+2-Seam Fastball,93,8,B,L,2,0,1,0,1,1
+2-Seam Fastball,93.4,11,B,L,3,0,1,0,1,1
+Cutter,92.6,5,S,L,3,1,1,0,1,1
+2-Seam Fastball,90.7,6,S,L,3,2,1,0,1,1
+Slider,91.5,8,X,R,0,0,1,0,1,1
+2-Seam Fastball,85.9,14,B,R,1,0,1,0,1,1
+Slider,93.6,14,B,R,2,0,1,0,1,1
+2-Seam Fastball,85.4,14,S,R,2,1,1,0,1,1
+Slider,92.4,8,S,R,2,2,1,0,1,1
+Slider,87.3,14,B,R,3,2,1,0,1,1
+2-Seam Fastball,87.1,14,X,L,0,0,1,0,1,0
+Cutter,93.3,14,B,L,1,0,1,0,1,0
+Cutter,92.4,14,B,L,2,0,1,0,1,0
+2-Seam Fastball,91.8,14,B,L,3,0,1,0,1,0
+2-Seam Fastball,92.5,1,S,L,3,1,1,0,1,0
+2-Seam Fastball,92.8,8,X,L,0,0,1,0,1,0
+Cutter,93.3,9,S,L,0,1,1,0,1,0
+Cutter,91.6,12,X,R,0,0,1,1,1,0
+2-Seam Fastball,92.8,12,B,R,1,0,1,1,1,0
+Slider,93.1,4,S,R,1,1,1,1,1,0
+Slider,86.1,2,S,R,1,2,1,1,1,0
+Slider,86.9,14,B,R,2,2,1,1,1,0
+Slider,86.6,14,B,R,3,2,1,1,1,0
+2-Seam Fastball,85.8,5,S,R,3,2,1,1,1,0
+Slider,92.6,9,B,R,0,0,1,1,1,-1
+2-Seam Fastball,87.7,14,B,R,1,0,1,1,1,-1
+2-Seam Fastball,92.6,4,S,R,1,1,1,1,1,-1
+Slider,91.6,13,X,R,0,0,1,2,1,-1
+2-Seam Fastball,86.9,2,S,R,0,1,1,2,1,-1
+2-Seam Fastball,91.5,4,X,R,0,0,0,0,2,-1
+2-Seam Fastball,90.6,14,S,R,0,1,0,0,2,-1
+2-Seam Fastball,92.6,11,B,R,1,1,0,0,2,-1
+Slider,92.4,6,S,R,1,2,0,0,2,-1
+2-Seam Fastball,83.4,14,S,L,0,0,0,1,2,-1
+Changeup,92.4,14,B,L,1,0,0,1,2,-1
+Cutter,85.8,5,S,L,1,1,0,1,2,-1
+2-Seam Fastball,91.2,9,X,L,0,0,1,1,2,-1
+Cutter,92.8,13,B,L,1,0,1,1,2,-1
+2-Seam Fastball,91.4,8,S,L,1,1,1,1,2,-1
+Changeup,93.4,14,S,L,1,2,1,1,2,-1
+Slider,83.8,11,B,L,2,2,1,1,2,-1
+2-Seam Fastball,86.4,9,S,L,2,2,1,1,2,-1
+Cutter,91.9,9,S,L,2,2,1,1,2,-1
+2-Seam Fastball,92.1,4,X,R,0,0,1,1,2,-1
+2-Seam Fastball,92.1,4,X,L,0,0,1,2,2,-1
+Cutter,93.1,11,B,L,1,0,1,2,2,-1
+Changeup,91.4,14,B,L,2,0,1,2,2,-1
+Cutter,86.8,11,B,L,3,0,1,2,2,-1
+2-Seam Fastball,92,6,S,L,3,1,1,2,2,-1
+Cutter,92.6,7,S,L,3,2,1,2,2,-1
+2-Seam Fastball,91.5,6,X,L,0,0,0,0,3,-1
+Slider,92.4,8,S,L,0,1,0,0,3,-1
+2-Seam Fastball,85,5,S,L,0,2,0,0,3,-1
+2-Seam Fastball,92.9,2,X,R,0,0,0,1,3,-1
+2-Seam Fastball,92.4,14,B,R,1,0,0,1,3,-1
+Slider,92.4,8,S,R,1,1,0,1,3,-1
+2-Seam Fastball,87.7,14,B,R,2,1,0,1,3,-1
+Slider,91.7,4,S,R,2,2,0,1,3,-1
+Slider,87,14,S,R,0,0,0,2,3,-1
+2-Seam Fastball,83.4,9,S,R,0,1,0,2,3,-1
+2-Seam Fastball,92.4,13,S,R,0,2,0,2,3,-1
+Slider,92,14,B,R,1,2,0,2,3,-1
+Slider,86.2,14,B,R,2,2,0,2,3,-1
+Cutter,85.2,14,X,R,0,0,0,0,4,-1
+Slider,92,12,S,R,0,1,0,0,4,-1
+2-Seam Fastball,86.3,14,B,R,1,1,0,0,4,-1
+2-Seam Fastball,92.4,9,B,R,2,1,0,0,4,-1
+2-Seam Fastball,92.1,6,S,R,2,2,0,0,4,-1
+2-Seam Fastball,91.7,4,X,R,0,0,0,1,4,-1
+Changeup,91.2,2,S,R,0,1,0,1,4,-1
+Slider,89.4,13,B,R,1,1,0,1,4,-1
+Curveball,82.2,4,S,R,1,2,0,1,4,-1
+2-Seam Fastball,79,1,B,R,2,2,0,1,4,-1
+Cutter,90.7,1,S,R,2,2,0,1,4,-1
+2-Seam Fastball,88.9,12,S,L,0,0,0,2,4,-1
+Slider,92,1,S,L,0,1,0,2,4,-1
+Slider,83.2,13,B,L,1,1,0,2,4,-1
+Slider,83.8,5,X,L,0,0,0,0,5,-1
+2-Seam Fastball,85.3,1,S,L,0,1,0,0,5,-1
+2-Seam Fastball,92.2,12,B,L,1,1,0,0,5,-1
+2-Seam Fastball,92.1,2,X,R,0,0,1,0,5,-1
+Cutter,92.1,5,X,L,0,0,1,1,5,-1
+Cutter,92,14,B,L,1,0,1,1,5,-1
+2-Seam Fastball,91.3,3,S,L,1,1,1,1,5,-1
+Slider,92.7,13,B,L,2,1,1,1,5,-1
+2-Seam Fastball,85.3,14,B,L,3,1,1,1,5,-1
+2-Seam Fastball,93,14,B,R,0,0,0,0,1,0
+Cutter,92.4,3,S,R,0,1,0,0,1,0
+4-Seam Fastball,91.3,12,X,L,0,0,1,0,1,0
+2-Seam Fastball,93.3,11,B,L,1,0,1,0,1,0
+2-Seam Fastball,92,8,S,L,1,1,1,0,1,0
+2-Seam Fastball,92.6,7,X,R,0,0,1,1,1,0
+Cutter,93,6,S,R,0,1,1,1,1,0
+Slider,91.4,9,S,R,0,2,1,1,1,0
+2-Seam Fastball,88,14,B,R,1,2,1,1,1,0
+2-Seam Fastball,92.8,14,B,R,2,2,1,1,1,0
+Slider,92.6,14,B,R,3,2,1,1,1,0
+2-Seam Fastball,86,1,S,L,0,0,1,2,1,0
+2-Seam Fastball,93.4,14,B,L,1,0,1,2,1,0
+Cutter,93.8,7,S,L,1,1,1,2,1,0
+2-Seam Fastball,92.5,9,B,L,2,1,1,2,1,0
+Cutter,93,12,S,L,2,2,1,2,1,0
+2-Seam Fastball,92.2,5,S,L,2,2,1,2,1,0
+Cutter,92.6,14,B,L,3,2,1,2,1,0
+2-Seam Fastball,92.3,14,S,L,0,0,0,0,2,0
+Cutter,92.4,8,S,L,0,1,0,0,2,0
+2-Seam Fastball,91.6,3,S,L,0,2,0,0,2,0
+Cutter,92.7,14,B,L,1,2,0,0,2,0
+2-Seam Fastball,91.9,11,S,R,0,0,0,1,2,0
+Cutter,92.8,3,S,R,0,1,0,1,2,0
+2-Seam Fastball,91.5,14,B,R,1,1,0,1,2,0
+Slider,92.4,11,B,R,2,1,0,1,2,0
+Slider,83.5,5,S,R,2,2,0,1,2,0
+Cutter,87,14,S,R,0,0,0,2,2,0
+2-Seam Fastball,91.4,9,S,R,0,1,0,2,2,0
+Slider,91.9,11,S,R,0,2,0,2,2,0
+Slider,86.9,14,B,R,1,2,0,2,2,0
+Slider,86.9,14,B,R,2,2,0,2,2,0
+2-Seam Fastball,86.6,5,S,R,0,0,0,0,3,0
+2-Seam Fastball,92.2,8,X,R,0,0,1,0,3,0
+2-Seam Fastball,91.3,5,S,R,0,1,0,1,3,0
+Cutter,93.1,14,B,R,1,1,0,1,3,0
+2-Seam Fastball,91,14,B,R,2,1,0,1,3,0
+2-Seam Fastball,92,8,B,R,3,1,0,1,3,0
+2-Seam Fastball,92.9,2,S,R,3,2,0,1,3,0
+Cutter,92.1,5,S,R,0,0,0,2,3,0
+Cutter,92,3,S,R,0,1,0,2,3,0
+Slider,93,12,B,R,1,1,0,2,3,0
+Slider,86,14,S,R,1,2,0,2,3,0
+2-Seam Fastball,88.1,14,S,L,0,0,0,0,4,0
+Cutter,91.2,11,B,L,1,0,0,0,4,0
+Slider,90,3,S,L,1,1,0,0,4,0
+2-Seam Fastball,89.3,12,B,L,2,1,0,0,4,0
+Cutter,91.2,12,B,L,3,1,0,0,4,0
+Slider,90.6,2,X,R,0,0,1,0,4,0
+4-Seam Fastball,87.1,14,B,R,1,0,1,0,4,0
+Slider,92,6,S,R,1,1,1,0,4,0
+Slider,86.6,14,B,R,2,1,1,0,4,0
+2-Seam Fastball,86.1,14,S,R,2,2,1,0,4,0
+Slider,92.9,1,S,R,2,2,1,0,4,0
+Slider,88.3,14,S,R,2,2,1,0,4,0
+Slider,87.9,14,B,R,3,2,1,0,4,0
+2-Seam Fastball,86,5,X,L,0,0,1,0,4,-1
+Cutter,92.6,12,B,L,1,0,1,0,4,-1
+2-Seam Fastball,89.9,14,X,L,0,0,0,0,4,-3
+2-Seam Fastball,91.7,1,X,R,0,0,1,0,4,-3
+2-Seam Fastball,91.8,14,B,R,1,0,1,0,4,-3
+Slider,91.4,9,X,R,0,0,0,2,4,-3
+2-Seam Fastball,85.7,8,S,R,0,1,0,2,4,-3
+Slider,91.4,9,S,R,0,2,0,2,4,-3
+2-Seam Fastball,85.9,6,X,R,0,0,0,0,5,0
+2-Seam Fastball,91.8,4,X,R,0,0,0,1,5,0
+Slider,91.8,7,S,R,0,1,0,1,5,0
+Slider,86.3,14,S,R,0,2,0,1,5,0
+Slider,87.7,14,S,R,0,2,0,1,5,0
+Slider,83.9,14,B,R,1,2,0,1,5,0
+2-Seam Fastball,84.7,14,X,R,0,0,0,2,5,0
+2-Seam Fastball,92.7,3,S,R,0,1,0,2,5,0
+4-Seam Fastball,92.2,11,B,R,1,1,0,2,5,0
+Slider,92.1,14,B,R,2,1,0,2,5,0
+Slider,85.3,14,S,R,2,2,0,2,5,0
+2-Seam Fastball,87.7,14,B,R,3,2,0,2,5,0
+2-Seam Fastball,92.4,14,B,L,0,0,1,2,5,0
+2-Seam Fastball,92.6,11,B,L,1,0,1,2,5,0
+2-Seam Fastball,92.6,2,S,L,1,1,1,2,5,0
+2-Seam Fastball,92.4,8,X,R,0,0,1,2,5,0
+Cutter,92.7,9,S,R,0,1,1,2,5,0
+Slider,91.9,12,B,R,1,1,1,2,5,0
+2-Seam Fastball,86.6,14,B,R,2,1,1,2,5,0
+Slider,91.9,2,S,R,2,2,1,2,5,0
+Slider,87.3,14,B,R,3,2,1,2,5,0
+Cutter,86.9,6,S,R,3,2,1,2,5,0
+2-Seam Fastball,92.1,5,S,L,0,0,0,0,6,0
+Cutter,91.3,4,S,L,0,1,0,0,6,0
+2-Seam Fastball,91.3,11,B,L,1,1,0,0,6,0
+4-Seam Fastball,91.2,7,S,L,1,2,0,0,6,0
+Cutter,92.5,6,X,L,0,0,1,0,6,0
+2-Seam Fastball,91.2,14,B,L,1,0,1,0,6,0
+2-Seam Fastball,91.6,8,X,R,0,0,1,0,6,0
+Slider,91.9,14,B,R,1,0,1,0,6,0
+Slider,87.2,14,B,R,2,0,1,0,6,0
+Slider,86.2,14,S,R,2,1,1,0,6,0
+Slider,86.7,6,X,R,0,0,1,1,6,0
+Slider,86.3,6,S,R,0,1,1,1,6,0
+Slider,86.2,5,X,R,0,0,1,2,6,0
+Slider,87.3,6,S,R,0,1,1,2,6,0
+Slider,86.8,14,S,R,0,2,1,2,6,0
+Slider,87.3,12,B,R,1,2,1,2,6,0
+Slider,86.1,8,S,R,0,0,0,0,7,0
+Slider,86.7,14,S,R,0,1,0,0,7,0
+Slider,85.5,14,S,R,0,2,0,0,7,0
+Slider,85.1,14,B,R,1,2,0,0,7,0
+Cutter,85.6,14,B,R,2,2,0,0,7,0
+Slider,90.6,12,B,R,3,2,0,0,7,0
+Cutter,84.6,14,B,R,0,0,0,0,1,3
+Cutter,90.7,3,S,R,0,1,0,0,1,3
+Cutter,90.6,14,S,R,0,2,0,0,1,3
+Slider,90.4,14,B,R,1,2,0,0,1,3
+Slider,86,8,S,R,1,2,0,0,1,3
+Cutter,86.6,14,B,R,2,2,0,0,1,3
+Cutter,91.3,12,B,R,3,2,0,0,1,3
+4-Seam Fastball,90.6,5,S,L,0,0,0,1,1,3
+Cutter,93,1,S,L,0,1,0,1,1,3
+Slider,91.2,9,S,L,0,2,0,1,1,3
+Changeup,86.8,14,B,L,1,2,0,1,1,3
+Cutter,89.5,13,B,L,2,2,0,1,1,3
+2-Seam Fastball,91.2,6,S,L,2,2,0,1,1,3
+Cutter,92.7,13,S,L,2,2,0,1,1,3
+Cutter,91.4,8,X,L,0,0,0,2,1,3
+4-Seam Fastball,90.6,12,B,L,1,0,0,2,1,3
+2-Seam Fastball,93.2,1,B,L,2,0,0,2,1,3
+Cutter,92,6,S,L,2,1,0,2,1,3
+2-Seam Fastball,90,14,B,L,3,1,0,2,1,3
+Cutter,91.7,4,S,L,3,2,0,2,1,3
+Cutter,91.1,11,B,R,0,0,1,2,1,3
+Cutter,92.5,9,B,R,1,0,1,2,1,3
+Cutter,91.2,14,B,R,2,0,1,2,1,3
+Cutter,90.6,11,B,R,3,0,1,2,1,3
+2-Seam Fastball,91.6,9,B,L,0,0,1,2,1,3
+2-Seam Fastball,92.5,14,B,L,1,0,1,2,1,3
+2-Seam Fastball,92,8,S,L,1,1,1,2,1,3
+Cutter,91.3,7,X,L,0,0,1,2,1,3
+2-Seam Fastball,91.5,14,B,L,1,0,1,2,1,3
+Cutter,91.7,14,S,L,1,1,1,2,1,3
+Cutter,90,12,S,L,1,2,1,2,1,3
+Cutter,91.3,12,S,L,1,2,1,2,1,3
+Cutter,90.3,12,B,L,2,2,1,2,1,3
+2-Seam Fastball,90.8,9,S,L,0,0,0,0,2,6
+2-Seam Fastball,90.8,11,B,L,1,0,0,0,2,6
+2-Seam Fastball,92,13,B,L,2,0,0,0,2,6
+2-Seam Fastball,91,1,X,L,0,0,0,1,2,6
+2-Seam Fastball,92.2,7,B,L,1,0,0,1,2,6
+Cutter,92.4,4,S,L,1,1,0,1,2,6
+Cutter,90.5,12,S,L,1,2,0,1,2,6
+Cutter,90.4,7,S,L,1,2,0,1,2,6
+Cutter,89.8,11,B,L,2,2,0,1,2,6
+2-Seam Fastball,90.5,6,S,R,0,0,0,2,2,6
+2-Seam Fastball,91.2,2,B,R,1,0,0,2,2,6
+2-Seam Fastball,91.6,5,S,R,1,1,0,2,2,6
+Slider,91,5,S,R,1,2,0,2,2,6
+Cutter,83.6,14,S,R,0,0,0,0,3,7
+Cutter,90.3,12,B,R,1,0,0,0,3,7
+2-Seam Fastball,90.8,14,B,R,2,0,0,0,3,7
+2-Seam Fastball,91,11,B,R,3,0,0,0,3,7
+2-Seam Fastball,90.4,14,B,L,0,0,1,0,3,7
+2-Seam Fastball,91.1,14,B,L,1,0,1,0,3,7
+Cutter,92.3,4,S,L,1,1,1,0,3,7
+Cutter,89.8,2,S,L,1,2,1,0,3,7
+2-Seam Fastball,90.7,12,B,L,2,2,1,0,3,7
+Cutter,92.3,13,X,L,0,0,1,0,3,7
+2-Seam Fastball,90.9,12,S,L,0,1,1,0,3,7
+2-Seam Fastball,92.5,13,B,L,1,1,1,0,3,7
+2-Seam Fastball,91.2,13,B,L,2,1,1,0,3,7
+Cutter,91.6,11,B,L,3,1,1,0,3,7
+2-Seam Fastball,89.4,12,B,R,0,0,1,0,3,7
+2-Seam Fastball,92.3,7,X,L,0,0,1,1,3,6
+2-Seam Fastball,92.5,9,B,L,1,0,1,1,3,6
+2-Seam Fastball,91.7,11,X,L,0,0,0,0,4,6
+Slider,91.6,11,B,L,1,0,0,0,4,6
+2-Seam Fastball,82.4,11,B,L,2,0,0,0,4,6
+2-Seam Fastball,91.3,4,S,L,2,1,0,0,4,6
+2-Seam Fastball,91.8,7,X,L,0,0,0,1,4,6
+Slider,92.6,4,S,L,0,1,0,1,4,6
+Cutter,83.4,2,S,L,0,2,0,1,4,6
+Cutter,90.7,12,X,L,0,0,0,2,4,6
+2-Seam Fastball,89.8,11,B,L,1,0,0,2,4,6
+Cutter,91.1,9,S,L,1,1,0,2,4,6
+Cutter,90.4,13,B,L,2,1,0,2,4,6
+Cutter,90.7,14,S,L,2,2,0,2,4,6
+Cutter,90.2,11,B,L,3,2,0,2,4,6
+2-Seam Fastball,90.7,6,X,R,0,0,0,2,4,5
+2-Seam Fastball,92.3,3,S,R,0,1,0,2,4,5
+Slider,91.3,12,S,R,0,2,0,2,4,5
+Slider,82.7,4,X,R,0,0,0,0,5,7
+2-Seam Fastball,84.9,2,S,R,0,1,0,0,5,7
+Slider,91.8,1,S,R,0,2,0,0,5,7
+Slider,86.3,9,S,R,0,2,0,0,5,7
+2-Seam Fastball,85.5,14,B,R,1,2,0,0,5,7
+Cutter,91.9,9,B,R,2,2,0,0,5,7
+2-Seam Fastball,90.6,12,S,L,0,0,0,1,5,7
+Cutter,92.1,4,X,L,0,0,1,1,5,7
+Cutter,91,14,X,R,0,0,0,0,6,7
+Cutter,91,3,B,R,1,0,0,0,6,7
+Cutter,90.6,3,X,L,0,0,0,0,6,6
+Slider,91.2,2,S,L,0,1,0,0,6,6
+2-Seam Fastball,86.9,14,B,L,1,1,0,0,6,6
+Cutter,90.8,11,S,L,1,2,0,0,6,6
+Changeup,90.6,12,B,L,2,2,0,0,6,6
+2-Seam Fastball,86.6,13,S,L,2,2,0,0,6,6
+2-Seam Fastball,91.9,13,B,L,3,2,0,0,6,6
+2-Seam Fastball,91.6,5,X,L,0,0,0,0,1,0
+2-Seam Fastball,91.9,11,S,L,0,1,0,0,1,0
+Slider,91.2,11,B,L,1,1,0,0,1,0
+2-Seam Fastball,82.2,5,S,L,1,2,0,0,1,0
+2-Seam Fastball,92.3,13,X,L,0,0,0,1,1,0
+2-Seam Fastball,91.1,7,B,L,1,0,0,1,1,0
+2-Seam Fastball,92.6,8,X,L,0,0,1,1,1,0
+2-Seam Fastball,92.1,13,B,L,1,0,1,1,1,0
+Slider,91.7,11,B,L,2,0,1,1,1,0
+2-Seam Fastball,84.3,14,B,L,3,0,1,1,1,0
+Cutter,91.9,13,S,L,3,1,1,1,1,0
+2-Seam Fastball,90.4,8,S,L,3,2,1,1,1,0
+Cutter,91.5,5,X,R,0,0,1,2,1,0
+2-Seam Fastball,92.2,12,B,R,1,0,1,2,1,0
+2-Seam Fastball,92.2,4,S,R,1,1,1,2,1,0
+Slider,92,5,S,R,1,2,1,2,1,0
+Slider,85.7,6,S,R,1,2,1,2,1,0
+2-Seam Fastball,85.9,6,X,L,0,0,0,0,2,0
+Cutter,91.2,13,S,L,0,1,0,0,2,0
+Cutter,90.9,11,B,L,1,1,0,0,2,0
+2-Seam Fastball,90.4,12,B,L,2,1,0,0,2,0
+2-Seam Fastball,90,13,S,L,2,2,0,0,2,0
+Slider,92.5,9,S,L,2,2,0,0,2,0
+2-Seam Fastball,84.6,5,X,L,0,0,1,0,2,0
+Slider,91.8,5,X,R,0,0,0,2,2,0
+Cutter,84.9,14,B,R,1,0,0,2,2,0
+Slider,90.4,14,S,R,1,1,0,2,2,0
+2-Seam Fastball,86.4,14,B,R,2,1,0,2,2,0
+Cutter,91.9,9,S,R,2,2,0,2,2,0
+Cutter,90.6,14,B,R,3,2,0,2,2,0
+Cutter,90.4,3,S,R,3,2,0,2,2,0
+2-Seam Fastball,91.5,12,B,L,0,0,1,2,2,0
+2-Seam Fastball,91.3,1,S,L,0,1,1,2,2,0
+Cutter,90.5,9,S,L,0,2,1,2,2,0
+2-Seam Fastball,90.8,4,S,L,0,2,1,2,2,0
+Cutter,92.7,8,X,R,0,0,1,2,2,0
+2-Seam Fastball,89.6,14,B,R,1,0,1,2,2,0
+Changeup,91.5,2,S,R,1,1,1,2,2,0
+Slider,89.5,2,X,L,0,0,0,0,3,0
+2-Seam Fastball,82.9,6,S,L,0,1,0,0,3,0
+Cutter,91.8,13,B,L,1,1,0,0,3,0
+2-Seam Fastball,91.1,11,B,L,2,1,0,0,3,0
+2-Seam Fastball,92.7,8,X,L,0,0,1,0,3,0
+Cutter,92,1,S,L,0,1,1,0,3,0
+Cutter,90.8,13,B,L,1,1,1,0,3,0
+Slider,90.9,9,S,L,1,2,1,0,3,0
+Slider,85,5,S,L,1,2,1,0,3,0
+Cutter,86.4,4,S,L,1,2,1,0,3,0
+2-Seam Fastball,92,14,B,L,2,2,1,0,3,0
+Cutter,92.9,13,S,L,2,2,1,0,3,0
+Cutter,91.2,1,S,L,0,0,1,1,3,0
+2-Seam Fastball,92,6,X,R,0,0,1,1,3,0
+Cutter,92.3,13,X,L,0,0,1,2,3,-1
+Changeup,91.7,12,B,L,1,0,1,2,3,-1
+Cutter,88.1,7,X,L,0,0,0,0,4,-1
+Changeup,90.5,12,B,L,1,0,0,0,4,-1
+2-Seam Fastball,87.2,9,S,L,1,1,0,0,4,-1
+Cutter,92.7,5,X,R,0,0,0,1,4,-1
+2-Seam Fastball,91.6,3,S,R,0,1,0,1,4,-1
+Slider,92.8,8,X,L,0,0,0,2,4,-1
+Cutter,85.5,8,S,L,0,1,0,2,4,-1
+2-Seam Fastball,91,12,B,L,1,1,0,2,4,-1
+2-Seam Fastball,92,8,X,L,0,0,0,0,1,0
+2-Seam Fastball,92.1,11,B,L,1,0,0,0,1,0
+Changeup,90.9,5,S,L,1,1,0,0,1,0
+2-Seam Fastball,86.7,13,B,L,2,1,0,0,1,0
+2-Seam Fastball,92.3,6,S,L,2,2,0,0,1,0
+2-Seam Fastball,91.8,11,S,R,0,0,0,1,1,0
+2-Seam Fastball,93.1,14,S,R,0,1,0,1,1,0
+Slider,92.3,8,S,R,0,2,0,1,1,0
+Slider,85.5,14,B,R,1,2,0,1,1,0
+Cutter,85.5,12,S,R,1,2,0,1,1,0
+2-Seam Fastball,91,6,S,R,1,2,0,1,1,0
+Slider,92.6,11,B,R,2,2,0,1,1,0
+2-Seam Fastball,84,5,X,R,0,0,0,2,1,0
+2-Seam Fastball,93,1,X,R,0,0,0,0,2,0
+Cutter,91.6,11,B,R,1,0,0,0,2,0
+Slider,90.3,3,S,R,1,1,0,0,2,0
+2-Seam Fastball,84.9,6,X,L,0,0,0,1,2,0
+4-Seam Fastball,92.9,4,S,L,0,1,0,1,2,0
+Slider,93.2,11,B,L,1,1,0,1,2,0
+Slider,84.9,9,S,L,1,2,0,1,2,0
+Cutter,84.4,4,S,L,1,2,0,1,2,0
+2-Seam Fastball,91.6,12,B,L,2,2,0,1,2,0
+2-Seam Fastball,91.4,13,S,L,0,0,0,2,2,0
+Curveball,92.8,4,S,L,0,1,0,2,2,0
+2-Seam Fastball,72.2,8,S,L,0,2,0,2,2,0
+2-Seam Fastball,92.4,5,X,L,0,0,0,0,3,0
+2-Seam Fastball,91.3,13,B,L,1,0,0,0,3,0
+2-Seam Fastball,91,13,B,L,2,0,0,0,3,0
+2-Seam Fastball,91.6,7,X,R,0,0,0,1,3,0
+Slider,93,3,S,R,0,1,0,1,3,0
+2-Seam Fastball,85.2,14,B,R,1,1,0,1,3,0
+Cutter,92.4,12,B,R,2,1,0,1,3,0
+Cutter,89.8,12,B,R,3,1,0,1,3,0
+2-Seam Fastball,91.5,14,S,R,3,2,0,1,3,0
+2-Seam Fastball,93.2,1,S,R,0,0,0,2,3,0
+Cutter,91.9,2,S,R,0,1,0,2,3,0
+Curveball,89.3,6,S,R,0,2,0,2,3,0
+Slider,76.3,12,S,R,0,2,0,2,3,0
+2-Seam Fastball,84.9,14,B,R,1,2,0,2,3,0
+Slider,91.5,12,B,R,2,2,0,2,3,0
+Cutter,81.7,5,S,R,2,2,0,2,3,0
+2-Seam Fastball,91.6,14,B,R,3,2,0,2,3,0
+2-Seam Fastball,91.4,1,S,R,3,2,0,2,3,0
+2-Seam Fastball,91.5,14,B,L,0,0,1,2,3,0
+Slider,92.3,8,X,R,0,0,0,0,4,0
+Cutter,85.1,12,B,R,1,0,0,0,4,0
+2-Seam Fastball,89.5,2,B,R,2,0,0,0,4,0
+2-Seam Fastball,92.5,6,X,R,0,0,0,1,4,0
+Cutter,91.9,9,B,R,1,0,0,1,4,0
+2-Seam Fastball,90.7,6,X,R,0,0,0,2,4,0
+Cutter,92.7,4,S,R,0,1,0,2,4,0
+Slider,91.5,13,B,R,1,1,0,2,4,0
+Cutter,87.4,14,B,R,2,1,0,2,4,0
+2-Seam Fastball,91.4,11,B,R,3,1,0,2,4,0
+2-Seam Fastball,93.6,9,B,L,0,0,1,2,4,0
+Slider,93.1,13,X,L,0,0,1,2,4,0
+Changeup,86.2,7,S,L,0,1,1,2,4,0
+Slider,88.3,13,S,L,0,2,1,2,4,0
+Slider,84.1,14,B,L,1,2,1,2,4,0
+Changeup,86,14,B,L,2,2,1,2,4,0
+2-Seam Fastball,87.2,4,S,L,0,0,0,0,5,1
+Cutter,91.5,4,S,L,0,1,0,0,5,1
+Changeup,90.8,11,B,L,1,1,0,0,5,1
+2-Seam Fastball,85.7,11,X,R,0,0,1,0,5,1
+Cutter,92.3,13,B,R,1,0,1,0,5,1
+Slider,91,4,S,R,1,1,1,0,5,1
+Cutter,85.8,11,B,R,2,1,1,0,5,1
+2-Seam Fastball,90.9,4,X,R,0,0,0,0,5,-1
+2-Seam Fastball,92.4,14,B,R,1,0,0,0,5,-1
+Cutter,91.5,8,S,R,1,1,0,0,5,-1
+2-Seam Fastball,89,4,S,R,1,2,0,0,5,-1
+Cutter,91.4,14,S,L,0,0,0,1,5,-1
+Slider,91.7,12,B,L,1,0,0,1,5,-1
+2-Seam Fastball,85,9,S,L,1,1,0,1,5,-1
+Slider,92.4,8,X,R,0,0,0,2,5,-1
+Cutter,87.3,14,B,R,1,0,0,2,5,-1
+2-Seam Fastball,91,13,S,R,1,1,0,2,5,-1
+Slider,92.1,8,X,R,0,0,0,0,6,-1
+2-Seam Fastball,85.5,6,S,R,0,1,0,0,6,-1
+Cutter,92,11,B,R,1,1,0,0,6,-1
+2-Seam Fastball,90.8,14,B,R,2,1,0,0,6,-1
+2-Seam Fastball,91.4,7,X,R,0,0,1,0,6,-1
+2-Seam Fastball,91.7,8,S,R,0,1,1,0,6,-1
+2-Seam Fastball,92.2,5,X,L,0,0,0,0,6,-3
+Slider,92.6,14,B,L,1,0,0,0,6,-3
+Cutter,86.4,14,S,L,1,1,0,0,6,-3
+Slider,90.7,3,S,L,1,2,0,0,6,-3
+Slider,84.5,9,S,L,1,2,0,0,6,-3
+2-Seam Fastball,83,7,S,L,0,0,0,1,6,-3
+2-Seam Fastball,91.2,13,B,L,1,0,0,1,6,-3
+Cutter,90.9,13,S,L,1,1,0,1,6,-3
+Cutter,89.8,6,X,L,0,0,0,2,6,-3
+Cutter,89.8,12,B,L,1,0,0,2,6,-3
+Slider,89.9,3,S,L,1,1,0,2,6,-3
+Cutter,84.1,13,B,L,2,1,0,2,6,-3
+Cutter,90.2,14,S,L,2,2,0,2,6,-3
+2-Seam Fastball,89.2,3,S,L,0,0,0,0,1,1
+2-Seam Fastball,92.3,8,X,R,0,0,1,0,1,1
+Slider,92.9,13,B,R,1,0,1,0,1,1
+2-Seam Fastball,83.8,7,S,R,1,1,1,0,1,1
+Slider,93.3,7,S,R,1,2,1,0,1,1
+2-Seam Fastball,86.9,9,S,R,1,2,1,0,1,1
+2-Seam Fastball,92.6,13,B,R,2,2,1,0,1,1
+Slider,92.7,13,B,R,3,2,1,0,1,1
+Slider,85.1,6,X,L,0,0,1,1,1,1
+2-Seam Fastball,84.6,14,S,L,0,1,1,1,1,1
+Slider,93.1,6,S,L,0,2,1,1,1,1
+Slider,86,12,S,R,0,0,1,2,1,1
+Cutter,86.4,14,B,R,1,0,1,2,1,1
+Slider,91.3,11,S,R,1,1,1,2,1,1
+Slider,87.7,14,S,R,1,2,1,2,1,1
+2-Seam Fastball,88,14,X,L,0,0,0,0,2,1
+Slider,93,13,B,L,1,0,0,0,2,1
+2-Seam Fastball,84.1,6,X,L,0,0,0,0,2,0
+Changeup,93,4,S,L,0,1,0,0,2,0
+Cutter,89.5,8,S,L,0,2,0,0,2,0
+Changeup,90.8,12,B,L,1,2,0,0,2,0
+2-Seam Fastball,89.9,11,S,R,0,0,0,1,2,0
+2-Seam Fastball,93,13,B,R,1,0,0,1,2,0
+Slider,92.4,11,S,R,1,1,0,1,2,0
+2-Seam Fastball,88.4,14,B,R,2,1,0,1,2,0
+Cutter,92,4,X,L,0,0,1,1,2,0
+Cutter,90.9,12,B,L,1,0,1,1,2,0
+Changeup,90.6,14,S,L,1,1,1,1,2,0
+Changeup,89.5,13,S,L,1,2,1,1,2,0
+2-Seam Fastball,89.8,11,B,L,2,2,1,1,2,0
+Cutter,93.4,14,B,L,3,2,1,1,2,0
+Cutter,91.3,12,B,R,0,0,1,1,2,0
+Cutter,88.9,6,S,R,0,1,1,1,2,0
+Slider,90.7,12,S,R,0,2,1,1,2,0
+Changeup,85.2,2,X,L,0,0,1,2,2,0
+Cutter,88.8,1,S,L,0,1,1,2,2,0
+Slider,91.3,12,X,R,0,0,1,2,2,-1
+Slider,86.7,14,B,R,1,0,1,2,2,-1
+Changeup,87,5,X,L,0,0,0,0,3,-1
+2-Seam Fastball,88.9,1,X,R,0,0,0,1,3,-1
+Slider,94.3,14,B,R,1,0,0,1,3,-1
+2-Seam Fastball,87.7,3,S,R,1,1,0,1,3,-1
+2-Seam Fastball,93.5,11,B,R,2,1,0,1,3,-1
+Slider,92.9,1,S,R,2,2,0,1,3,-1
+2-Seam Fastball,87.5,14,S,L,0,0,0,2,3,-1
+2-Seam Fastball,93.1,13,B,L,1,0,0,2,3,-1
+Cutter,93.5,5,S,L,1,1,0,2,3,-1
+2-Seam Fastball,91.4,12,B,L,2,1,0,2,3,-1
+Cutter,91.8,13,X,L,0,0,1,2,3,-1
+Changeup,91.4,12,B,L,1,0,1,2,3,-1
+Changeup,90.1,12,S,L,1,1,1,2,3,-1
+Cutter,89.4,6,S,L,1,2,1,2,3,-1
+Slider,91.6,3,X,R,0,0,0,0,4,-1
+Slider,85.9,14,B,R,1,0,0,0,4,-1
+2-Seam Fastball,86.3,14,S,R,1,1,0,0,4,-1
+Cutter,92.9,13,B,R,2,1,0,0,4,-1
+Cutter,89.7,5,S,R,2,2,0,0,4,-1
+Changeup,90.5,14,X,L,0,0,0,1,4,-1
+2-Seam Fastball,89.3,11,S,L,0,1,0,1,4,-1
+Cutter,93.2,9,B,L,1,1,0,1,4,-1
+Changeup,91.3,12,B,L,2,1,0,1,4,-1
+2-Seam Fastball,86.6,13,B,L,3,1,0,1,4,-1
+2-Seam Fastball,91.9,4,S,L,3,2,0,1,4,-1
+2-Seam Fastball,92,13,S,L,3,2,0,1,4,-1
+2-Seam Fastball,91.9,13,X,R,0,0,0,2,4,-1
+Cutter,92.1,3,X,L,0,0,0,0,5,-1
+Changeup,89.9,8,S,L,0,1,0,0,5,-1
+Cutter,89.1,8,S,L,0,2,0,0,5,-1
+2-Seam Fastball,92.2,12,X,R,0,0,0,1,5,-1
+Cutter,93.2,14,B,R,1,0,0,1,5,-1
+Changeup,91.3,14,B,R,2,0,0,1,5,-1
+Slider,87.4,5,S,R,2,1,0,1,5,-1
+Cutter,86.3,11,B,R,3,1,0,1,5,-1
+2-Seam Fastball,91.5,2,S,R,3,2,0,1,5,-1
+2-Seam Fastball,92.8,14,B,L,0,0,1,1,5,-1
+Cutter,92.8,13,S,L,0,1,1,1,5,-1
+Slider,92.1,8,S,L,0,2,1,1,5,-1
+2-Seam Fastball,86.9,8,S,L,0,2,1,1,5,-1
+Slider,91.9,13,B,L,1,2,1,1,5,-1
+2-Seam Fastball,87.3,3,S,L,1,2,1,1,5,-1
+Cutter,93,14,B,L,2,2,1,1,5,-1
+2-Seam Fastball,90.7,12,S,R,0,0,1,2,5,-1
+Cutter,91.1,1,S,R,0,1,1,2,5,-1
+Cutter,90.5,12,B,R,1,1,1,2,5,-1
+Cutter,90.1,14,B,R,2,1,1,2,5,-1
+Slider,90.9,2,S,R,2,2,1,2,5,-1
+Cutter,87.2,3,X,L,0,0,0,0,6,-1
+Changeup,90.4,12,B,L,1,0,0,0,6,-1
+Cutter,87.9,6,S,L,1,1,0,0,6,-1
+2-Seam Fastball,90.9,7,S,L,1,2,0,0,6,-1
+2-Seam Fastball,93.2,14,S,L,0,0,0,1,6,-1
+2-Seam Fastball,93,14,S,L,0,1,0,1,6,-1
+Cutter,92.9,4,X,R,0,0,0,2,6,-1
+2-Seam Fastball,90.3,14,S,R,0,1,0,2,6,-1
+Slider,92.7,7,S,R,0,2,0,2,6,-1
+2-Seam Fastball,87.2,14,S,L,0,0,0,0,7,-1
+Cutter,92.5,13,B,L,1,0,0,0,7,-1
+2-Seam Fastball,91.4,14,S,L,1,1,0,0,7,-1
+2-Seam Fastball,91.9,8,X,L,0,0,0,0,1,0
+Cutter,93.1,14,B,L,1,0,0,0,1,0
+2-Seam Fastball,90.6,9,S,L,1,1,0,0,1,0
+Cutter,93.4,14,S,L,1,2,0,0,1,0
+Slider,91,14,B,L,2,2,0,0,1,0
+2-Seam Fastball,87.4,14,B,L,3,2,0,0,1,0
+Cutter,92.3,6,S,L,3,2,0,0,1,0
+Cutter,90.5,5,S,L,3,2,0,0,1,0
+2-Seam Fastball,90.5,9,X,R,0,0,0,0,1,-1
+Slider,92.7,8,S,R,0,1,0,0,1,-1
+2-Seam Fastball,87.4,14,B,R,1,1,0,0,1,-1
+2-Seam Fastball,93.5,9,X,L,0,0,1,0,1,-1
+2-Seam Fastball,92.7,13,S,L,0,1,1,0,1,-1
+Slider,92.9,14,X,R,0,0,1,0,1,-1
+2-Seam Fastball,87.8,14,B,R,1,0,1,0,1,-1
+2-Seam Fastball,93.1,8,S,R,1,1,1,0,1,-1
+4-Seam Fastball,91.8,7,S,R,1,2,1,0,1,-1
+2-Seam Fastball,92,3,X,R,0,0,1,1,1,-1
+2-Seam Fastball,93,13,B,R,1,0,1,1,1,-1
+Cutter,92.5,1,S,R,1,1,1,1,1,-1
+Slider,91.1,14,S,R,1,2,1,1,1,-1
+Cutter,87.3,14,X,L,0,0,1,1,1,-1
+Cutter,91.8,14,S,L,0,1,1,1,1,-1
+Cutter,90.4,12,S,L,0,2,1,1,1,-1
+Cutter,90.5,11,B,L,1,2,1,1,1,-1
+Slider,91.2,12,S,L,1,2,1,1,1,-1
+Slider,84.6,14,S,R,0,0,1,2,1,-1
+2-Seam Fastball,86.2,9,S,R,0,1,1,2,1,-1
+Slider,92.6,4,S,R,0,2,1,2,1,-1
+Changeup,88.2,14,B,R,1,2,1,2,1,-1
+2-Seam Fastball,88.7,13,B,R,2,2,1,2,1,-1
+2-Seam Fastball,92.9,11,X,L,0,0,0,0,2,-1
+Curveball,91,5,S,L,0,1,0,0,2,-1
+Cutter,77,14,B,L,1,1,0,0,2,-1
+2-Seam Fastball,90.4,5,X,L,0,0,0,1,2,-1
+2-Seam Fastball,91,13,B,L,1,0,0,1,2,-1
+2-Seam Fastball,91.3,5,S,L,1,1,0,1,2,-1
+Slider,92.2,3,S,L,1,2,0,1,2,-1
+Slider,83.3,14,S,L,0,0,0,2,2,-1
+2-Seam Fastball,84,14,B,L,1,0,0,2,2,-1
+Changeup,92.2,9,S,L,1,1,0,2,2,-1
+2-Seam Fastball,89.3,13,B,L,2,1,0,2,2,-1
+Slider,92.1,5,S,L,2,2,0,2,2,-1
+2-Seam Fastball,85.1,6,X,R,0,0,1,2,2,-1
+2-Seam Fastball,92.5,8,X,L,0,0,1,2,2,-1
+2-Seam Fastball,93.1,1,S,L,0,1,1,2,2,-1
+2-Seam Fastball,90.6,14,B,L,1,1,1,2,2,-1
+Changeup,92.5,14,B,L,2,1,1,2,2,-1
+2-Seam Fastball,88.5,11,B,L,3,1,1,2,2,-1
+Slider,92.3,14,S,L,3,2,1,2,2,-1
+Curveball,85.9,9,S,R,0,0,0,0,3,-1
+2-Seam Fastball,76,14,B,R,1,0,0,0,3,-1
+2-Seam Fastball,91.6,8,S,R,1,1,0,0,3,-1
+Slider,91.9,4,S,R,1,2,0,0,3,-1
+2-Seam Fastball,88.1,9,S,R,0,0,0,1,3,-1
+Cutter,92.8,11,B,R,1,0,0,1,3,-1
+2-Seam Fastball,91.2,14,B,R,2,0,0,1,3,-1
+Slider,92,14,S,R,2,1,0,1,3,-1
+Cutter,86,6,X,L,0,0,0,2,3,-1
+2-Seam Fastball,90.2,4,S,L,0,1,0,2,3,-1
+Slider,90.3,13,B,L,1,1,0,2,3,-1
+Slider,85.3,14,S,L,1,2,0,2,3,-1
+Slider,85.5,14,S,R,0,0,0,0,4,-1
+Slider,85.1,14,S,R,0,1,0,0,4,-1
+Changeup,86.2,14,B,R,1,1,0,0,4,-1
+2-Seam Fastball,86.9,14,B,R,2,1,0,0,4,-1
+2-Seam Fastball,91.6,7,X,L,0,0,1,0,4,-1
+Changeup,92.3,9,X,L,0,0,1,0,4,-1
+2-Seam Fastball,89.4,5,S,L,0,1,1,0,4,-1
+Changeup,92,14,B,L,1,1,1,0,4,-1
+Slider,90,3,S,L,1,2,1,0,4,-1
+2-Seam Fastball,86.4,14,B,L,2,2,1,0,4,-1
+2-Seam Fastball,91.2,14,S,L,0,0,1,1,4,-1
+2-Seam Fastball,92.7,14,B,L,1,0,1,1,4,-1
+Changeup,92.1,14,S,L,1,1,1,1,4,-1
+2-Seam Fastball,88.6,13,B,L,2,1,1,1,4,-1
+Changeup,92.4,8,S,L,2,2,1,1,4,-1
+Changeup,89.1,4,X,R,0,0,1,1,4,-2
+Cutter,88.5,5,X,L,0,0,1,1,4,-3
+Slider,91,2,B,L,1,0,1,1,4,-3
+2-Seam Fastball,85.5,14,S,L,1,1,1,1,4,-3
+2-Seam Fastball,92.3,14,X,R,0,0,1,1,4,-5
+Slider,93.6,4,S,R,0,1,1,1,4,-5
+2-Seam Fastball,87.1,14,B,R,1,1,1,1,4,-5
+Slider,91.8,4,X,R,0,0,1,2,4,-5
+4-Seam Fastball,85.2,14,X,L,0,0,0,0,1,0
+2-Seam Fastball,92.6,11,B,L,1,0,0,0,1,0
+4-Seam Fastball,91.4,5,S,L,1,1,0,0,1,0
+2-Seam Fastball,92.6,13,B,L,2,1,0,0,1,0
+4-Seam Fastball,91.2,4,X,L,0,0,0,1,1,0
+2-Seam Fastball,92.9,14,B,L,1,0,0,1,1,0
+2-Seam Fastball,91.4,3,X,L,0,0,1,1,1,0
+Cutter,91.8,14,B,L,1,0,1,1,1,0
+Cutter,89.7,12,S,L,1,1,1,1,1,0
+2-Seam Fastball,90.1,14,B,L,2,1,1,1,1,0
+2-Seam Fastball,90.4,13,X,R,0,0,1,2,1,0
+2-Seam Fastball,91.4,8,X,L,0,0,0,0,2,0
+Cutter,91.6,5,S,L,0,1,0,0,2,0
+Cutter,90,5,X,R,0,0,0,1,2,0
+Cutter,90.7,9,S,R,0,1,0,1,2,0
+Slider,90.1,6,S,R,0,2,0,1,2,0
+Slider,86.8,14,B,R,1,2,0,1,2,0
+2-Seam Fastball,85.1,14,B,R,2,2,0,1,2,0
+Cutter,91.7,7,S,R,2,2,0,1,2,0
+2-Seam Fastball,89.1,9,X,L,0,0,0,2,2,0
+Cutter,91.7,8,S,L,0,1,0,2,2,0
+2-Seam Fastball,88.8,14,B,L,1,1,0,2,2,0
+Cutter,91.5,4,X,L,0,0,1,2,2,0
+Cutter,89.8,14,S,L,0,1,1,2,2,0
+Slider,90.2,12,B,L,1,1,1,2,2,0
+Cutter,85.1,14,B,L,2,1,1,2,2,0
+Cutter,90.1,14,S,L,2,2,1,2,2,0
+2-Seam Fastball,90.6,14,S,L,0,0,0,0,3,1
+Cutter,91.6,14,B,L,1,0,0,0,3,1
+Changeup,90.7,9,S,L,1,1,0,0,3,1
+Cutter,89.9,13,S,L,1,2,0,0,3,1
+2-Seam Fastball,89.5,14,S,L,0,0,0,1,3,1
+Cutter,92.8,14,S,L,0,1,0,1,3,1
+Slider,89.6,14,B,L,1,1,0,1,3,1
+4-Seam Fastball,85.7,14,B,L,2,1,0,1,3,1
+2-Seam Fastball,92.6,14,B,L,3,1,0,1,3,1
+2-Seam Fastball,90.4,13,B,L,0,0,1,1,3,1
+2-Seam Fastball,91.9,11,B,L,1,0,1,1,3,1
+Cutter,92.2,11,B,L,2,0,1,1,3,1
+2-Seam Fastball,89.3,11,B,L,3,0,1,1,3,1
+2-Seam Fastball,92.6,4,S,L,3,1,1,1,3,1
+2-Seam Fastball,91.8,13,X,L,0,0,1,2,3,1
+Cutter,91.9,14,B,L,1,0,1,2,3,1
+Cutter,90.9,14,S,L,1,1,1,2,3,1
+2-Seam Fastball,90,3,X,R,0,0,0,0,4,6
+2-Seam Fastball,91.4,11,S,R,0,1,0,0,4,6
+Cutter,91.4,13,B,R,1,1,0,0,4,6
+Cutter,89.2,14,X,L,0,0,0,1,4,6
+Cutter,90.7,11,B,L,1,0,0,1,4,6
+Curveball,90.1,3,X,R,0,0,0,2,4,6
+2-Seam Fastball,76.4,13,S,R,0,1,0,2,4,6
+Curveball,92.1,13,S,R,0,2,0,2,4,6
+Cutter,78.5,14,B,R,1,2,0,2,4,6
+Slider,89.4,14,S,R,1,2,0,2,4,6
+Slider,86.8,14,S,L,0,0,0,0,5,6
+Cutter,84,11,B,L,1,0,0,0,5,6
+Slider,89.9,9,S,L,1,1,0,0,5,6
+2-Seam Fastball,85.7,13,B,L,2,1,0,0,5,6
+2-Seam Fastball,91.9,5,X,L,0,0,1,0,5,6
+Cutter,92.2,4,X,L,0,0,1,1,5,6
+Slider,90.6,2,S,L,0,1,1,1,5,6
+Cutter,85,14,S,L,0,2,1,1,5,6
+2-Seam Fastball,91.4,14,S,L,0,0,1,2,5,6
+Slider,92.4,13,B,L,1,0,1,2,5,6
+Cutter,84.6,14,S,L,1,1,1,2,5,6
+Slider,90.3,2,S,L,1,2,1,2,5,6
+Cutter,85.5,9,S,L,0,0,0,0,6,10
+2-Seam Fastball,90,8,S,L,0,1,0,0,6,10
+Slider,92.5,11,B,L,1,1,0,0,6,10
+Cutter,82.9,8,X,L,0,0,0,1,6,10
+2-Seam Fastball,90.4,14,B,L,1,0,0,1,6,10
+Cutter,91.8,9,S,L,1,1,0,1,6,10
+Slider,89.9,14,S,L,1,2,0,1,6,10
+2-Seam Fastball,85.1,14,S,R,0,0,0,2,6,10
+Slider,92.3,14,B,R,1,0,0,2,6,10
+Slider,83.9,14,B,R,2,0,0,2,6,10
+2-Seam Fastball,85.9,11,B,R,3,0,0,2,6,10
+2-Seam Fastball,90.5,11,B,L,0,0,1,2,6,10
+Cutter,92.2,11,B,L,1,0,1,2,6,10
+Cutter,90.4,5,S,L,1,1,1,2,6,10
+2-Seam Fastball,89.3,6,X,R,0,0,0,0,7,10
+Curveball,91.6,5,X,L,0,0,0,1,7,10
+Cutter,77.5,14,B,L,1,0,0,1,7,10
+Cutter,89.8,9,S,L,1,1,0,1,7,10
+Slider,89.8,14,B,L,2,1,0,1,7,10
+Cutter,84.3,13,B,L,3,1,0,1,7,10
+Cutter,89.8,8,S,L,3,2,0,1,7,10
+2-Seam Fastball,90.5,14,B,L,0,0,1,1,7,10
+Cutter,92.3,13,B,L,1,0,1,1,7,10
+2-Seam Fastball,90.6,14,B,L,2,0,1,1,7,10
+Cutter,91.5,14,B,L,3,0,1,1,7,10
+Slider,88.8,11,B,L,0,0,1,1,7,10
+Slider,85.7,6,S,L,0,1,1,1,7,10
+2-Seam Fastball,84.1,14,B,L,1,1,1,1,7,10
+Cutter,92,8,S,L,1,2,1,1,7,10
+Slider,89,4,S,L,1,2,1,1,7,10
+Cutter,85.1,14,S,L,1,2,1,1,7,10
+2-Seam Fastball,89.7,1,X,R,0,0,0,0,1,0
+2-Seam Fastball,92.7,12,B,R,1,0,0,0,1,0
+2-Seam Fastball,92.8,5,X,L,0,0,0,1,1,0
+Cutter,93,11,S,L,0,1,0,1,1,0
+2-Seam Fastball,90.2,14,B,L,1,1,0,1,1,0
+Cutter,93,14,B,L,2,1,0,1,1,0
+Cutter,90.1,9,X,R,0,0,0,2,1,0
+Curveball,91.4,12,S,R,0,1,0,2,1,0
+Cutter,77.5,4,S,R,0,2,0,2,1,0
+Slider,90.9,14,S,R,0,2,0,2,1,0
+2-Seam Fastball,87.9,9,S,L,0,0,0,0,2,0
+Cutter,93.4,11,B,L,1,0,0,0,2,0
+2-Seam Fastball,91.2,12,B,L,2,0,0,0,2,0
+2-Seam Fastball,91.8,11,B,L,3,0,0,0,2,0
+2-Seam Fastball,93.6,11,B,L,0,0,1,0,2,0
+Cutter,93,5,S,L,0,1,1,0,2,0
+2-Seam Fastball,91.5,6,X,L,0,0,0,2,2,0
+Cutter,93.1,8,S,L,0,1,0,2,2,0
+Cutter,92,14,S,L,0,2,0,2,2,0
+Cutter,90.7,14,B,L,1,2,0,2,2,0
+2-Seam Fastball,91.7,4,S,L,0,0,0,0,3,0
+Changeup,93.3,3,S,L,0,1,0,0,3,0
+2-Seam Fastball,89.4,13,B,L,1,1,0,0,3,0
+Cutter,92.8,13,B,L,2,1,0,0,3,0
+2-Seam Fastball,90.5,2,S,L,2,2,0,0,3,0
+2-Seam Fastball,93.2,7,B,L,3,2,0,0,3,0
+2-Seam Fastball,92.8,5,X,L,0,0,1,0,3,0
+Cutter,94.3,11,B,L,1,0,1,0,3,0
+2-Seam Fastball,92.2,14,S,L,1,1,1,0,3,0
+Cutter,93.7,8,S,L,1,2,1,0,3,0
+Cutter,90.9,11,B,L,2,2,1,0,3,0
+Cutter,91.1,1,S,L,2,2,1,0,3,0
+Slider,91,9,S,L,2,2,1,0,3,0
+2-Seam Fastball,87,1,X,R,0,0,1,1,3,0
+Cutter,91.7,5,S,R,0,1,1,1,3,0
+Cutter,87.5,8,S,R,0,2,1,1,3,0
+Cutter,90.8,14,S,R,0,0,1,2,3,0
+Cutter,91.9,6,S,R,0,1,1,2,3,0
+Cutter,91.3,3,X,L,0,0,0,0,4,0
+Changeup,90.8,3,S,L,0,1,0,0,4,0
+2-Seam Fastball,90.1,13,B,L,1,1,0,0,4,0
+Cutter,94.1,9,S,L,1,2,0,0,4,0
+Cutter,90.9,14,B,L,2,2,0,0,4,0
+2-Seam Fastball,91.4,14,S,R,0,0,0,1,4,0
+2-Seam Fastball,92.2,7,X,L,0,0,0,2,4,0
+2-Seam Fastball,93.9,14,B,L,1,0,0,2,4,0
+Cutter,93.8,4,S,L,1,1,0,2,4,0
+Cutter,91.7,12,S,L,1,2,0,2,4,0
+Changeup,92,14,B,L,2,2,0,2,4,0
+Cutter,89.9,13,B,L,3,2,0,2,4,0
+Changeup,91.7,14,S,L,0,0,0,0,5,0
+Cutter,89.4,4,S,L,0,1,0,0,5,0
+Changeup,91.5,11,B,L,1,1,0,0,5,0
+Cutter,89.1,13,B,L,2,1,0,0,5,0
+Slider,90.7,14,S,L,2,2,0,0,5,0
+2-Seam Fastball,84.7,5,S,L,2,2,0,0,5,0
+Cutter,93.6,14,B,L,3,2,0,0,5,0
+Slider,91.4,1,S,L,0,0,0,1,5,0
+Cutter,85.6,14,B,L,1,0,0,1,5,0
+Cutter,91.7,2,S,L,1,1,0,1,5,0
+2-Seam Fastball,92.5,5,S,L,1,2,0,1,5,0
+Cutter,92.2,14,S,L,1,2,0,1,5,0
+Cutter,91.3,11,B,L,2,2,0,1,5,0
+2-Seam Fastball,89.6,1,S,L,2,2,0,1,5,0
+Changeup,93,5,X,L,0,0,0,2,5,0
+2-Seam Fastball,89.8,8,X,L,0,0,1,2,5,0
+2-Seam Fastball,92.6,13,B,L,1,0,1,2,5,0
+2-Seam Fastball,92.4,7,S,L,1,1,1,2,5,0
+Cutter,93.9,1,X,R,0,0,0,0,6,4
+Cutter,90.3,12,B,R,1,0,0,0,6,4
+2-Seam Fastball,89.8,14,B,R,2,0,0,0,6,4
+2-Seam Fastball,92.1,6,S,R,2,1,0,0,6,4
+2-Seam Fastball,91.4,13,X,R,0,0,0,1,6,4
+Curveball,93.6,14,B,R,1,0,0,1,6,4
+Cutter,78.6,8,S,R,1,1,0,1,6,4
+2-Seam Fastball,90.8,14,S,R,1,2,0,1,6,4
+Cutter,92.4,7,X,L,0,0,1,1,6,4
+2-Seam Fastball,91,9,S,L,0,1,1,1,6,4
+2-Seam Fastball,92.7,9,S,L,0,2,1,1,6,4
+Cutter,92.7,13,B,L,1,2,1,1,6,4
+Cutter,91.6,3,S,L,1,2,1,1,6,4
+Cutter,90.9,9,X,R,0,0,1,2,6,4
+Cutter,91.8,14,B,R,1,0,1,2,6,4
+Changeup,91.4,8,X,L,0,0,0,0,7,4
+Cutter,87.7,11,B,L,1,0,0,0,7,4
+Cutter,92.2,14,B,L,2,0,0,0,7,4
+2-Seam Fastball,90.9,2,X,L,0,0,1,0,7,4
+Cutter,92.6,7,S,L,0,1,1,0,7,4
+Changeup,91.7,12,X,L,0,0,1,1,7,4
+2-Seam Fastball,88.2,11,B,L,1,0,1,1,7,4
+Changeup,93.5,14,B,L,2,0,1,1,7,4
+2-Seam Fastball,87.9,4,S,L,2,1,1,1,7,4
+Cutter,92.6,13,S,L,2,2,1,1,7,4
+Cutter,91,13,B,L,3,2,1,1,7,4
+Cutter,91.8,2,S,L,3,2,1,1,7,4
+Changeup,91.3,14,S,R,0,0,0,0,1,4
+2-Seam Fastball,90,14,B,R,1,0,0,0,1,4
+2-Seam Fastball,90.5,14,B,R,2,0,0,0,1,4
+2-Seam Fastball,90.7,2,X,L,0,0,0,1,1,4
+Slider,92,8,X,R,0,0,1,1,1,4
+2-Seam Fastball,85.5,14,B,R,1,0,1,1,1,4
+2-Seam Fastball,92.1,11,B,R,2,0,1,1,1,4
+2-Seam Fastball,91.2,11,B,R,3,0,1,1,1,4
+Slider,92,3,S,R,3,1,1,1,1,4
+Slider,86.9,2,S,R,3,2,1,1,1,4
+2-Seam Fastball,87,14,X,R,0,0,1,1,1,4
+2-Seam Fastball,92.9,1,S,R,0,1,1,1,1,4
+Slider,91.7,11,S,R,0,2,1,1,1,4
+2-Seam Fastball,88.3,12,X,L,0,0,1,2,1,3
+2-Seam Fastball,91.9,2,S,L,0,1,1,2,1,3
+Cutter,92.5,4,S,L,0,2,1,2,1,3
+2-Seam Fastball,88.8,12,S,R,0,0,0,0,2,3
+2-Seam Fastball,92.9,12,S,R,0,1,0,0,2,3
+2-Seam Fastball,91.9,11,X,R,0,0,0,1,2,3
+Curveball,91.9,12,B,R,1,0,0,1,2,3
+2-Seam Fastball,73.8,11,B,R,2,0,0,1,2,3
+Cutter,92.1,11,S,R,2,1,0,1,2,3
+2-Seam Fastball,88.5,8,X,R,0,0,0,2,2,3
+Slider,93.2,6,S,R,0,1,0,2,2,3
+2-Seam Fastball,85.7,14,X,R,0,0,0,0,3,3
+2-Seam Fastball,92.4,6,S,R,0,1,0,0,3,3
+2-Seam Fastball,92.1,11,S,R,0,2,0,0,3,3
+Slider,92.2,12,B,R,1,2,0,0,3,3
+Slider,85.3,3,S,R,1,2,0,0,3,3
+2-Seam Fastball,84.7,14,B,R,2,2,0,0,3,3
+2-Seam Fastball,92.1,9,S,R,0,0,0,1,3,3
+Slider,93,14,B,R,1,0,0,1,3,3
+Slider,85.8,3,S,R,1,1,0,1,3,3
+2-Seam Fastball,85.3,14,B,R,2,1,0,1,3,3
+2-Seam Fastball,92.9,14,S,R,2,2,0,1,3,3
+Cutter,92.2,5,S,R,2,2,0,1,3,3
+Curveball,89.4,14,X,L,0,0,0,2,3,3
+Cutter,74.9,2,X,R,0,0,0,0,4,3
+2-Seam Fastball,88.7,12,S,R,0,1,0,0,4,3
+Slider,92.1,11,B,R,1,1,0,0,4,3
+2-Seam Fastball,84.6,12,S,R,1,2,0,0,4,3
+2-Seam Fastball,92.4,14,B,R,2,2,0,0,4,3
+Curveball,92.3,4,X,R,0,0,0,1,4,3
+2-Seam Fastball,73.4,11,B,R,1,0,0,1,4,3
+2-Seam Fastball,91.5,1,S,R,1,1,0,1,4,3
+2-Seam Fastball,91.6,4,S,R,1,2,0,1,4,3
+Slider,92,14,B,R,2,2,0,1,4,3
+Cutter,87,9,S,R,2,2,0,1,4,3
+Slider,90.9,14,B,R,3,2,0,1,4,3
+2-Seam Fastball,87.1,6,S,R,3,2,0,1,4,3
+Slider,92.3,5,S,R,3,2,0,1,4,3
+Curveball,85.9,9,X,L,0,0,0,2,4,3
+2-Seam Fastball,72.6,12,B,L,1,0,0,2,4,3
+2-Seam Fastball,92.1,11,B,L,2,0,0,2,4,3
+Slider,92.1,11,S,L,2,1,0,2,4,3
+Slider,84.4,6,X,R,0,0,0,0,5,3
+Slider,84.9,11,B,R,1,0,0,0,5,3
+Slider,82,6,S,R,1,1,0,0,5,3
+2-Seam Fastball,87.7,6,S,R,1,2,0,0,5,3
+2-Seam Fastball,92.8,14,B,R,2,2,0,0,5,3
+Slider,92.3,3,S,R,2,2,0,0,5,3
+Curveball,86.2,12,X,R,0,0,0,1,5,3
+Slider,74.8,12,B,R,1,0,0,1,5,3
+2-Seam Fastball,84.3,3,S,R,1,1,0,1,5,3
+2-Seam Fastball,92.1,8,S,R,1,2,0,1,5,3
+Slider,92.7,12,X,R,0,0,0,2,5,3
+2-Seam Fastball,83.7,3,S,R,0,1,0,2,5,3
+Slider,91.5,3,X,R,0,0,0,2,5,2
+Slider,84,14,B,R,1,0,0,2,5,2
+2-Seam Fastball,83.4,6,S,R,1,1,0,2,5,2
+2-Seam Fastball,92.2,14,B,R,2,1,0,2,5,2
+Slider,91.2,3,S,R,2,2,0,2,5,2
+Cutter,83.4,6,S,R,2,2,0,2,5,2
+2-Seam Fastball,88.6,14,B,R,3,2,0,2,5,2
+Slider,91.7,14,B,R,0,0,1,2,5,2
+Slider,87.9,14,B,R,1,0,1,2,5,2
+2-Seam Fastball,85,6,S,R,1,1,1,2,5,2
+Cutter,91.8,1,S,R,1,2,1,2,5,2
+Cutter,89.2,14,B,R,2,2,1,2,5,2
+Slider,89.4,14,B,R,3,2,1,2,5,2
+Cutter,86.3,14,B,L,0,0,1,2,5,2
+2-Seam Fastball,90.6,14,B,L,1,0,1,2,5,2
+Changeup,92.6,5,S,L,1,1,1,2,5,2
+Cutter,88.6,13,B,L,2,1,1,2,5,2
+Cutter,90.6,12,B,L,3,1,1,2,5,2
+Changeup,89.5,9,S,L,3,2,1,2,5,2
+2-Seam Fastball,87,11,B,R,0,0,0,0,1,0
+2-Seam Fastball,92.7,11,B,R,1,0,0,0,1,0
+2-Seam Fastball,92.5,14,S,R,1,1,0,0,1,0
+2-Seam Fastball,92,8,X,L,0,0,1,0,1,0
+Cutter,92.3,1,S,L,0,1,1,0,1,0
+Cutter,90.3,6,S,L,0,2,1,0,1,0
+2-Seam Fastball,90.6,9,X,L,0,0,1,0,1,0
+2-Seam Fastball,93.2,13,B,L,1,0,1,0,1,0
+2-Seam Fastball,92.5,9,X,R,0,0,1,1,1,0
+2-Seam Fastball,93.6,13,S,R,0,1,1,1,1,0
+Cutter,93.2,7,X,L,0,0,1,1,1,-1
+Changeup,90.7,14,B,L,1,0,1,1,1,-1
+Cutter,87.4,4,X,L,0,0,1,1,1,-2
+2-Seam Fastball,89.8,1,B,L,1,0,1,1,1,-2
+Cutter,93,14,B,L,2,0,1,1,1,-2
+2-Seam Fastball,90.7,3,X,R,0,0,1,2,1,-2
+Cutter,91.6,13,B,R,1,0,1,2,1,-2
+Cutter,90.7,9,S,R,1,1,1,2,1,-2
+2-Seam Fastball,89.9,14,B,R,2,1,1,2,1,-2
+Cutter,91.6,2,S,R,2,2,1,2,1,-2
+Slider,88.9,8,S,R,2,2,1,2,1,-2
+Slider,85.5,14,B,R,3,2,1,2,1,-2
+2-Seam Fastball,86,14,S,L,0,0,0,0,2,-1
+Cutter,91.1,4,S,L,0,1,0,0,2,-1
+2-Seam Fastball,88.3,12,B,L,1,1,0,0,2,-1
+Slider,91.8,4,S,L,1,2,0,0,2,-1
+Cutter,84.1,14,B,L,2,2,0,0,2,-1
+Cutter,87.8,2,S,L,2,2,0,0,2,-1
+2-Seam Fastball,88.6,8,S,L,0,0,0,1,2,-1
+2-Seam Fastball,92.5,14,B,L,1,0,0,1,2,-1
+2-Seam Fastball,90.7,8,S,L,1,1,0,1,2,-1
+Slider,91.3,4,X,R,0,0,0,2,2,-1
+Cutter,86,14,B,R,1,0,0,2,2,-1
+Cutter,91.4,14,B,R,2,0,0,2,2,-1
+Slider,92.1,5,S,R,2,1,0,2,2,-1
+Slider,85.6,1,X,L,0,0,1,2,2,-1
+2-Seam Fastball,85.7,14,B,L,1,0,1,2,2,-1
+Cutter,92.9,14,B,L,2,0,1,2,2,-1
+Cutter,90.4,8,S,L,2,1,1,2,2,-1
+Slider,91,7,S,L,2,2,1,2,2,-1
+Slider,89,4,S,L,2,2,1,2,2,-1
+Cutter,86,8,S,L,2,2,1,2,2,-1
+Slider,90.6,5,S,L,2,2,1,2,2,-1
+Slider,89.9,13,X,L,0,0,0,0,3,-1
+Cutter,85.3,14,X,R,0,0,0,1,3,-1
+Slider,90.1,11,B,R,1,0,0,1,3,-1
+Slider,87.1,1,S,R,1,1,0,1,3,-1
+Cutter,86.4,14,B,R,2,1,0,1,3,-1
+Slider,90.9,13,B,R,3,1,0,1,3,-1
+2-Seam Fastball,87.2,14,B,L,0,0,1,1,3,-1
+2-Seam Fastball,92.9,4,S,L,0,1,1,1,3,-1
+Cutter,93,1,B,L,1,1,1,1,3,-1
+2-Seam Fastball,89.7,2,S,L,1,2,1,1,3,-1
+Cutter,92.8,7,S,L,1,2,1,1,3,-1
+Cutter,89.4,14,S,L,0,0,1,2,3,-1
+Cutter,90,6,X,R,0,0,0,0,4,0
+Slider,89.5,6,S,R,0,1,0,0,4,0
+Slider,87.3,8,S,R,0,2,0,0,4,0
+Cutter,87.5,14,S,L,0,0,0,1,4,0
+Cutter,89.4,11,B,L,1,0,0,1,4,0
+2-Seam Fastball,89.9,14,B,L,2,0,0,1,4,0
+Changeup,92.1,4,X,L,0,0,1,1,4,0
+Changeup,88.7,11,B,L,1,0,1,1,4,0
+Changeup,88.1,11,S,L,1,1,1,1,4,0
+Changeup,89.9,12,B,L,2,1,1,1,4,0
+Cutter,88.9,8,S,L,2,2,1,1,4,0
+2-Seam Fastball,87.3,9,X,R,0,0,1,2,4,0
+Slider,93.4,13,B,R,1,0,1,2,4,0
+Cutter,88.6,14,B,R,2,0,1,2,4,0
+2-Seam Fastball,91.9,14,B,R,3,0,1,2,4,0
+2-Seam Fastball,92,14,S,R,3,1,1,2,4,0
+Cutter,92.2,4,S,R,3,2,1,2,4,0
+Slider,90.2,6,S,L,0,0,0,0,5,2
+Slider,82.3,11,B,L,1,0,0,0,5,2
+Slider,83.6,14,S,L,1,1,0,0,5,2
+Slider,85.8,4,S,L,1,2,0,0,5,2
+Slider,86.3,14,B,L,2,2,0,0,5,2
+Slider,87,1,S,L,0,0,0,1,5,2
+Slider,83.8,13,B,L,1,0,0,1,5,2
+2-Seam Fastball,83.7,11,B,L,2,0,0,1,5,2
+Cutter,91.5,13,B,L,3,0,0,1,5,2
+Cutter,89.7,14,S,L,3,1,0,1,5,2
+2-Seam Fastball,89.1,12,S,L,3,2,0,1,5,2
+Cutter,90.6,14,X,R,0,0,0,2,5,2
+Cutter,89.4,1,S,R,0,1,0,2,5,2
+Slider,89,13,B,R,1,1,0,2,5,2
+Cutter,81.2,14,S,R,1,2,0,2,5,2
+Slider,91.6,12,B,R,2,2,0,2,5,2
+Cutter,75.2,14,B,R,3,2,0,2,5,2
+Cutter,89.7,14,X,L,0,0,0,0,6,2
+Slider,89.2,4,S,L,0,1,0,0,6,2
+Cutter,88.7,13,B,L,1,1,0,0,6,2
+2-Seam Fastball,90.2,14,B,L,2,1,0,0,6,2
+Cutter,90.7,11,B,L,3,1,0,0,6,2
+Cutter,88.5,4,S,L,3,2,0,0,6,2
+Cutter,89,9,S,L,3,2,0,0,6,2
+Curveball,89.2,4,X,L,0,0,0,1,6,2
+Slider,73.6,5,S,L,0,1,0,1,6,2
+Changeup,84.8,14,B,L,1,1,0,1,6,2
+2-Seam Fastball,88.9,11,B,L,2,1,0,1,6,2
+Cutter,90.4,14,B,L,3,1,0,1,6,2
+Cutter,89.2,5,S,L,3,2,0,1,6,2
+Slider,88.4,5,S,L,3,2,0,1,6,2
+Slider,84.6,14,S,R,0,0,0,2,6,2
+4-Seam Fastball,86,11,B,L,0,0,1,2,6,2
+2-Seam Fastball,90.9,13,S,L,0,1,1,2,6,2
+Slider,92,9,S,L,0,2,1,2,6,2
+Cutter,86.8,7,S,L,0,2,1,2,6,2
+Cutter,89.7,13,S,L,0,2,1,2,6,2
+Slider,88.8,14,B,L,1,2,1,2,6,2
+Cutter,84.5,14,B,L,2,2,1,2,6,2
+Cutter,89.3,14,B,L,3,2,1,2,6,2
